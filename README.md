@@ -165,35 +165,35 @@ Lottie Files - Create animations & export from Figma to Lot
 Figmap
 
 ## Reading - Articles / website
-Sketching
+### Sketching
 Sketching. How to use sketching in your design
 Concepts App • Infinite, Flexible Sketching / For Windows: Microsoft Paint 3D
 7 reasons for sketching in UX design
 UI/UX sketching techniques 101. UX design is indeed a complicated…
-Inspiration
+### Inspiration
 31 UX Design Inspiration Resources
 Dribbble - Discover the World's Top Designers & Creative Professionals
 Behance :: Best of Behance
 Pttrns: Mobile Design Patterns
 Panda — The homepage for your favorite websites
 Awwwards - Website Awards - Best Web Design Trends
-User Flows
+### User Flows
 What Are User Flows In UX Design? (A full beginner's guide)
 User flow is the new wireframe. An illustrated guide on the different…
-Sitemaps
+### Sitemaps
 Free Sitemap Generator
 Sitemaps - The Beginner's Guide - UXmentor.me
-Wireframes
+### Wireframes
 How to Create a Wireframe - A Beginner's Guide to Wireframing
-Getting Feedback
+### Getting Feedback
 How to give and receive great design feedback
-Spacing and Grids
+### Spacing and Grids
 Spacing, Grids and Layouts
 The Comprehensive 8pt Grid Guide. Start your UI project right with this…
-Typography
+### Typography
 Google Fonts
 Typography can make or break your design: a process for choosing type
-Color
+### Color
 Colorable
 Coolors - The super fast color schemes generator!
 Adobe Color: Color wheel, a color palette generator
@@ -202,11 +202,11 @@ Dark Mode Considerations
 Dark theme - Material Design
 A Complete Guide to Dark Mode on the Web | CSS-Tricks - CSS-Tricks
 Dark mode UI design – 7 best practices | Atmos
-Imagery and Iconography
+### Imagery and Iconography
 Noun Project: Free Icons for Everything
 Blush: Illustrations for everyone
 Material Icons
-Accessibility
+### Accessibility
 Colorable
 Contrast Checker
 Web Content Accessibility Guidelines (WCAG) 2.0
@@ -214,35 +214,34 @@ World Wide Web Consortium (W3C)
 Color Contrast Analyzer
 color safe
 A guide to color accessibility in product design
-
-
-Design Patterns
+### Design Patterns
 Design patterns
-Mobile Design
+### Mobile Design
 Human Interface Guidelines - Design
 Android Developers
-Visual Style and Exploration
+### Visual Style and Exploration
 Atomic Design Methodology
 What is Visual Design?
 5 Principles of Visual Design in UX
 More Padding, Please!
 Dark patterns in UX: how designers should be responsible for their actions
 UX & Psychology go hand in hand — Introduction to human attention
-Motion and Microinteractions
+### Motion and Microinteractions
 The ultimate guide to proper use of animation in UX
 Creating Usability with Motion: The UX in Motion Manifesto
 The importance of motion for UX design
 How to use microinteractions (uses, examples, tips)
 Better UX Through Microinteractions
 The ultimate guide to proper use of animation in UX
-Design System and Compositions
+### Design System and Compositions
 A comprehensive guide to design systems
 Everything you need to know about Design Systems
 A Collection of Design System Resources
 Design Systems Handbook
 Design Systems articles on building and maintaining design systems
-    *UX design Methodology & Human-centered design
-Intro
+
+## UX design Methodology & Human-centered design
+### Intro
 Norman, D. (2013). The design of everyday things: Revised and expanded
 edition. Basic Books, Chapter 1: The Psychopathology of Everyday Things, p.
 19-26 (up to “Fundamental Principles of Interaction”)
@@ -251,11 +250,11 @@ this PDF), AND How vision leads to steering, p.75-78. (aka p. 80-83 in this PDF)
 dSchool (2018) Design thinking bootleg deck. p. 1-12 (click link at right of webpage, will open a PDF)
 Baxter, K., Courage, C., & Caine, K. (2015). Understanding Your Users, Second Edition: A Practical Guide to User Research Methods. Morgan Kaufmann. ISBN-13: 978-0128002322 ; ISBN-10: 0128002328
 
-Problem space
+### Problem space
 Nielsen Norman Group (2021) Problem Statements in UX Discovery. 3 min read.
 Nielsen Norman Group (2016) UX Design Critiques: Cheat Sheet. 1 min Read.
 
-Interviewing
+### Interviewing
 Goodman M., Kuniavsky, E. & Moed, A.(2012) Observing the user experience,
 2nd ed. Ch. 6: Universal tools: recruiting and interviewing, Interviewing: p.
 117-127.
@@ -263,28 +262,28 @@ Nielsen Norman Group (2022). When to Use Which User-Experience Research
 Methods. 5 min read.
 Nielsen Norman Group (2018) User Interviews: How, When, and Why to Conduct Them. 6 min read.
 
-Analysis
+### Analysis
 Goodman M., Kuniavsky, E. & Moed, A.(2012) Observing the user experience: a
 practitioner's guide to user research.Chapter 15: analyzing qualitative data,p. 423-451
 Ulwick, T. (2017) What is Jobs To Be Done?. 11 min read.
 Interaction Design Foundation. Creating personas from user research results. 14
 min read.
 
-Solution space
+### Solution space
 Norman, D. (2013). The design of everyday things: Revised and expanded
 edition. Basic Books, Chapter 6: Design Thinking. p. 208-242.
 Design Council. (2005) A study of the design process: Eleven lessons:
 managing design in eleven global brands. p. 6-7.
 Service Design Academy (2018) The Double Diamond. YouTube. 2min 29s.
 
-Lo-fidelity prototyping
+### Lo-fidelity prototyping
 McCasland, A. (2021) AR careers: AR Product Prototyping. 4 min read.
 Shuhalii, A. (2010). What is the difference between low and high fidelity
 prototypes? 5 min read.
 Snyder, C. (2004). Paper prototyping: the fast and easy way to design and
 refine user interfaces. Chapter 3. p.49-67.
 
-High-fidelity prototyping
+### High-fidelity prototyping
 bWalinga, J. & Stangor, C.. (2014).Introduction to Psychology, 1st
 Canadian Edition, Chapter 9.1.Memories as Types and Stages. 10 min read.
 Cao, J. (2015). Applying visual psychology to modern day design. 6 min read.
@@ -292,35 +291,35 @@ Norman, D. (2002) Design of everyday things, Chapter 1. The psychopathology
 of everyday things, p. 26-51.
 AJ&Smart. (2022) Figma UI Design tutorial: get started in just 24 minutes! 
 
-Evaluation: Usability testing
+### Evaluation: Usability testing
 Goodman M., Kuniavsky, E. & Moed,A.(2012) Observing the user experience
 2nd ed. Chapter 11: Usability tests, p.273-326.
 Greenberg, S. & Buxton, B. (2008)Usability evaluation considered harmful
 (some of the time). CHI 2008 Proceedings. p. 111-120.
 Nielsen Norman Group (2000). Why you only need to test with 5 users. 4 min read.
 
-Evaluation: Usability inspection methods
+### Evaluation: Usability inspection methods
 Nielsen Norman Group (1994).Summary of usability inspection methods. 1 min read.
 Nielsen Norman Group (2022). How to Conduct a Cognitive Walkthrough Workshop. 7 min read.
 Spencer (2000). The streamlined cognitive walkthrough method, working
 around social constraints encountered in a software development company.
 CHI 2000. p. 353-359.
 
-Communicating Design
+### Communicating Design
 Spool, J. M. (2021) Early-career UXers: Your most impressive work is missing
 from your portfolio. 7 min read.
 Hutka, S. (2021) AR careers: becoming an AR user researcher. 5 min read.
 Nielsen Norman Group (2021) Stakeholder analysis for UX projects. 5
 min read.
 
-Ethics and politics of design
+### Ethics and politics of design
 Brignull, H. What is Deceptive Design?(includes video + links to types of
 deceptive design and hall of shame)
 Bennett, C. L. & Rosner, D. K. (2019) The promise of empathy: design, disability,
 and knowing the “other”. CHI 2019. p.1-13.
 Rest of World (2023). How AI reduces the world to stereotypes. 5 min read.
 
-Design thinking and beyond
+### Design thinking and beyond
 Dunne, A. & Raby, F. (2012). Speculative Everything: design, fiction, and social
 dreaming. Ch. 1: Beyond radical design, p. 1-9, AND Ch. 3: Design as critique,
 33-45.
