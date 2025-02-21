@@ -24,3 +24,8 @@ or
 ## Links
     [Link Text](https://example.com "Optional Title")
     [Visit GitHub](https://github.com "GitHub Homepage")
+## Images
+    ![Alt text](image-url "Optional title")
+    example
+    ![Company Logo](./images/logo.png "Company Logo")
+
