@@ -1,7 +1,9 @@
 # UI-UX-Design
 ## Resources 
-### Web Design
-- [Louis Paquet](https://www.domestika.org/en/courses/5513-innovative-web-design-in-figma-a-step-by-step-process )
+### Course
+- [ZTM - UI & UX Design](https://academy.zerotomastery.io/courses/enrolled/1073485)
+- Web Design
+    - [Louis Paquet](https://www.domestika.org/en/courses/5513-innovative-web-design-in-figma-a-step-by-step-process )
 
 ### Tools We Will Use
 - [Figma](https://www.figma.com/downloads/)
