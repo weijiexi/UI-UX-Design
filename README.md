@@ -28,59 +28,59 @@
 - [Muzli](https://muz.li/) - Your daily dose of design inspiration from around the web.
 
 ### Color:
-- Contrast - Figma plugin to check color contrasts.
-- Colorable - Website to check color contrasts.
-- Coolors.co - Website to help generate color palettes.
-- Color Safe - Create accessible color palettes.
-- Color Contrast Analyzer - Test web pages for color contrast issues.
+- [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast) - Figma plugin to check color contrasts.
+- [Colorable](https://colorable.jxnblk.com/) - Website to check color contrasts.
+- [Coolors.co](https://coolors.co/) - Website to help generate color palettes.
+- [ColorSafe](http://colorsafe.co/) - Create accessible color palettes.
+- [ColorContrastAnalyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll?hl=en) - Test web pages for color contrast issues.
 
 ### Typography / Fonts:
-- Google Fonts - Search for and download fonts.
-- Font Pair - Find great font pairings to use for your projects.
-- Type Scale - Set out your fonts to choose sizes.
-- Fonts In Use - A collection of typography in real-world projects.
-- WhatFont (Chrome Extension) - Quickly identify fonts on web pages.
-- WhatTheFont - Identify fonts from images using this tool.
-- DaFont - Browse and download free fonts for personal use.
-- Pangram Pangram - Discover and download modern fonts.
-- MyFonts - A marketplace for a wide variety of fonts.
-- Font Squirrel - Free fonts for commercial use.
-- Adobe Fonts - A vast library of fonts is included with Adobe Creative Cloud.
-- Klim Type Foundry - Unique, high-quality typefaces for professionals.
-- Dinamo - A contemporary type design foundry offers creative fonts.
-- Awwwards Free Fonts Collection - A curated collection of free fonts by Awwwards.
+- [GoogleFonts](https://fonts.google.com/) - Search for and download fonts.
+- [FontPair](https://www.fontpair.co/) - Find great font pairings to use for your projects.
+- [TypeScale](https://type-scale.com/) - Set out your fonts to choose sizes.
+- [FontsInUse](https://fontsinuse.com/) - A collection of typography in real-world projects.
+- [WhatFont(ChromeExtension)](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - Quickly identify fonts on web pages.
+- [WhatTheFont](https://www.myfonts.com/pages/whatthefont) - Identify fonts from images using this tool.
+- [DaFont](https://www.dafont.com/) - Browse and download free fonts for personal use.
+- [PangramPangram](https://pangrampangram.com/) - Discover and download modern fonts.
+- [MyFonts](https://www.myfonts.com/) - A marketplace for a wide variety of fonts.
+- [FontSquirrel](https://www.fontsquirrel.com/) - Free fonts for commercial use.
+- [AdobeFonts](https://fonts.adobe.com/) - A vast library of fonts is included with Adobe Creative Cloud.
+- [KlimTypeFoundry] - Unique, high-quality typefaces for professionals.
+- [Dinamo](https://abcdinamo.com/) - A contemporary type design foundry offers creative fonts.
+- [AwwwardsFreeFontsCollection](https://www.awwwards.com/awwwards/collections/free-fonts/) - A curated collection of free fonts by Awwwards.
 
 ### Design systems:
-- Atomic Design by Brad Frost
-- Material design
+- [Atomic Design by Brad Frost](https://atomicdesign.bradfrost.com/)
+- [Material design](https://m3.material.io/)
 
 ### AI Generation :
-- Leonardo
-- Midjourney
-- Openart 
-- Deepdreamgenerator
-- Playground AI 
-- Deepmind.google
-    - image-fx
+- [Leonardo](https://app.leonardo.ai/)
+- [Midjourney](https://www.midjourney.com/home)
+- [Openart](https://openart.ai/home)
+- [Deepdreamgenerator](https://deepdreamgenerator.com/)
+- [PlaygroundAI](https://playground.com/) 
+- [Deepmind.google](https://deepmind.google/)
+    - [image-fx](https://labs.google/fx/tools/image-fx?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
 
 ### Figma Files
-- Sketching
-- Figma Basics
-- User Flows
-- Sitemaps
-- Wireframes
-- Prototyping
-- Spacing and Grids
-- Typography
-- Color
-- Forms and UI Elements
-- Imagery and Iconography
-- Accessibility
-- Visual Style and Exploration
-- Motion and Microinteractions
-- Design System and Compositions
-- Product Alignment
-- Portfo
+- [Sketching](https://www.figma.com/file/j2d64odNtmrUwx2CBdf2sM/00.-Sketching-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
+- [FigmaBasics](https://www.figma.com/file/KD4nSqQljzRWlv91aDbmOT/01.-Figma-Basics-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
+- [UserFlows](https://www.figma.com/file/WrlBzv2uB4q1PuRy5CIKvs/02.-User-Flows-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
+- [Sitemaps](https://www.figma.com/file/zs9awpk6KYBv36f8PtUM66/03.-Sitemap-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
+- [Wireframes](https://www.figma.com/file/do6RH27cbhXqwvx6cwb5Vg/04.-Wireframes-Resource?type=design&mode=design&t=4KC8PB8VTqzogRU0-1)
+- [Prototyping](https://www.figma.com/file/HvXtUlFhqqVS7ptPoirG1e/05.-Prototyping-Resource?type=design&mode=design&t=4KC8PB8VTqzogRU0-1)
+- [SpacingAndGrids](https://www.figma.com/file/hFXM7jIeTNS5TEtndwHPwX/06.-Spacing-and-Grids-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
+- [Typography](https://www.figma.com/file/HWeNYF590SL0FkqdSoPzxC/07.-Typography-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
+- [Color](https://www.figma.com/file/kDf4WPKweyzfBkw3Bxesaq/08.-Color-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
+- [FormsAndUIElements](https://www.figma.com/file/4TOJnvRR6GamWhtGAWzTcX/09.-Forms-and-UI-Elements-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
+- [Imagery&Iconography](https://www.figma.com/file/s98RK8s01JC5af4dWxsDdY/10.-Imagery-and-Iconography-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
+- [Accessibility](https://www.figma.com/file/AmqbIJRkknxVthMxBKXh9b/11.-Accessibility-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
+- [VisualStyleExploration](https://www.figma.com/file/jduiEw1AbOk08xxgqBGgOj/12.-Visual-Style-and-Exploration-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
+- [Motion&Microinteractions](https://www.figma.com/file/aoHkAyWRJnpkR6FQqJgdId/13.-Motion-and-Microinteractions?type=design&t=j2lcMgAPjl0SeKq0-6)
+- [DesignSystem&Compositions](https://www.figma.com/file/5h7KFOqsTtNFA59gUra4SD/14.-Design-System-and-Compositions?type=design&t=j2lcMgAPjl0SeKq0-6)
+- [ProductAlignment](https://www.figma.com/file/oee5szdPKnayM2sS1rQQH3/15.-Product-Alignment-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
+- [Portfo](https://www.figma.com/file/uqGVmz0sW8CVX0zrpGVIRJ/16.-Portfolio-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
 #### Inspiration
 Figma Inspiration Board
 #### User Flows
