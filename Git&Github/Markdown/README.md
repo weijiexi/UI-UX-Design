@@ -27,5 +27,5 @@ or
 ## Images
     ![Alt text](image-url "Optional title")
     example
-    ![Company Logo](./images/logo.png "Company Logo")
+        ![Company Logo](./images/logo.png "Company Logo")
 
