@@ -1,6 +1,6 @@
 # UI-UX-Design
 ## Resources 
-    ### Web Design
+### Web Design
 https://www.domestika.org/en/courses/5513-innovative-web-design-in-figma-a-step-by-step-process
 
 ### Tools We Will Use
