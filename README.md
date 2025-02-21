@@ -50,11 +50,11 @@ Klim Type Foundry - Unique, high-quality typefaces for professionals.
 Dinamo - A contemporary type design foundry offers creative fonts.
 Awwwards Free Fonts Collection - A curated collection of free fonts by Awwwards.
 
-
-Design systems:
+### Design systems:
 Atomic Design by Brad Frost
 Material design
-AI Generation :
+
+### AI Generation :
 Leonardo
 Midjourney
 Openart 
@@ -62,8 +62,8 @@ Deepdreamgenerator
 Playground AI 
 Deepmind.google
 image-fx
-Figma Files
 
+### Figma Files
 Sketching
 Figma Basics
 User Flows
@@ -73,7 +73,6 @@ Prototyping
 Spacing and Grids
 Typography
 Color
-
 Forms and UI Elements
 Imagery and Iconography
 Accessibility
@@ -83,57 +82,55 @@ Design System and Compositions
 Product Alignment
 Portfo
 
-Inspiration
+#### Inspiration
 Figma Inspiration Board
-User Flows
+#### User Flows
 User Flow Kit
 UX Flowchart kit for Figma
-Sitemaps
+#### Sitemaps
 Sitemap Generator
-Wireframes
+#### Wireframes
 Ant UX Wireframes
 iOS App Wireframes
 Figma Wireframe Kit
 Getting Feedback
 Feedback Kit | Want good feedback from your team? Feedback Kit is here to help you ask for the type of feedback ...
-Color
+#### Color
 Color Styles
-Mobile Design
+#### Mobile Design
 iOS Keyboards
 iOS App Wireframes
 iOS & iPadOS 14 UI Kit for Figma
 iOS/iPadOS 13 Design UI Kit
 Android UI kit
-Design System
+#### Design System
 Design System Checklist
-Figma Plugin
 
-
-
+### Figma Plugin
 Ant Design Open Source
 Content Reel - Design layouts more efficiently by pulling text strings, images, and icons from one palette
-Design
+#### Design
 Design Inspo - Design Inspo for Figma The best way to quickly look for design inspiration while you work.
 Design System Checklist
 Design Lint - Design Lint is a plugin that finds missing styles within your designs. It's perfect for fixing errors in your Design System or designs before handoff.
-Layout
+#### Layout
 Masonry grid layout organizer
-Logo
+#### Logo
 Logo Creator
-Workflow
+#### Workflow
 Auto Flow
 Sitemap
 Wireframe
-Color
+#### Color
 Color Search
 Color Palettes
-Text
+#### Text
 Lorem ipsum
 Figchat（chat palettes）
-Font
+#### Font
 Font Scale
 Font Explorer
-Image 
+#### Image 
 Unsplash-Insert images from Unsplash into your designs.
 Remove BG - remove background of images
 image Palette
@@ -141,35 +138,33 @@ Pexels
 Duotones - Apply Duotone Effect Filter on images. Simple, accurate & fast.
 A black and white photo of water and sand photo – Free Black Image on Unsplash
 A close up of a ceiling with a pattern on it photo – Free Texture Image on Unsplash
-Illustrations
+#### Illustrations
 Illustrations
 Blush
 Free 60 illustrations - Surface Pack
 Vector Illustrations
 Humaaans for Figma
-Icon
+#### Icon
 Streamline Icons
 Feather Icons
 Material Design Icons
 Iconify
-Accessibility
+#### Accessibility
 Able – Friction free accessibility
 Color Contrast Checker
 Contrast
-Component
+#### Component
 Master - Create, attach, clone and move components in a couple of clicks without losing overrides!
 Unused Compone
-Charts
+#### Charts
 Chart - Chart is the most powerful plugin for Figma that uses real or random data to create 18 types of charts. Chart supports copy-paste from editors like Excel, Numbers, Google Sheets, live connection with Google Sheets and remote JSON (REST API), local CSV and JSON files.
-Motion
+#### Motion
 Figmotion
 Lottie Files - Create animations & export from Figma to Lot
-Map
+#### Map
 Figmap
 
-
-
-Reading - Articles / website
+## Reading - Articles / website
 Sketching
 Sketching. How to use sketching in your design
 Concepts App • Infinite, Flexible Sketching / For Windows: Microsoft Paint 3D
