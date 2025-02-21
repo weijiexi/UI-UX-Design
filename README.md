@@ -1,9 +1,9 @@
 # UI-UX-Design
-##Resources 
+## Resources 
 ###Web Design
 https://www.domestika.org/en/courses/5513-innovative-web-design-in-figma-a-step-by-step-process
 
-###Tools We Will Use
+### Tools We Will Use
 Figma
 Lottie 
 Concepts Apple Store App (Sketching option for Mac only, but don't worry, pen 
@@ -14,10 +14,10 @@ Squarespace Logo Maker
 Hatchful Logo Maker
 Namecheap's Free Logo Maker
 
-###Design process:
+### Design process:
 Design fidelity - Understand where to apply each level of design fidelity.
 
-###Inspiration:
+### Inspiration:
 Dribbble - Create collections of design patterns.
 Pinterest - Create boards to organise your ideas.
 Behance - More details about how the product came together.
@@ -27,14 +27,14 @@ Hoverstat.es - A curated platform for innovative web design.
 Site Inspire - A collection of web design and development inspiration.
 Muzli - Your daily dose of design inspiration from around the web.
 
-###Color:
+### Color:
 Contrast - Figma plugin to check color contrasts.
 Colorable - Website to check color contrasts.
 Coolors.co - Website to help generate color palettes.
 Color Safe - Create accessible color palettes.
 Color Contrast Analyzer - Test web pages for color contrast issues.
 
-###Typography / Fonts:
+### Typography / Fonts:
 Google Fonts - Search for and download fonts.
 Font Pair - Find great font pairings to use for your projects.
 Type Scale - Set out your fonts to choose sizes.
