@@ -1,87 +1,86 @@
 # UI-UX-Design
 ## Resources 
 ### Web Design
-[Louis Paquet](https://www.domestika.org/en/courses/5513-innovative-web-design-in-figma-a-step-by-step-process )
+- [Louis Paquet](https://www.domestika.org/en/courses/5513-innovative-web-design-in-figma-a-step-by-step-process )
 
 ### Tools We Will Use
 - [Figma](https://www.figma.com/downloads/)
 - [Lottie](https://lottiefiles.com/) 
 - [Concepts Apple Store App](https://apps.apple.com/us/app/concepts/id560586497) (Sketching option for Mac only, but don't worry, pen 
-- Logo Makers
-    - fiverr Logo-maker
-    - Logo design
-    - Squarespace Logo Maker
-    - Hatchful Logo Maker
-    - Namecheap's Free Logo Maker
+- [Logo Makers](https://zerotomastery.io/resources/)
+    - [fiverr Logo-maker](https://www.fiverr.com/logo-maker)
+    - [Logo design](https://www.fiverr.com/categories/graphics-design/creative-logo-design)
+    - [Squarespace Logo Maker](https://www.fiverr.com/categories/graphics-design/creative-logo-design)
+    - [Hatchful Logo Maker](https://www.fiverr.com/categories/graphics-design/creative-logo-design)
+    - [Namecheap's Free Logo Maker](https://www.fiverr.com/categories/graphics-design/creative-logo-design)
 
 ### Design process:
-Design fidelity - Understand where to apply each level of design fidelity.
+- [Design fidelity](https://cantina.co/understanding-design-fidelity-for-creating-a-great-product-experience/) - Understand where to apply each level of design fidelity.
 
 ### Inspiration:
-Dribbble - Create collections of design patterns.
-Pinterest - Create boards to organise your ideas.
-Behance - More details about how the product came together.
-Pttrns - Some free ui patterns, premium for more content.
-Awwwards - Gives a strict grade for great designed websites.
-Hoverstat.es - A curated platform for innovative web design.
-Site Inspire - A collection of web design and development inspiration.
-Muzli - Your daily dose of design inspiration from around the web.
+- [Dribbble](https://dribbble.com/) - Create collections of design patterns.
+- [Pinterest](https://www.pinterest.co.uk/) - Create boards to organise your ideas.
+- [Behance](https://www.behance.net/) - More details about how the product came together.
+- [Pttrns](https://www.pttrns.com/) - Some free ui patterns, premium for more content.
+- [Awwwards](https://www.awwwards.com/) - Gives a strict grade for great designed websites.
+- [Hoverstat.es](https://www.hoverstat.es/) - A curated platform for innovative web design.
+- [Site-Inspire](http://siteinspire.net/) - A collection of web design and development inspiration.
+- [Muzli](https://muz.li/) - Your daily dose of design inspiration from around the web.
 
 ### Color:
-Contrast - Figma plugin to check color contrasts.
-Colorable - Website to check color contrasts.
-Coolors.co - Website to help generate color palettes.
-Color Safe - Create accessible color palettes.
-Color Contrast Analyzer - Test web pages for color contrast issues.
+- Contrast - Figma plugin to check color contrasts.
+- Colorable - Website to check color contrasts.
+- Coolors.co - Website to help generate color palettes.
+- Color Safe - Create accessible color palettes.
+- Color Contrast Analyzer - Test web pages for color contrast issues.
 
 ### Typography / Fonts:
-Google Fonts - Search for and download fonts.
-Font Pair - Find great font pairings to use for your projects.
-Type Scale - Set out your fonts to choose sizes.
-Fonts In Use - A collection of typography in real-world projects.
-WhatFont (Chrome Extension) - Quickly identify fonts on web pages.
-WhatTheFont - Identify fonts from images using this tool.
-DaFont - Browse and download free fonts for personal use.
-Pangram Pangram - Discover and download modern fonts.
-MyFonts - A marketplace for a wide variety of fonts.
-Font Squirrel - Free fonts for commercial use.
-Adobe Fonts - A vast library of fonts is included with Adobe Creative Cloud.
-Klim Type Foundry - Unique, high-quality typefaces for professionals.
-Dinamo - A contemporary type design foundry offers creative fonts.
-Awwwards Free Fonts Collection - A curated collection of free fonts by Awwwards.
+- Google Fonts - Search for and download fonts.
+- Font Pair - Find great font pairings to use for your projects.
+- Type Scale - Set out your fonts to choose sizes.
+- Fonts In Use - A collection of typography in real-world projects.
+- WhatFont (Chrome Extension) - Quickly identify fonts on web pages.
+- WhatTheFont - Identify fonts from images using this tool.
+- DaFont - Browse and download free fonts for personal use.
+- Pangram Pangram - Discover and download modern fonts.
+- MyFonts - A marketplace for a wide variety of fonts.
+- Font Squirrel - Free fonts for commercial use.
+- Adobe Fonts - A vast library of fonts is included with Adobe Creative Cloud.
+- Klim Type Foundry - Unique, high-quality typefaces for professionals.
+- Dinamo - A contemporary type design foundry offers creative fonts.
+- Awwwards Free Fonts Collection - A curated collection of free fonts by Awwwards.
 
 ### Design systems:
-Atomic Design by Brad Frost
-Material design
+- Atomic Design by Brad Frost
+- Material design
 
 ### AI Generation :
-Leonardo
-Midjourney
-Openart 
-Deepdreamgenerator
-Playground AI 
-Deepmind.google
-image-fx
+- Leonardo
+- Midjourney
+- Openart 
+- Deepdreamgenerator
+- Playground AI 
+- Deepmind.google
+    - image-fx
 
 ### Figma Files
-Sketching
-Figma Basics
-User Flows
-Sitemaps
-Wireframes
-Prototyping
-Spacing and Grids
-Typography
-Color
-Forms and UI Elements
-Imagery and Iconography
-Accessibility
-Visual Style and Exploration
-Motion and Microinteractions
-Design System and Compositions
-Product Alignment
-Portfo
-
+- Sketching
+- Figma Basics
+- User Flows
+- Sitemaps
+- Wireframes
+- Prototyping
+- Spacing and Grids
+- Typography
+- Color
+- Forms and UI Elements
+- Imagery and Iconography
+- Accessibility
+- Visual Style and Exploration
+- Motion and Microinteractions
+- Design System and Compositions
+- Product Alignment
+- Portfo
 #### Inspiration
 Figma Inspiration Board
 #### User Flows
