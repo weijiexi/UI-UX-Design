@@ -46,7 +46,7 @@
 - [MyFonts](https://www.myfonts.com/) - A marketplace for a wide variety of fonts.
 - [FontSquirrel](https://www.fontsquirrel.com/) - Free fonts for commercial use.
 - [AdobeFonts](https://fonts.adobe.com/) - A vast library of fonts is included with Adobe Creative Cloud.
-- [KlimTypeFoundry] - Unique, high-quality typefaces for professionals.
+- [KlimTypeFoundry](https://klim.co.nz/) - Unique, high-quality typefaces for professionals.
 - [Dinamo](https://abcdinamo.com/) - A contemporary type design foundry offers creative fonts.
 - [AwwwardsFreeFontsCollection](https://www.awwwards.com/awwwards/collections/free-fonts/) - A curated collection of free fonts by Awwwards.
 
