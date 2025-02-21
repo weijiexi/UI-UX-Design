@@ -23,3 +23,4 @@ or
     * Item 3
 ## Links
     [Link Text](https://example.com "Optional Title")
+    [Visit GitHub](https://github.com "GitHub Homepage")
