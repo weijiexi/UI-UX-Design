@@ -54,8 +54,6 @@ Fetch the latest changes from the remote repository.
 Discard all local changes and reset the main branch to match origin/main exactly.
 
 git switch xxxxxxxxx
-从main到branch枝干路径
-
 git fetch && git reset --hard origin/xxxxxx
 
 
