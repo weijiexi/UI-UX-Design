@@ -1,18 +1,18 @@
 # UI-UX-Design
 ## Resources 
 ### Web Design
-https://www.domestika.org/en/courses/5513-innovative-web-design-in-figma-a-step-by-step-process
+[Louis Paquet](https://www.domestika.org/en/courses/5513-innovative-web-design-in-figma-a-step-by-step-process )
 
 ### Tools We Will Use
-Figma
-Lottie 
-Concepts Apple Store App (Sketching option for Mac only, but don't worry, pen 
-Logo Makers
-fiverr Logo-maker
-Logo design
-Squarespace Logo Maker
-Hatchful Logo Maker
-Namecheap's Free Logo Maker
+- [Figma](https://www.figma.com/downloads/)
+- [Lottie](https://lottiefiles.com/) 
+- [Concepts Apple Store App](https://apps.apple.com/us/app/concepts/id560586497) (Sketching option for Mac only, but don't worry, pen 
+- Logo Makers
+    - fiverr Logo-maker
+    - Logo design
+    - Squarespace Logo Maker
+    - Hatchful Logo Maker
+    - Namecheap's Free Logo Maker
 
 ### Design process:
 Design fidelity - Understand where to apply each level of design fidelity.
