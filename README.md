@@ -22,9 +22,8 @@
 - [Hoverstat.es](https://www.hoverstat.es/) - A curated platform for innovative web design.
 - [Site-Inspire](http://siteinspire.net/) - A collection of web design and development inspiration.
 - [Muzli](https://muz.li/) - Your daily dose of design inspiration from around the web.
-
-### Designer
-- [Louis Paquet](https://www.behance.net/louispaquet)
+- Designer
+    - [Louis Paquet](https://www.behance.net/louispaquet)
 
 ### Logo
 - [Logo Makers](https://zerotomastery.io/resources/)
