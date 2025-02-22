@@ -8,13 +8,7 @@
 ### Tools We Will Use
 - [Figma](https://www.figma.com/downloads/)
 - [Lottie](https://lottiefiles.com/) 
-- [Concepts Apple Store App](https://apps.apple.com/us/app/concepts/id560586497) (Sketching option for Mac only, but don't worry, pen 
-- [Logo Makers](https://zerotomastery.io/resources/)
-    - [fiverr Logo-maker](https://www.fiverr.com/logo-maker)
-    - [Logo design](https://www.fiverr.com/categories/graphics-design/creative-logo-design)
-    - [Squarespace Logo Maker](https://www.fiverr.com/categories/graphics-design/creative-logo-design)
-    - [Hatchful Logo Maker](https://www.fiverr.com/categories/graphics-design/creative-logo-design)
-    - [Namecheap's Free Logo Maker](https://www.fiverr.com/categories/graphics-design/creative-logo-design)
+- [Concepts Apple Store App](https://apps.apple.com/us/app/concepts/id560586497) Sketching option for Mac only, but don't worry, pen 
 
 ### Design process:
 - [Design fidelity](https://cantina.co/understanding-design-fidelity-for-creating-a-great-product-experience/) - Understand where to apply each level of design fidelity.
@@ -28,6 +22,17 @@
 - [Hoverstat.es](https://www.hoverstat.es/) - A curated platform for innovative web design.
 - [Site-Inspire](http://siteinspire.net/) - A collection of web design and development inspiration.
 - [Muzli](https://muz.li/) - Your daily dose of design inspiration from around the web.
+
+### Designer
+- [Louis Paquet](https://www.behance.net/louispaquet)
+
+### Logo
+- [Logo Makers](https://zerotomastery.io/resources/)
+- [fiverr Logo-maker](https://www.fiverr.com/logo-maker)
+- [Logo design](https://www.fiverr.com/categories/graphics-design/creative-logo-design)
+- [Squarespace Logo Maker](https://www.fiverr.com/categories/graphics-design/creative-logo-design)
+- [Hatchful Logo Maker](https://www.fiverr.com/categories/graphics-design/creative-logo-design)
+- [Namecheap's Free Logo Maker](https://www.fiverr.com/categories/graphics-design/creative-logo-design)
 
 ### Color:
 - [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast) - Figma plugin to check color contrasts.
