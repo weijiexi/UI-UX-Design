@@ -1,7 +1,7 @@
 # Submit assignments
 - 1.Create your own version of this repo using the fork button at the top right of the repository
 
-    fork button - fork
+        fork button - fork
 - 2.Clone this repo by clicking the green Code button, then copy pasting the SSH URL: 
 
     Copy a SSH key url  
