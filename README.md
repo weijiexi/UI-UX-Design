@@ -112,62 +112,62 @@
     - [Design System Checklist](https://www.figma.com/community/file/875222888436956377)
 
 ### Figma Plugin
-Ant Design Open Source
-Content Reel - Design layouts more efficiently by pulling text strings, images, and icons from one palette
-#### Design
-Design Inspo - Design Inspo for Figma The best way to quickly look for design inspiration while you work.
-Design System Checklist
-Design Lint - Design Lint is a plugin that finds missing styles within your designs. It's perfect for fixing errors in your Design System or designs before handoff.
-#### Layout
-Masonry grid layout organizer
-#### Logo
-Logo Creator
-#### Workflow
-Auto Flow
-Sitemap
-Wireframe
-#### Color
-Color Search
-Color Palettes
-#### Text
-Lorem ipsum
-Figchat（chat palettes）
-#### Font
-Font Scale
-Font Explorer
-#### Image 
-Unsplash-Insert images from Unsplash into your designs.
-Remove BG - remove background of images
-image Palette
-Pexels
-Duotones - Apply Duotone Effect Filter on images. Simple, accurate & fast.
-A black and white photo of water and sand photo – Free Black Image on Unsplash
-A close up of a ceiling with a pattern on it photo – Free Texture Image on Unsplash
-#### Illustrations
-Illustrations
-Blush
-Free 60 illustrations - Surface Pack
-Vector Illustrations
-Humaaans for Figma
-#### Icon
-Streamline Icons
-Feather Icons
-Material Design Icons
-Iconify
-#### Accessibility
-Able – Friction free accessibility
-Color Contrast Checker
-Contrast
-#### Component
-Master - Create, attach, clone and move components in a couple of clicks without losing overrides!
-Unused Compone
-#### Charts
-Chart - Chart is the most powerful plugin for Figma that uses real or random data to create 18 types of charts. Chart supports copy-paste from editors like Excel, Numbers, Google Sheets, live connection with Google Sheets and remote JSON (REST API), local CSV and JSON files.
-#### Motion
-Figmotion
-Lottie Files - Create animations & export from Figma to Lot
-#### Map
-Figmap
+- Ant Design Open Source
+- Content Reel - Design layouts more efficiently by pulling text strings, images, and icons from one palette
+- Design
+    - Design Inspo - Design Inspo for Figma The best way to quickly look for design inspiration while you work.
+    - Design System Checklist
+    - Design Lint - Design Lint is a plugin that finds missing styles within your designs. It's perfect for fixing errors in your Design System or designs before handoff.
+- Layout
+    - Masonry grid layout organizer
+- Logo
+    - Logo Creator
+- Workflow
+    - Auto Flow
+    - Sitemap
+    - Wireframe
+- Color
+    - Color Search
+    - Color Palettes
+- Text
+    - Lorem ipsum
+    - Figchat（chat palettes）
+- Font
+    - Font Scale
+    - Font Explorer
+- Image 
+    - Unsplash-Insert images from Unsplash into your designs.
+    - Remove BG - remove background of images
+    - image Palette
+    - Pexels
+    - Duotones - Apply Duotone Effect Filter on images. Simple, accurate & fast.
+    - A black and white photo of water and sand photo – Free Black Image on Unsplash
+    - A close up of a ceiling with a pattern on it photo – Free Texture Image on Unsplash
+- Illustrations
+    - Illustrations
+    - Blush
+    - Free 60 illustrations - Surface Pack
+    - Vector Illustrations
+    - Humaaans for Figma
+- Icon
+    - Streamline Icons
+    - Feather Icons
+    - Material Design Icons
+    - Iconify
+- Accessibility
+    - Able – Friction free accessibility
+    - Color Contrast Checker
+    - Contrast
+- Component
+    - Master - Create, attach, clone and move components in a couple of clicks without losing overrides!
+    - Unused Compone
+- Charts
+    Chart - Chart is the most powerful plugin for Figma that uses real or random data to create 18 types of charts. Chart supports copy-paste from editors like Excel, Numbers, Google Sheets, live connection with Google Sheets and remote JSON (REST API), local CSV and JSON files.
+- Motion
+    - Figmotion
+    - Lottie Files - Create animations & export from Figma to Lot
+- Map
+    - Figmap
 
 ## Reading - Articles / website
 ### Sketching
