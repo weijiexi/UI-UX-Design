@@ -4,11 +4,17 @@ Git & Github
 - Agile methodologies
 
     cd
+
     cd .
+
     cd ..
+
     cd ~
+
     pwd		display path
+
     ls		list files
+    
     Ls -la	
     mkdir 	create a fold
     touch	create a file
