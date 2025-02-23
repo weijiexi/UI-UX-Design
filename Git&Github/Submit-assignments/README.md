@@ -40,29 +40,30 @@
 
 The command git fetch && git reset --hard is a combination of two Git commands, git fetch and git reset --hard, used together to update your local repository to match the remote repository. Here’s a breakdown of what each part does:
 ### 1. git fetch
-Purpose:
+- Purpose:
 git fetch downloads commits, files, and references from a remote repository into your local repository. However, it does not merge or modify your working directory or current branch.
 It updates your remote-tracking branches (like origin/main), allowing you to see what changes have been made on the remote without altering your local working directory.
-Use Case:
+- Use Case:
 Use git fetch when you want to see what has been updated in the remote repository before deciding to merge those changes into your local branch.
 It’s a safe operation since it doesn’t modify your working files or branches.
 ### 2. git reset --hard
-Purpose:
+- Purpose:
 git reset --hard is a powerful command that resets your current branch (e.g., main) to a specific state. It changes the HEAD to a specified commit (or to the current state of the branch if no commit is specified) and updates the index and working directory to match that state.
 This means all changes in your working directory and index that haven’t been committed will be discarded, and your branch will look exactly like the specified commit or reference.
-Use Case:
+- Use Case:
 Use git reset --hard when you want to completely discard all local changes and uncommitted work, effectively reverting your working directory and branch to a specific state.
 3. Combined Command: git fetch && git reset --hard
 When combined, git fetch && git reset --hard is typically used to force your local branch to match the remote branch exactly. Here’s how it works:
-Step 1: git fetch:
+- Step 1: git fetch:
 Fetches the latest changes from the remote repository but doesn’t change your local working branch yet.
-Step 2: git reset --hard origin/<branch>:
+- Step 2: git reset --hard origin/<branch>:
 Resets your current branch to match the fetched remote branch exactly. For example, git reset --hard origin/main would reset your current branch to match origin/main exactly.
 This operation will discard any local changes that haven’t been committed, ensuring your branch is identical to the remote branch.
-Warning:
+- Warning:
 git reset --hard is a destructive command. It will remove any local changes that are not committed, so use it with caution. Always make sure you don’t have any work you want to keep before running this command.
-Example:
+- Example:
 If you are on the main branch and you want to force it to match the remote origin/main, you would run:
+
 git fetch && git reset --hard origin/main
 This will:
 Fetch the latest changes from the remote repository.
