@@ -87,8 +87,8 @@
 - [DesignSystem&Compositions](https://www.figma.com/file/5h7KFOqsTtNFA59gUra4SD/14.-Design-System-and-Compositions?type=design&t=j2lcMgAPjl0SeKq0-6)
 - [ProductAlignment](https://www.figma.com/file/oee5szdPKnayM2sS1rQQH3/15.-Product-Alignment-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
 - [Portfo](https://www.figma.com/file/uqGVmz0sW8CVX0zrpGVIRJ/16.-Portfolio-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
-#### Inspiration
-Figma Inspiration Board
+- Inspiration
+    - [Figma Inspiration Board](https://www.figma.com/community/file/845716796885667264)
 #### User Flows
 User Flow Kit
 UX Flowchart kit for Figma
