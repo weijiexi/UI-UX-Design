@@ -1,8 +1,8 @@
 # Submit assignments
-- 1. Create your own version of this repo using the fork button at the top right of the repository
+- 1.Create your own version of this repo using the fork button at the top right of the repository
 
     fork button - fork
-- 2. Clone this repo by clicking the green Code button, then copy pasting the SSH URL: 
+- 2.Clone this repo by clicking the green Code button, then copy pasting the SSH URL: 
 
     Copy a SSH key url  
 
@@ -10,14 +10,14 @@
 
     git clone git@github.com:YOUR-GITHUB-USERNAME/Git-for-Web-Development-Project.git
 
-- 3. Create a branch: 
+- 3.Create a branch: 
 
     git checkout -b 'FIRSTNAME-LASTNAME'
 
     code .git
 
-- 4. Edit in the mac.md or pc.md file.
-- 5. Follow the steps for adding, committing, and pushing your work from your local computer to GitHub: 
+- 4.Edit in the mac.md or pc.md file.
+- 5.Follow the steps for adding, committing, and pushing your work from your local computer to GitHub: 
 
     git add .
 
@@ -27,8 +27,8 @@
 
     git push -u origin FIRSTNAME-LASTNAME
 
-- 6. Create a Pull Request to submit your work. 
-- 7. Make sure that your repository's main branch is listed on the left side of the screen and your repository's FIRSTNAME-LASTNA
+- 6.Create a Pull Request to submit your work. 
+- 7.Make sure that your repository's main branch is listed on the left side of the screen and your repository's FIRSTNAME-LASTNA
 
     ME branch is listed on the right side. This is telling GitHub that you want to compare the work you did in your FIRSTNAME-LASTNAME branch to the work in your main branch. Make sure that you don't click the "merge" button!
 
