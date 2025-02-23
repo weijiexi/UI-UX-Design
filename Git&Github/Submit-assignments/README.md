@@ -65,6 +65,7 @@ git reset --hard is a destructive command. It will remove any local changes that
 If you are on the main branch and you want to force it to match the remote origin/main, you would run:
 
 git fetch && git reset --hard origin/main
+
 This will:
 Fetch the latest changes from the remote repository.
 Discard all local changes and reset the main branch to match origin/main exactly.
