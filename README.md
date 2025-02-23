@@ -113,61 +113,61 @@
 
 ### Figma Plugin
 - [Ant Design Open Source](https://www.figma.com/community/file/831698976089873405)
-- [Content Reel] - Design layouts more efficiently by pulling text strings, images, and icons from one palette
+- [Content Reel](https://www.figma.com/community/plugin/731627216655469013/Content-Reel) - Design layouts more efficiently by pulling text strings, images, and icons from one palette
 - Design
-    - [Design Inspo] - Design Inspo for Figma The best way to quickly look for design inspiration while you work.
-    - [Design System Checklist]
-    - [Design Lint] - Design Lint is a plugin that finds missing styles within your designs. It's perfect for fixing errors in your Design System or designs before handoff.
+    - [Design Inspo](https://www.figma.com/community/plugin/738775292786594626/Design-Inspo) - Design Inspo for Figma The best way to quickly look for design inspiration while you work.
+    - [Design System Checklist](https://www.figma.com/community/file/875222888436956377)
+    - [Design Lint](https://www.figma.com/community/plugin/801195587640428208/Design-Lint) - Design Lint is a plugin that finds missing styles within your designs. It's perfect for fixing errors in your Design System or designs before handoff.
 - Layout
-    - [Masonry grid layout organizer]
+    - [Masonry grid layout organizer](https://www.figma.com/community/plugin/819711000718921105/masonry-grid-layout-organizer)
 - Logo
-    - [Logo Creator]
+    - [Logo Creator](https://www.figma.com/community/plugin/768094929040207895/Logo-Creator)
 - Workflow
-    - [Auto Flow]
-    - [Sitemap]
-    - [Wireframe]
+    - [Auto Flow](https://www.figma.com/community/plugin/733902567457592893/Autoflow)
+    - [Sitemap](https://www.figma.com/community/plugin/818613147082270958/Sitemap)
+    - [Wireframe](https://www.figma.com/community/plugin/742764242781786818/Wireframe)
 - Color
-    - [Color Search]
-    - [Color Palettes]
+    - [Color Search](https://www.figma.com/community/plugin/768550475442788437/Color-Search)
+    - [Color Palettes](https://www.figma.com/community/plugin/740832935938649295/Color-Palettes)
 - Text
-    - [Lorem ipsum]
-    - [Figchat]（chat palettes）
+    - [Lorem ipsum](https://www.figma.com/community/plugin/736000994034548392)
+    - [Figchat](https://www.figma.com/community/plugin/836358953686653979/Figchat)（chat palettes）
 - Font
-    - [Font Scale]
-    - [Font Explorer]
+    - [Font Scale](https://www.figma.com/community/plugin/741231992144144738/Font-Scale)
+    - [Font Explorer](https://www.figma.com/community/plugin/786891204057439536/Font-Explorer)
 - Image 
-    - [Unsplash] - Insert images from Unsplash into your designs.
-    - [Remove BG] - remove background of images
-    - [image Palette]
-    - [Pexels]
-    - [Duotones] - Apply Duotone Effect Filter on images. Simple, accurate & fast.
-    - [A black and white photo of water and sand photo] – Free Black Image on Unsplash
-    - [A close up of a ceiling with a pattern on it photo] – Free Texture Image on Unsplash
+    - [Unsplash](https://www.figma.com/community/plugin/738454987945972471/Unsplash) - Insert images from Unsplash into your designs.
+        - [Remove BG](https://www.figma.com/community/plugin/738992712906748191/Remove-BG) - remove background of images
+    - [image Palette](https://www.figma.com/community/plugin/731841207668879837/Image-Palette)
+    - [Pexels](https://www.figma.com/community/plugin/829802086526281657/Pexels)
+    - [Duotones](https://www.figma.com/community/plugin/775712743044356003/Duotones) - Apply Duotone Effect Filter on images. Simple, accurate & fast.
+    - [A black and white photo of water and sand photo](https://unsplash.com/photos/a-black-and-white-photo-of-water-and-sand-_GH9LwhlSO4) – Free Black Image on Unsplash
+    - [A close up of a ceiling with a pattern on it photo](https://unsplash.com/photos/a-close-up-of-a-ceiling-with-a-pattern-on-it-6P3AZeUEtfU) – Free Texture Image on Unsplash
 - Illustrations
-    - [Illustrations]
-    - [Blush]
-    - [Free 60 illustrations - Surface Pack]
-    - [Vector Illustrations]
-    - [Humaaans for Figma]
+    - [Illustrations](https://www.figma.com/community/plugin/781441863578182316/Illustrations)
+    - [Blush](https://www.figma.com/community/plugin/838959511417581040/Blush)
+    - [Free 60 illustrations - Surface Pack](https://www.figma.com/community/file/883778082594341562)
+    - [Vector Illustrations](https://www.figma.com/community/file/844269232355884415)
+    - [Humaaans for Figma](https://www.figma.com/community/plugin/739503328703046360/Humaaans-for-Figma)
 - Icon
-    - [Streamline Icons]
-    - [Feather Icons]
-    - [Material Design Icons]
-    - [Iconify]
+    - [Streamline Icons](https://www.figma.com/community/plugin/852192486284901337/Streamline-Icons)
+    - [Feather Icons](https://www.figma.com/community/plugin/744047966581015514/Feather-Icons)
+    - [Material Design Icons](https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons)
+    - [Iconify](https://www.figma.com/community/plugin/735098390272716381/Iconify)
 - Accessibility
-    - [Able – Friction free accessibility]
-    - [Color Contrast Checker]
-    - [Contrast]
+    - [Able – Friction free accessibility](https://www.figma.com/community/plugin/734693888346260052/Able-%E2%80%93-Friction-free-accessibility)
+    - [Color Contrast Checker](https://www.figma.com/community/plugin/733159460536249875/A11y---Color-Contrast-Checker)
+    - [Contrast](https://www.figma.com/community/plugin/748533339900865323)
 - Component
-    - [Master] - Create, attach, clone and move components in a couple of clicks without losing overrides!
-    - [Unused Compone]
+    - [Master](https://www.figma.com/community/plugin/767721682134156281/Master) - Create, attach, clone and move components in a couple of clicks without losing overrides!
+    - [Unused Compone](https://www.figma.com/community/plugin/838413521721548186/Unused-Components)
 - Charts
-    [Chart] - Chart is the most powerful plugin for Figma that uses real or random data to create 18 types of charts. Chart supports copy-paste from editors like Excel, Numbers, Google Sheets, live connection with Google Sheets and remote JSON (REST API), local CSV and JSON files.
+    [Chart](https://www.figma.com/community/plugin/734590934750866002) - Chart is the most powerful plugin for Figma that uses real or random data to create 18 types of charts. Chart supports copy-paste from editors like Excel, Numbers, Google Sheets, live connection with Google Sheets and remote JSON (REST API), local CSV and JSON files.
 - Motion
-    - [Figmotion]
-    - [Lottie Files] - Create animations & export from Figma to Lot
+    - [Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion)
+    - [Lottie Files](https://www.figma.com/community/plugin/809860933081065308/LottieFiles) - Create animations & export from Figma to Lot
 - Map
-    - [Figmap]
+    - [Figmap](https://www.figma.com/community/plugin/937760472566581732/figmap)
 
 ## Reading - Articles / website
 ### Sketching
