@@ -1,4 +1,4 @@
-Git & Github
+# Git & Github
 - Markdown
 - Submit assignments
 - Agile methodologies
@@ -18,7 +18,7 @@ Git & Github
         cat		display
         cp		copy
         mv		move
-        
+
         clear 	clear the command line
         Git init
         Control+c or Control+z 	quit node npm
