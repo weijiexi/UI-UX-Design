@@ -32,11 +32,11 @@
 
     ME branch is listed on the right side. This is telling GitHub that you want to compare the work you did in your FIRSTNAME-LASTNAME branch to the work in your main branch. Make sure that you don't click the "merge" button!
 
-## git push -u origin BRANCH_NAME
-## git push
-## git fetch && git reset --hard
-## git fetch && git reset --hard origin/main
-## git fetch && git reset --hard ef67b8188bf1f8059880b47acbb7958f76408a24
+### git push -u origin BRANCH_NAME
+### git push
+### git fetch && git reset --hard
+### git fetch && git reset --hard origin/main
+### git fetch && git reset --hard ef67b8188bf1f8059880b47acbb7958f76408a24
 
 The command git fetch && git reset --hard is a combination of two Git commands, git fetch and git reset --hard, used together to update your local repository to match the remote repository. Here’s a breakdown of what each part does:
 1. git fetch
