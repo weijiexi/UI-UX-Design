@@ -1,14 +1,21 @@
 # Submit assignments
 - Create your own version of this repo using the fork button at the top right of the repository
 
-    fork
+    fork button - fork
 - Clone this repo by clicking the green Code button, then copy pasting the SSH URL: 
+
     Copy a SSH key url  
+
     cd 
+
     git clone git@github.com:YOUR-GITHUB-USERNAME/Git-for-Web-Development-Project.git
+
 - Create a branch: 
+
     git checkout -b 'FIRSTNAME-LASTNAME'
+
     code .git
+    
 - Edit in the mac.md or pc.md file.
 - Follow the steps for adding, committing, and pushing your work from your local computer to GitHub: 
     git add .
