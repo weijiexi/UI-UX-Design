@@ -15,16 +15,23 @@
     git checkout -b 'FIRSTNAME-LASTNAME'
 
     code .git
-    
+
 - Edit in the mac.md or pc.md file.
 - Follow the steps for adding, committing, and pushing your work from your local computer to GitHub: 
+
     git add .
+
     Git status
+
     git commit -m 'WRITE A MESSAGE TO DESCRIBE YOUR CHANGES HERE' 
+
     git push -u origin FIRSTNAME-LASTNAME
+
 - Create a Pull Request to submit your work. 
 - Make sure that your repository's main branch is listed on the left side of the screen and your repository's FIRSTNAME-LASTNA
+
     ME branch is listed on the right side. This is telling GitHub that you want to compare the work you did in your FIRSTNAME-LASTNAME branch to the work in your main branch. Make sure that you don't click the "merge" button!
+    
     git push -u origin BRANCH_NAME
     git push
     git fetch && git reset --hard
