@@ -11,7 +11,7 @@ Git & Github
         ls		list files
         Ls -la	
         mkdir 	create a fold
-        touch	create a file
+        touch 	create a file
         rm		delete a file
         rm -r	delete fold
         rm -f                                                                                  
