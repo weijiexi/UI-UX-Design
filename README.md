@@ -239,25 +239,25 @@
 
 ## UX design Methodology
 - ### Intro
-Norman, D. (2013). The design of everyday things: Revised and expanded
-edition. Basic Books, Chapter 1: The Psychopathology of Everyday Things, p.
+    - Norman, D. (2013). The design of everyday things: Revised and expanded
+edition. Basic Books, [Chapter 1: The Psychopathology of Everyday Things](https://drive.google.com/file/d/1DYQ9NntAizys-sDPtS_M0xScFDGq9xO0/view), p.
 19-26 (up to “Fundamental Principles of Interaction”)
-Ries, E. (2011) The Lean StartUp: Ch. 4:Experiment, p. 56-74 (aka p. 63-77 in
+    - Ries, E. (2011) The Lean StartUp: Ch. 4:Experiment, p. 56-74 (aka p. 63-77 in
 this PDF), AND How vision leads to steering, p.75-78. (aka p. 80-83 in this PDF)
-dSchool (2018) Design thinking bootleg deck. p. 1-12 (click link at right of webpage, will open a PDF)
-Baxter, K., Courage, C., & Caine, K. (2015). Understanding Your Users, Second Edition: A Practical Guide to User Research Methods. Morgan Kaufmann. ISBN-13: 978-0128002322 ; ISBN-10: 0128002328
+    - dSchool (2018) Design thinking bootleg deck. p. 1-12 (click link at right of webpage, will open a PDF)
+    - Baxter, K., Courage, C., & Caine, K. (2015). Understanding Your Users, Second Edition: A Practical Guide to User Research Methods. Morgan Kaufmann. ISBN-13: 978-0128002322 ; ISBN-10: 0128002328
 
 - ### Problem space
-Nielsen Norman Group (2021) Problem Statements in UX Discovery. 3 min read.
-Nielsen Norman Group (2016) UX Design Critiques: Cheat Sheet. 1 min Read.
+    - Nielsen Norman Group (2021) Problem Statements in UX Discovery. 3 min read.
+    - Nielsen Norman Group (2016) UX Design Critiques: Cheat Sheet. 1 min Read.
 
 - ### Interviewing
-Goodman M., Kuniavsky, E. & Moed, A.(2012) Observing the user experience,
+    - Goodman M., Kuniavsky, E. & Moed, A.(2012) Observing the user experience,
 2nd ed. Ch. 6: Universal tools: recruiting and interviewing, Interviewing: p.
 117-127.
-Nielsen Norman Group (2022). When to Use Which User-Experience Research
+    - Nielsen Norman Group (2022). When to Use Which User-Experience Research
 Methods. 5 min read.
-Nielsen Norman Group (2018) User Interviews: How, When, and Why to Conduct Them. 6 min read.
+    - Nielsen Norman Group (2018) User Interviews: How, When, and Why to Conduct Them. 6 min read.
 
 - ### Analysis
 Goodman M., Kuniavsky, E. & Moed, A.(2012) Observing the user experience: a
