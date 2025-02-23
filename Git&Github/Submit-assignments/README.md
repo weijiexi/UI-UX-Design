@@ -34,20 +34,20 @@
 ### git fetch && git reset --hard ef67b8188bf1f8059880b47acbb7958f76408a24
 
 The command git fetch && git reset --hard is a combination of two Git commands, git fetch and git reset --hard, used together to update your local repository to match the remote repository. Here’s a breakdown of what each part does:
-### 1. git fetch
+#### 1. git fetch
 - Purpose:
 git fetch downloads commits, files, and references from a remote repository into your local repository. However, it does not merge or modify your working directory or current branch.
 It updates your remote-tracking branches (like origin/main), allowing you to see what changes have been made on the remote without altering your local working directory.
 - Use Case:
 Use git fetch when you want to see what has been updated in the remote repository before deciding to merge those changes into your local branch.
 It’s a safe operation since it doesn’t modify your working files or branches.
-### 2. git reset --hard
+#### 2. git reset --hard
 - Purpose:
 git reset --hard is a powerful command that resets your current branch (e.g., main) to a specific state. It changes the HEAD to a specified commit (or to the current state of the branch if no commit is specified) and updates the index and working directory to match that state.
 This means all changes in your working directory and index that haven’t been committed will be discarded, and your branch will look exactly like the specified commit or reference.
 - Use Case:
 Use git reset --hard when you want to completely discard all local changes and uncommitted work, effectively reverting your working directory and branch to a specific state.
-### 3. Combined Command: git fetch && git reset --hard
+#### 3. Combined Command: git fetch && git reset --hard
 When combined, git fetch && git reset --hard is typically used to force your local branch to match the remote branch exactly. Here’s how it works:
 - Step 1: git fetch:
 Fetches the latest changes from the remote repository but doesn’t change your local working branch yet.
