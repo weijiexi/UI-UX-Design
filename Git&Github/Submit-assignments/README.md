@@ -17,13 +17,10 @@
 - 4.Edit in the mac.md or pc.md file.
 - 5.Follow the steps for adding, committing, and pushing your work from your local computer to GitHub: 
 
-    git add .
-
-    Git status
-
-    git commit -m 'WRITE A MESSAGE TO DESCRIBE YOUR CHANGES HERE' 
-
-    git push -u origin FIRSTNAME-LASTNAME
+        git add .
+        Git status
+        git commit -m 'WRITE A MESSAGE TO DESCRIBE YOUR CHANGES HERE' 
+        git push -u origin FIRSTNAME-LASTNAME
 
 - 6.Create a Pull Request to submit your work. 
 - 7.Make sure that your repository's main branch is listed on the left side of the screen and your repository's FIRSTNAME-LASTNA
