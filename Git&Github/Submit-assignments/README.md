@@ -4,11 +4,9 @@
         fork button - fork
 - 2.Clone this repo by clicking the green Code button, then copy pasting the SSH URL: 
 
-    Copy a SSH key url  
-
-    cd 
-
-    git clone git@github.com:YOUR-GITHUB-USERNAME/Git-for-Web-Development-Project.git
+        Copy a SSH key url  
+        cd 
+        git clone git@github.com:YOUR-GITHUB-USERNAME/Git-for-Web-Development-Project.git
 
 - 3.Create a branch: 
 
