@@ -7,3 +7,4 @@
 - Option + command + g - making a general frame
 - Command  + \ - hide tool
 - Shift + g - hide grid
+## The Basics of Figma
