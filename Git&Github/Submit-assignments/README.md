@@ -52,7 +52,7 @@ git reset --hard is a powerful command that resets your current branch (e.g., ma
 This means all changes in your working directory and index that haven’t been committed will be discarded, and your branch will look exactly like the specified commit or reference.
 - Use Case:
 Use git reset --hard when you want to completely discard all local changes and uncommitted work, effectively reverting your working directory and branch to a specific state.
-3. Combined Command: git fetch && git reset --hard
+### 3. Combined Command: git fetch && git reset --hard
 When combined, git fetch && git reset --hard is typically used to force your local branch to match the remote branch exactly. Here’s how it works:
 - Step 1: git fetch:
 Fetches the latest changes from the remote repository but doesn’t change your local working branch yet.
