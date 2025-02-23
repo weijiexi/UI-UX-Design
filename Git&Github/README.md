@@ -3,10 +3,10 @@ Git & Github
 - Submit assignments
 - Agile methodologies
 
-cd
-cd .
-cd ..
-cd ~
+    cd
+    cd .
+    cd ..
+    cd ~
 pwd		display path
 ls		list files
 Ls -la	
