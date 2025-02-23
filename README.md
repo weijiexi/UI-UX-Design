@@ -170,12 +170,12 @@
     - [Figmap](https://www.figma.com/community/plugin/937760472566581732/figmap)
 
 ## Reading - Articles / website
-### Sketching
+- ### Sketching
 Sketching. How to use sketching in your design
 Concepts App • Infinite, Flexible Sketching / For Windows: Microsoft Paint 3D
 7 reasons for sketching in UX design
 UI/UX sketching techniques 101. UX design is indeed a complicated…
-### Inspiration
+- ### Inspiration
 31 UX Design Inspiration Resources
 Dribbble - Discover the World's Top Designers & Creative Professionals
 Behance :: Best of Behance
