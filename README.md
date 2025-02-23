@@ -260,66 +260,66 @@ Methods. 5 min read.
     - Nielsen Norman Group (2018) User Interviews: How, When, and Why to Conduct Them. 6 min read.
 
 - ### Analysis
-Goodman M., Kuniavsky, E. & Moed, A.(2012) Observing the user experience: a
+    - Goodman M., Kuniavsky, E. & Moed, A.(2012) Observing the user experience: a
 practitioner's guide to user research.Chapter 15: analyzing qualitative data,p. 423-451
-Ulwick, T. (2017) What is Jobs To Be Done?. 11 min read.
-Interaction Design Foundation. Creating personas from user research results. 14
+    - Ulwick, T. (2017) What is Jobs To Be Done?. 11 min read.
+    - Interaction Design Foundation. Creating personas from user research results. 14
 min read.
 
 - ### Solution space
-Norman, D. (2013). The design of everyday things: Revised and expanded
+    - Norman, D. (2013). The design of everyday things: Revised and expanded
 edition. Basic Books, Chapter 6: Design Thinking. p. 208-242.
-Design Council. (2005) A study of the design process: Eleven lessons:
+    - Design Council. (2005) A study of the design process: Eleven lessons:
 managing design in eleven global brands. p. 6-7.
-Service Design Academy (2018) The Double Diamond. YouTube. 2min 29s.
+    - Service Design Academy (2018) The Double Diamond. YouTube. 2min 29s.
 - ### Lo-fidelity prototyping
-McCasland, A. (2021) AR careers: AR Product Prototyping. 4 min read.
-Shuhalii, A. (2010). What is the difference between low and high fidelity
+    - McCasland, A. (2021) AR careers: AR Product Prototyping. 4 min read.
+    - Shuhalii, A. (2010). What is the difference between low and high fidelity
 prototypes? 5 min read.
-Snyder, C. (2004). Paper prototyping: the fast and easy way to design and
+    - Snyder, C. (2004). Paper prototyping: the fast and easy way to design and
 refine user interfaces. Chapter 3. p.49-67.
 
 - ### High-fidelity prototyping
-bWalinga, J. & Stangor, C.. (2014).Introduction to Psychology, 1st
+    - bWalinga, J. & Stangor, C.. (2014).Introduction to Psychology, 1st
 Canadian Edition, Chapter 9.1.Memories as Types and Stages. 10 min read.
-Cao, J. (2015). Applying visual psychology to modern day design. 6 min read.
-Norman, D. (2002) Design of everyday things, Chapter 1. The psychopathology
+    - Cao, J. (2015). Applying visual psychology to modern day design. 6 min read.
+    - Norman, D. (2002) Design of everyday things, Chapter 1. The psychopathology
 of everyday things, p. 26-51.
-AJ&Smart. (2022) Figma UI Design tutorial: get started in just 24 minutes! 
+    - AJ&Smart. (2022) Figma UI Design tutorial: get started in just 24 minutes! 
 
 - ### Evaluation: Usability testing
-Goodman M., Kuniavsky, E. & Moed,A.(2012) Observing the user experience
+    - Goodman M., Kuniavsky, E. & Moed,A.(2012) Observing the user experience
 2nd ed. Chapter 11: Usability tests, p.273-326.
-Greenberg, S. & Buxton, B. (2008)Usability evaluation considered harmful
+    - Greenberg, S. & Buxton, B. (2008)Usability evaluation considered harmful
 (some of the time). CHI 2008 Proceedings. p. 111-120.
-Nielsen Norman Group (2000). Why you only need to test with 5 users. 4 min read.
+    - Nielsen Norman Group (2000). Why you only need to test with 5 users. 4 min read.
 
 - ### Evaluation: Usability inspection methods
-Nielsen Norman Group (1994).Summary of usability inspection methods. 1 min read.
-Nielsen Norman Group (2022). How to Conduct a Cognitive Walkthrough Workshop. 7 min read.
-Spencer (2000). The streamlined cognitive walkthrough method, working
+    - Nielsen Norman Group (1994).Summary of usability inspection methods. 1 min read.
+    - Nielsen Norman Group (2022). How to Conduct a Cognitive Walkthrough Workshop. 7 min read.
+    - Spencer (2000). The streamlined cognitive walkthrough method, working
 around social constraints encountered in a software development company.
 CHI 2000. p. 353-359.
 
 - ### Communicating Design
-Spool, J. M. (2021) Early-career UXers: Your most impressive work is missing
+    - Spool, J. M. (2021) Early-career UXers: Your most impressive work is missing
 from your portfolio. 7 min read.
-Hutka, S. (2021) AR careers: becoming an AR user researcher. 5 min read.
-Nielsen Norman Group (2021) Stakeholder analysis for UX projects. 5
+    - Hutka, S. (2021) AR careers: becoming an AR user researcher. 5 min read.
+    - Nielsen Norman Group (2021) Stakeholder analysis for UX projects. 5
 min read.
 
 - ### Ethics and politics of design
-Brignull, H. What is Deceptive Design?(includes video + links to types of
+    - Brignull, H. What is Deceptive Design?(includes video + links to types of
 deceptive design and hall of shame)
-Bennett, C. L. & Rosner, D. K. (2019) The promise of empathy: design, disability,
+    - Bennett, C. L. & Rosner, D. K. (2019) The promise of empathy: design, disability,
 and knowing the “other”. CHI 2019. p.1-13.
-Rest of World (2023). How AI reduces the world to stereotypes. 5 min read.
+    - Rest of World (2023). How AI reduces the world to stereotypes. 5 min read.
 
 - ### Design thinking and beyond
-Dunne, A. & Raby, F. (2012). Speculative Everything: design, fiction, and social
+    - Dunne, A. & Raby, F. (2012). Speculative Everything: design, fiction, and social
 dreaming. Ch. 1: Beyond radical design, p. 1-9, AND Ch. 3: Design as critique,
 33-45.
-Institute for the Future. (2020).Searching for Signals: Tips & Tricks from
+    - Institute for the Future. (2020).Searching for Signals: Tips & Tricks from
 IFTF Staff. 1 min read.
-Lindley, J. et al. (2014). Anticipatory Ethnography: Design Fiction as an Input
+    - Lindley, J. et al. (2014). Anticipatory Ethnography: Design Fiction as an Input
 to Design Ethnography. Ethnographic Praxis in Industry Conference (EPIC)Proceedings, p. 237–253.
