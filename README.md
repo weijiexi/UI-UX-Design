@@ -166,7 +166,7 @@
 - Motion
     - [Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion)
     - [Lottie Files](https://www.figma.com/community/plugin/809860933081065308/LottieFiles) - Create animations & export from Figma to Lot
-- Map
+- #### Map
     - [Figmap](https://www.figma.com/community/plugin/937760472566581732/figmap)
 
 ## Reading - Articles / website
