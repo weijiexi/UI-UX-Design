@@ -14,7 +14,7 @@
 
     git checkout -b 'FIRSTNAME-LASTNAME'
 
-    code .git
+    code .
 
 - 4.Edit in the mac.md or pc.md file.
 - 5.Follow the steps for adding, committing, and pushing your work from your local computer to GitHub: 
