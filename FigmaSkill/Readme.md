@@ -26,7 +26,7 @@
             - Color style
             - Fill style(images background)
             - Effect
-        - Grid 
+            - layout Grid 
         - Masks on a image
         - Form
 
