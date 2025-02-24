@@ -20,10 +20,10 @@
             - Frame - Best for building and controlling layouts with detailed design and interaction properties.
             - Group - Group are a geat way to combine layers into a single element. Ideal for simple, temporary organization without the need for advanced layout features.
             - Section - Perfect for organizing your overall workspace, helping you manage and navigate large projects.
-        - Components
-        - Layout
-            - Auto layout - responsive layout
-        - Constraints
+        - Components 
+        - Auto Layout vs. Constraints - In auto layout frames, the auto layout settings primarily manage the arrangement of elements. For items placed inside an auto layout frame, the auto layout rules will often take precedence, which might make traditional constraints less noticeable. But in static frames or nested scenarios outside of auto layout, constraints remain very useful for pinning elements to specific positions.
+            - Auto layout(responsive layout) - When you want to streamline the creation of responsive components and interfaces that need to adapt to varying content sizes automatically.
+            - Constraints - Constraints allow you to define how elements should behave when their parent frame changes size—pinning them to the top, bottom, left, right, or center. This feature is still essential for responsive design, particularly when you’re not using auto layout. When you need precise control over individual element placement, especially in static designs or when building responsive designs manually.
         - Creating style(defined your style)
             - Text style
             - Color style
