@@ -3,6 +3,7 @@
 - F - activates the Frame tool
 - Shift + command + K - open a file
 - Command + d - duplicate
+- Command + g - making a group
 - Shift + A - making a frame (Auto Layout)
 - Option + command + g - making a general frame
 - Command  + \ - hide tool
@@ -15,10 +16,11 @@
     - Slice tool - The slice tool in Figma lets you define specific areas of your design for export without affecting the overall layout. It’s particularly useful when you need to extract assets or parts of a design that aren’t neatly contained in a frame or group.
 - Right sidebar
     - Design
-        - Frame
+        - Container
+            - Frame - Best for building and controlling layouts with detailed design and interaction properties.
+            - Group - Group are a geat way to combine layers into a single element. Ideal for simple, temporary organization without the need for advanced layout features.
+            - Section - Perfect for organizing your overall workspace, helping you manage and navigate large projects.
         - Components
-        - Group
-        - Section
         - Layout
             - Auto layout - responsive layout
         - Constraints
@@ -28,7 +30,8 @@
             - Fill style(images background)
             - Effect
             - layout Grid 
-        - Masks on a image
+        - Image
+            - Masks on a image
         - Form
     - Prototyping 
         - Flows and Starting Points
