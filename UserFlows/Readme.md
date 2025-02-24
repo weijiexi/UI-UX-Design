@@ -1,0 +1,2 @@
+# User Flows
+A user flow shows the steps a user takes to achieve a goal. Sketching these flows is intended to communicate the steps the user takes through different screens and actions. They should include a name, step number, and type of user for each flow.
