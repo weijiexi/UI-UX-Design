@@ -242,42 +242,38 @@
     - Norman, D. (2013). The design of everyday things: Revised and expanded
 edition. Basic Books, [Chapter 1: The Psychopathology of Everyday Things](https://drive.google.com/file/d/1DYQ9NntAizys-sDPtS_M0xScFDGq9xO0/view), p.
 19-26 (up to “Fundamental Principles of Interaction”)
-    - Ries, E. (2011) The Lean StartUp: Ch. 4:Experiment, p. 56-74 (aka p. 63-77 in
-this PDF), AND How vision leads to steering, p.75-78. (aka p. 80-83 in this PDF)
-    - dSchool (2018) Design thinking bootleg deck. p. 1-12 (click link at right of webpage, will open a PDF)
-    - Baxter, K., Courage, C., & Caine, K. (2015). Understanding Your Users, Second Edition: A Practical Guide to User Research Methods. Morgan Kaufmann. ISBN-13: 978-0128002322 ; ISBN-10: 0128002328
+    - Ries, E. (2011) [The Lean StartUp](https://theleanstartup.com/book): Ch. 4:Experiment, p. 56-74 aka [p. 63-77](https://drive.google.com/file/d/1JVqhDmPDeHhBYQScFJgcrRQQJTnyGZok/view), AND How vision leads to steering, p.75-78. aka [p. 80-83](https://drive.google.com/file/d/1JVqhDmPDeHhBYQScFJgcrRQQJTnyGZok/view) 
+    - dSchool (2018) [Design thinking bootleg deck](https://dschool.stanford.edu/resources/design-thinking-bootleg). p. 1-12 (click link at right of webpage, will open a PDF)
+    - Baxter, K., Courage, C., & Caine, K. (2015). [Understanding Your Users](https://books.google.com/books/about/Understanding_Your_Users.html?id=bZ__HjU20hEC), Second Edition: A Practical Guide to User Research Methods. Morgan Kaufmann. ISBN-13: 978-0128002322 ; ISBN-10: 0128002328
 
 - ### Problem space
-    - Nielsen Norman Group (2021) Problem Statements in UX Discovery. 3 min read.
-    - Nielsen Norman Group (2016) UX Design Critiques: Cheat Sheet. 1 min Read.
+    - Nielsen Norman Group (2021) [Problem Statements in UX Discovery](https://www.nngroup.com/articles/problem-statements/). 3 min read.
+    - Nielsen Norman Group (2016) [UX Design Critiques: Cheat Sheet](https://media.nngroup.com/media/articles/attachments/NNg_UXCritiqueCheatsheet.pdf). 1 min Read.
 
 - ### Interviewing
     - Goodman M., Kuniavsky, E. & Moed, A.(2012) Observing the user experience,
-2nd ed. Ch. 6: Universal tools: recruiting and interviewing, Interviewing: p.
+2nd ed. [Ch. 6: Universal tools: recruiting and interviewing](https://drive.google.com/file/d/1RSIgmoDzAGRJB1ai9BlNjouCmbufo0mw/view), Interviewing: p.
 117-127.
-    - Nielsen Norman Group (2022). When to Use Which User-Experience Research
-Methods. 5 min read.
-    - Nielsen Norman Group (2018) User Interviews: How, When, and Why to Conduct Them. 6 min read.
+    - Nielsen Norman Group (2022). [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/) 5 min read.
+    - Nielsen Norman Group (2018) [User Interviews: How, When, and Why to Conduct Them](https://www.nngroup.com/articles/user-interviews/). 6 min read.
 
 - ### Analysis
     - Goodman M., Kuniavsky, E. & Moed, A.(2012) Observing the user experience: a
 practitioner's guide to user research.Chapter 15: analyzing qualitative data,p. 423-451
-    - Ulwick, T. (2017) What is Jobs To Be Done?. 11 min read.
-    - Interaction Design Foundation. Creating personas from user research results. 14
+    - Ulwick, T. (2017) [What is Jobs To Be Done?](https://jobs-to-be-done.com/what-is-jobs-to-be-done-fea59c8e39eb). 11 min read.
+    - Interaction Design Foundation. [Creating personas from user research results](https://www.interaction-design.org/literature/article/creating-personas-from-user-research-results). 14
 min read.
 
 - ### Solution space
     - Norman, D. (2013). The design of everyday things: Revised and expanded
-edition. Basic Books, Chapter 6: Design Thinking. p. 208-242.
-    - Design Council. (2005) A study of the design process: Eleven lessons:
-managing design in eleven global brands. p. 6-7.
-    - Service Design Academy (2018) The Double Diamond. YouTube. 2min 29s.
+edition. Basic Books, [Chapter 6: Design Thinking](https://drive.google.com/file/d/1DYQ9NntAizys-sDPtS_M0xScFDGq9xO0/view). p. 208-242.
+    - Design Council. (2005) [A study of the design process: Eleven lessons:managing design in eleven global brands](https://drive.google.com/file/d/1DA_5Z9foqfi14DTbhjok8V73Hi8P2YqC/view). p. 6-7.
+    - [Service Design Academy (2018) The Double Diamond](https://www.youtube.com/watch?v=mRd7OVmiyZw). YouTube. 2min 29s.
 - ### Lo-fidelity prototyping
-    - McCasland, A. (2021) AR careers: AR Product Prototyping. 4 min read.
-    - Shuhalii, A. (2010). What is the difference between low and high fidelity
-prototypes? 5 min read.
+    - McCasland, A. (2021) [AR careers: AR Product Prototyping](https://spark.meta.com/blog/ar-product-prototyping/). 4 min read.
+    - Shuhalii, A. (2010). [What is the difference between low and high fidelity prototypes?](https://bootcamp.uxdesign.cc/what-is-the-difference-between-low-and-high-fidelity-prototypes-b1f3612f85f7) 5 min read.
     - Snyder, C. (2004). Paper prototyping: the fast and easy way to design and
-refine user interfaces. Chapter 3. p.49-67.
+refine user interfaces. [Chapter 3](https://search.library.berkeley.edu/discovery/fulldisplay?context=L&vid=01UCS_BER:UCB&search_scope=DN_and_CI&tab=Default_UCLibrarySearch&docid=alma991078606059706532). p.49-67.
 
 - ### High-fidelity prototyping
     - bWalinga, J. & Stangor, C.. (2014).Introduction to Psychology, 1st
