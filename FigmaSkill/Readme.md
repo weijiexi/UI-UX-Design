@@ -19,7 +19,8 @@
         - Components
         - Group
         - Section
-        - Auto layout - responsive layout
+        - Layout
+            - Auto layout - responsive layout
         - Constraints
         - Creating style(defined your style)
             - Text style
@@ -29,7 +30,6 @@
             - layout Grid 
         - Masks on a image
         - Form
-
     - Prototyping 
         - Flows and Starting Points
         - Interravtions
