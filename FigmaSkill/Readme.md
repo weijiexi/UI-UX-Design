@@ -22,10 +22,10 @@
         - Auto layout - responsive layout
         - Constraints
         - Creating style(defined your style)
-        - Text style
-        - Color style
-        - Fill style(images background)
-        - Effect
+            - Text style
+            - Color style
+            - Fill style(images background)
+            - Effect
         - Grid 
         - Masks on a image
         - Form
