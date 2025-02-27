@@ -24,7 +24,7 @@
 - [Panda](https://usepanda.com/)
 - Designer — The homepage for your favorite websites
     - [Louis Paquet](https://www.behance.net/louispaquet)
-
+- [awwwards jury](https://www.awwwards.com/jury/2025/)
 ### Logo
 - [Logo Makers](https://zerotomastery.io/resources/)
 - [fiverr Logo-maker](https://www.fiverr.com/logo-maker)
