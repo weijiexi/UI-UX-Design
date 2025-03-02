@@ -25,6 +25,10 @@
 - Designer — The homepage for your favorite websites
     - [Louis Paquet](https://www.behance.net/louispaquet)
 - [awwwards jury](https://www.awwwards.com/jury/2025/)
+
+### Graphic design
+- [Graphic design solutions 5th Ed](https://drive.google.com/file/d/1dqK3tw78z08PSWRmN82MMOqGa3_95Qrx/view)
+
 ### Logo
 - [Logo Makers](https://zerotomastery.io/resources/)
 - [fiverr Logo-maker](https://www.fiverr.com/logo-maker)
