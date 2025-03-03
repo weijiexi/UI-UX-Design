@@ -22,9 +22,11 @@
 - [Site-Inspire](http://siteinspire.net/) - A collection of web design and development inspiration.
 - [Muzli](https://muz.li/) - Your daily dose of design inspiration from around the web.
 - [Panda](https://usepanda.com/)
-- Designer — The homepage for your favorite websites
-    - [Louis Paquet](https://www.behance.net/louispaquet)
 - [awwwards jury](https://www.awwwards.com/jury/2025/)
+    - [Louis Paquet](https://www.behance.net/louispaquet)
+    - [Monika Kehrer](https://trufcreative.com/news/)
+    - [Melanie Daveid](https://www.melaniedaveid.com/)
+
 
 ### Graphic design
 - [Graphic design solutions 5th Ed](https://drive.google.com/file/d/1dqK3tw78z08PSWRmN82MMOqGa3_95Qrx/view)
