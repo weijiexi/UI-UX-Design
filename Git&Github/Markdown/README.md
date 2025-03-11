@@ -28,4 +28,9 @@ or
     ![Alt text](image-url "Optional title")
     example
         ![Company Logo](./images/logo.png "Company Logo")
+## Highlighting
+    ```javascript
+        var s = "JavaScript syntax highlighting";
+        alert(s);
+    ```
 
