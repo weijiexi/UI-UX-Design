@@ -11,7 +11,7 @@
 - Can establish a linear mode of expression, a linear style
 - When line is the predominant element used to unify a composition or to describe shapes or forms in a design (or painting), the style is termed ```linear```.
 
-![linear](./linear1.jpg "linear")
+    ![linear](./linear1.jpg "linear")
 ### Shape
 - A ```curvilinear shape```, organic, or biomorphic shape is formed by curves or dominating marked flowing edges,which seems to have a naturalistic feel. It may be drawn precisely or loosely.
 - An ```abstract shape``` refers to a simple or complex rearrangement, alteration, or distortion of the representation of natural appearance used for stylistic distinction and/or communication purposes.
