@@ -1,6 +1,6 @@
 # Graphic Design: Formal Elements & Principles of Design
-## Formal Elements  
-- Line
+## Formal Elements   Principles of Design
+- Line                  Format
 - Shape
 - Color
 - Texture
