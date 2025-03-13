@@ -19,3 +19,9 @@
 - Figure(positive space)/Ground(negative space) - The figure or positive shape is a definite shape, immediately discernible as a shape. 
 ![federico pinto schmid art](./FedericoArt.png "federico pinto schmid art")
 ### Tecture
+- The tactile quality of a surface or the simulation or representation of such a surface quality is a texture. 
+- In the visual arts, there are two categories of texture: tactile and visual.
+- ```Tactile textures``` have actual tactile quality and can be physically
+touched and felt; they are also called actual textures. 
+- ```Visual textures``` are illusions of real textures created by hand,
+scanned from actual textures, or photographed. Using skills learned in drawing, painting, photography, and various other image-making media, a designer can create a great variety of textures.
