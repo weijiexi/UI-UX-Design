@@ -25,3 +25,7 @@
 touched and felt; they are also called actual textures. 
 - ```Visual textures``` are illusions of real textures created by hand,
 scanned from actual textures, or photographed. Using skills learned in drawing, painting, photography, and various other image-making media, a designer can create a great variety of textures.
+### Pattern
+- Pattern is a consistent repetition of a single visual unit or element within a given area. In all cases, there must be systematic repetition with obvious directional movement. 
+- An interesting aspect of pattern is that the viewer anticipates a sequence. If you examine patterns, you will notice that their structures rely on the configuration of three basic building blocks: ```dots, lines, and grids```. 
+- In a pattern, any individual small unit, whether a nonobjective or representational shape, can be based on the dot. Any moving path is based on lines, also called stripes. Any two intersecting units yield a pattern grid.
