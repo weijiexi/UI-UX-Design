@@ -31,3 +31,6 @@ scanned from actual textures, or photographed. Using skills learned in drawing, 
 - In a pattern, any individual small unit, whether a nonobjective or representational shape, can be based on the dot. Any moving path is based on lines, also called stripes. Any two intersecting units yield a pattern grid.
 - Why is the pattern important for a brand?
   The pattern is an element that can make a difference within the visual communication; if used well, it can become a distinctive feature of your brand and make you recognizable. The use of customized patterns will help you to give your brand more personality and can become a fundamental element of recognition, especially online or on social media.  the important thing is that it reflects your brand and what you want to communicate.
+- How to use It?
+A pattern can make a creative work visually more exciting and recognizable. Today,
+Applying a pattern on the packaging of different items helps to create a coordinated image between the various products of a brand to make it recognizable at a glance. Furthermore, the use of colour variants can help to differentiate the varieties: in this case, each colour will be associated with a particular taste, aroma, etc ... In the same way, using different textures or graphic motifs but of the same colour can help to identify a specific line of products.
