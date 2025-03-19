@@ -34,3 +34,10 @@ scanned from actual textures, or photographed. Using skills learned in drawing, 
 - How to use It?
 A pattern can make a creative work visually more exciting and recognizable. Today,
 Applying a pattern on the packaging of different items helps to create a coordinated image between the various products of a brand to make it recognizable at a glance. Furthermore, the use of colour variants can help to differentiate the varieties: in this case, each colour will be associated with a particular taste, aroma, etc ... In the same way, using different textures or graphic motifs but of the same colour can help to identify a specific line of products.
+## Principles of Design
+- Format
+- Balance
+- Visual Hierarchy
+- Rhythm
+- Unity
+- Laws of Perceptual Organization
