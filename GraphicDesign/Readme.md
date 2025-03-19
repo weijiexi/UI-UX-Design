@@ -41,3 +41,8 @@ Applying a pattern on the packaging of different items helps to create a coordin
 - Rhythm
 - Unity
 - Laws of Perceptual Organization
+### Format
+- The format is the defined perimeter as well as the field it encloses—the outer edges or boundaries of a design. 
+- Format refers to the field or substrate (piece of paper, mobile phone screen, outdoor billboard, etc.) for the graphic design
+project. 
+- Designers often use the term format to describe the type of project—that is, a poster, a CD cover, a mobile ads, and so on. Graphic designers work with a variety of formats.
