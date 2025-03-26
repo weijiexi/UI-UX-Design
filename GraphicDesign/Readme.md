@@ -46,3 +46,6 @@ Applying a pattern on the packaging of different items helps to create a coordin
 - Format refers to the field or substrate (piece of paper, mobile phone screen, outdoor billboard, etc.) for the graphic design
 project. 
 - Designers often use the term format to describe the type of project—that is, a poster, a CD cover, a mobile ads, and so on. Graphic designers work with a variety of formats.
+### Balance
+- Balance is stability or equilibrium created by an even distribution of visual weight on each side of a central axis as well as by an even distribution of weight among all the elements of the composition. 
+- When a design is balanced, it tends toward harmony. A balanced composition affects the viewer—communicating stability. The average viewer is averse to imbalance in a composition and reacts negatively to instability. 
