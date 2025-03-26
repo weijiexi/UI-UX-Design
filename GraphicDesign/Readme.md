@@ -53,21 +53,21 @@ project.
   - Visual weight
   - Position
   - Arrangement.
-#### Visual Weight
-Factors Affecting Visual Weight
-- Orientation and location of an element within the format
-- Line of vision (directional pull)
-- Size and shape of an element
-- Whether the element is figure or ground
-- Color: hue, value, saturation, and temperature
-- Texture
-- Density or number of elements in a given area
-- Isolation and emphasis of an element in the composition (focal point)
-- Groupings (equal groups; group of several small shapes could counterbalance one large shape)
-- Actual movement (in time-based/screen-based media, motion graphics)
-  ##### In two-dimensional design, weight is defined as a visual force or as visual weight. 
-  ##### This visual weight refers to the relative amount of visual attraction, importance, or emphasis the element carries in a composition. 
-  ##### Every element in a composition carries energy — an impression of force, strength, or weight.
-  - Symmetry is an equal distribution of visual weights, a mirroring of equivalent elements on either side of a central axis; it is also called reflection symmetry. Symmetry and approximate symmetry can communicate harmony and stability.
-  - Asymmetry is an equal distribution of visual weights achieved through weight and counterweight by balancing one element with the weight of a counterpointing element without mirroring elements on either side of a central axis (Figure 2-8). To achieve asymmetrical balance, the position, visual weight, size, value, color, shape, and texture of a mark on the page must be considered and weighed against every other mark. Every element and its position contribute to the overall balancing effect in a composition. （Most designer use asymmetry to their artworks.）
-  - Radial balance is symmetry achieved through a combination of horizontally and vertically oriented symmetry (Diagram2-15). Elements radiate out from a point in the center of the composition.
+  #### Visual Weight
+  Factors Affecting Visual Weight
+  - Orientation and location of an element within the format
+  - Line of vision (directional pull)
+  - Size and shape of an element
+  - Whether the element is figure or ground
+  - Color: hue, value, saturation, and temperature
+  - Texture
+  - Density or number of elements in a given area
+  - Isolation and emphasis of an element in the composition (focal point)
+  - Groupings (equal groups; group of several small shapes could counterbalance one large shape)
+  - Actual movement (in time-based/screen-based media, motion graphics)
+    ##### In two-dimensional design, weight is defined as a visual force or as visual weight. 
+    ##### This visual weight refers to the relative amount of visual attraction, importance, or emphasis the element carries in a composition. 
+    ##### Every element in a composition carries energy — an impression of force, strength, or weight.
+    - Symmetry is an equal distribution of visual weights, a mirroring of equivalent elements on either side of a central axis; it is also called reflection symmetry. Symmetry and approximate symmetry can communicate harmony and stability.
+    - Asymmetry is an equal distribution of visual weights achieved through weight and counterweight by balancing one element with the weight of a counterpointing element without mirroring elements on either side of a central axis (Figure 2-8). To achieve asymmetrical balance, the position, visual weight, size, value, color, shape, and texture of a mark on the page must be considered and weighed against every other mark. Every element and its position contribute to the overall balancing effect in a composition. （Most designer use asymmetry to their artworks.）
+    - Radial balance is symmetry achieved through a combination of horizontally and vertically oriented symmetry (Diagram2-15). Elements radiate out from a point in the center of the composition.
