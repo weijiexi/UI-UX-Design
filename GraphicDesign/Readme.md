@@ -49,3 +49,20 @@ project.
 ### Balance
 - Balance is stability or equilibrium created by an even distribution of visual weight on each side of a central axis as well as by an even distribution of weight among all the elements of the composition. 
 - When a design is balanced, it tends toward harmony. A balanced composition affects the viewer—communicating stability. The average viewer is averse to imbalance in a composition and reacts negatively to instability. 
+- Understanding balance involves the study of several interrelated visual factors: 
+  - Visual weight
+  - Position
+  - Arrangement.
+#### Visual Weight
+Factors Affecting Visual Weight
+- Orientation and location of an element within the format
+- Line of vision (directional pull)
+- Size and shape of an element
+- Whether the element is figure or ground
+- Color: hue, value, saturation, and temperature
+- Texture
+- Density or number of elements in a given area
+- Isolation and emphasis of an element in the composition (focal point)
+- Groupings (equal groups; group of several small shapes could counterbalance one large shape)
+- Actual movement (in time-based/screen-based media, motion graphics)
+##### In two-dimensional design, weight is defined as a visual force or as visual weight. 
