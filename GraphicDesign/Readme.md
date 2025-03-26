@@ -71,9 +71,9 @@ project.
     - The size, shape, value, color, and texture of a mark all contribute to an element’s visual weight. 
     - Where you position the mark on the page also affects its visual weight. The same mark positioned at different points on a page—bottom left, center, top right, or top left—will appear to change in visual weight because of its position. 
     - In visual perception, different areas of the page seem to carry more or less visual weight. 
-    ###### Symmetry 
+    ##### Symmetry 
     Symmetry is an equal distribution of visual weights, a mirroring of equivalent elements on either side of a central axis; it is also called reflection symmetry. Symmetry and approximate symmetry can communicate harmony and stability.
-    ###### Asymmetry 
+    ##### Asymmetry 
     Asymmetry is an equal distribution of visual weights achieved through weight and counterweight by balancing one element with the weight of a counterpointing element without mirroring elements on either side of a central axis (Figure 2-8). To achieve asymmetrical balance, the position, visual weight, size, value, color, shape, and texture of a mark on the page must be considered and weighed against every other mark. Every element and its position contribute to the overall balancing effect in a composition. （Most designer use asymmetry to their artworks.）
-    ###### Radial balance 
+    ##### Radial balance 
     Radial balance is symmetry achieved through a combination of horizontally and vertically oriented symmetry (Diagram2-15). Elements radiate out from a point in the center of the composition.
