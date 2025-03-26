@@ -55,6 +55,7 @@ project.
   - Arrangement.
   #### Visual Weight
   ![VisualWeight](./VisualWeight.png "VisualWeight")
+  
   Factors Affecting Visual Weight
   - Orientation and location of an element within the format
   - Line of vision (directional pull)
