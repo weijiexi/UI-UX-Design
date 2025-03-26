@@ -70,7 +70,7 @@ project.
   ![VisualWeight](./VisualWeight-1.jpg "VisualWeight")
     ##### In two-dimensional design, weight is defined as a visual force or as visual weight. 
     ##### This visual weight refers to the relative amount of visual attraction, importance, or emphasis the element carries in a composition. 
-    ##### Every element in a composition carries energy — an impression of force, strength, or weight.
+    ##### ```Every element in a composition carries energy``` — an impression of force, strength, or weight.
     - The size, shape, value, color, and texture of a mark all contribute to an element’s visual weight. 
     - Where you position the mark on the page also affects its visual weight. The same mark positioned at different points on a page—bottom left, center, top right, or top left—will appear to change in visual weight because of its position. 
     - In visual perception, different areas of the page seem to carry more or less visual weight. 
