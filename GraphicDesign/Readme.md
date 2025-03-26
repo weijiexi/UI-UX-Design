@@ -79,8 +79,9 @@ project.
       ##### Asymmetry 
       Asymmetry is an equal distribution of visual weights achieved through weight and counterweight by balancing one element with the weight of a counterpointing element without mirroring elements on either side of a central axis (Figure 2-8). To achieve asymmetrical balance, the position, visual weight, size, value, color, shape, and texture of a mark on the page must be considered and weighed against every other mark. Every element and its position contribute to the overall balancing effect in a composition. （Most designer use asymmetry to their artworks.）
        
-        ![asymmetry](./Asymmetry.jpg "asymmetry")
+        ![asymmetry](./Asymmetry.jpg "asymmetry")![asymmetry](./Asymmetry-1.jpg "asymmetry")
       ##### Radial balance 
       Radial balance is symmetry achieved through a combination of horizontally and vertically oriented symmetry (Diagram2-15). Elements radiate out from a point in the center of the composition.
       
       ![Symmetry](./Symmetry.jpg "Symmetry")
+      
