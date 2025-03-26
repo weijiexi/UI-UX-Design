@@ -55,7 +55,7 @@ project.
   - Arrangement.
   #### Visual Weight
   ![VisualWeight](./VisualWeight.png "VisualWeight")
-  
+
   Factors Affecting Visual Weight
   - Orientation and location of an element within the format
   - Line of vision (directional pull)
@@ -67,6 +67,7 @@ project.
   - Isolation and emphasis of an element in the composition (focal point)
   - Groupings (equal groups; group of several small shapes could counterbalance one large shape)
   - Actual movement (in time-based/screen-based media, motion graphics)
+  ![VisualWeight](./VisualWeight-1.jpg "VisualWeight")
     ##### In two-dimensional design, weight is defined as a visual force or as visual weight. 
     ##### This visual weight refers to the relative amount of visual attraction, importance, or emphasis the element carries in a composition. 
     ##### Every element in a composition carries energy — an impression of force, strength, or weight.
