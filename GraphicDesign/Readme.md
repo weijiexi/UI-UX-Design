@@ -65,4 +65,4 @@ Factors Affecting Visual Weight
 - Isolation and emphasis of an element in the composition (focal point)
 - Groupings (equal groups; group of several small shapes could counterbalance one large shape)
 - Actual movement (in time-based/screen-based media, motion graphics)
-##### In two-dimensional design, weight is defined as a visual force or as visual weight. 
+  ##### In two-dimensional design, weight is defined as a visual force or as visual weight. 
