@@ -89,10 +89,10 @@ project.
 - To guide the viewer, the designer uses visual hierarchy, ```the arrangement of all graphic elements according to emphasis```. 
   - Emphasis is the arrangement of visual elements according to importance, stressing some elements over others, making some superordinate (dominant) elements and subordinating other elements. 
   - Basically, the designer determines which graphic elements the viewer will see first, second, third, and so on. 
-  #### The designer must determine what to emphasize and what to de-emphasize. if you give emphasis to all elements in a design, you have given it to none of them; you end up with visual chaos. 
-  #### Emphasis is directly related to establishing a point of focus.
+#### The designer must determine what to emphasize and what to de-emphasize. if you give emphasis to all elements in a design, you have given it to none of them; you end up with visual chaos. 
+#### Emphasis is directly related to establishing a point of focus.
 ```The focal point``` is the part of a design that is most emphasized or accentuated, where the green chair is the focal point. ```Position, size, shape, direction, hue, value, saturation, and texture of a graphic element``` all contribute to establishing a focal point.
             ![focalPoint](./focalPoint.jpg "focalPoint")
-  #### Ways to Achieve Emphasis
+#### Ways to Achieve Emphasis
 To establish a visual hierarchy, decide on the importance of the graphic elements (images and type) of your design. Create a flow of information from the most important graphic element to the least.There are several means to achieve emphasis.
   
