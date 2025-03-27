@@ -85,5 +85,5 @@ project.
       
       ![Symmetry](./Symmetry.jpg "Symmetry")
   ### Visual Hierarchy
-  - One of the primary purposes of graphic design is to communicate information, and visual hierarchy is the primary principle for organizing information. 
-  - To guide the viewer, the designer uses visual hierarchy, the arrangement of all graphic elements according to emphasis. 
+  - One of the primary purposes of graphic design is to ```communicate information```, and visual hierarchy is the primary principle for ```organizing information```. 
+  - To guide the viewer, the designer uses visual hierarchy, ```the arrangement of all graphic elements according to emphasis```. 
