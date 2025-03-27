@@ -87,3 +87,5 @@ project.
   ### Visual Hierarchy
   - One of the primary purposes of graphic design is to ```communicate information```, and visual hierarchy is the primary principle for ```organizing information```. 
   - To guide the viewer, the designer uses visual hierarchy, ```the arrangement of all graphic elements according to emphasis```. 
+    - Emphasis is the arrangement of visual elements according to importance, stressing some elements over others, making some superordinate (dominant) elements and subordinating other elements. 
+    - Basically, the designer determines which graphic elements the viewer will see first, second, third, and so on. 
