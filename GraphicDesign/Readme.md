@@ -97,6 +97,7 @@ project.
 To establish a visual hierarchy, decide on the importance of the graphic elements (images and type) of your design. Create a flow of information from the most important graphic element to the least.
 Emphasis by Isolation
 Isolating a shape focuses attention on it (focused attention equals more visual weight). Please note that a focal point usually carries a good amount of visual weight and must be counterbalanced accordingly with other elements in a composition.
+ 
  ![Emphasis](./Emphasis.jpg "Emphasis")
 - ###### Emphasis by Placement
 How the viewer moves visually through a spatial composition is an ongoing topic of study. It has been shown that viewers have preferences for specific regions of a page. Placing a graphic element at a specific position in a composition, such as the foreground, the top-left corner, or the center/middle of a page, attracts most viewers' gaze most easily.
@@ -110,4 +111,5 @@ Elements such as arrows and diagonals use direction to point viewers’s eyes to
   - ```Tree structures```. Positioning the main or superordinate element at the top with subordinated elements below it in descending order creates hierarchical relationships. Another tree structure looks similar to a tree trunk with branches; subordinate elements stem out from the main element carried by lines.
   - ```Nest structures```. This can be done either through layering(the main element is the first layer and other layers move behind it) or through containment (the main element contains the less significant elements). Layering for the purpose of hierarchy is critical to understand in relation to websites and information design.
   - ```Stair structures```. To illustrate hierarchy, this structure stacks elements, with the main element at the top and subordinate elements descending like stairsteps.
+ 
  ![DiagrammaticStructures](./DiagrammaticStructures.jpg "DiagrammaticStructures")  
