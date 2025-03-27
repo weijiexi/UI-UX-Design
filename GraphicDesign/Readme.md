@@ -94,5 +94,20 @@ project.
 ```The focal point``` is the part of a design that is most emphasized or accentuated, where the green chair is the focal point. ```Position, size, shape, direction, hue, value, saturation, and texture of a graphic element``` all contribute to establishing a focal point.
             ![focalPoint](./focalPoint.jpg "focalPoint")
 #### Ways to Achieve Emphasis
-To establish a visual hierarchy, decide on the importance of the graphic elements (images and type) of your design. Create a flow of information from the most important graphic element to the least.There are several means to achieve emphasis.
-  
+To establish a visual hierarchy, decide on the importance of the graphic elements (images and type) of your design. Create a flow of information from the most important graphic element to the least.
+Emphasis by Isolation
+Isolating a shape focuses attention on it (focused attention equals more visual weight). Please note that a focal point usually carries a good amount of visual weight and must be counterbalanced accordingly with other elements in a composition.
+ ![Emphasis](./Emphasis.jpg "Emphasis")
+- ###### Emphasis by Placement
+How the viewer moves visually through a spatial composition is an ongoing topic of study. It has been shown that viewers have preferences for specific regions of a page. Placing a graphic element at a specific position in a composition, such as the foreground, the top-left corner, or the center/middle of a page, attracts most viewers' gaze most easily.
+- ###### Emphasis Through Scale
+The size and scale of shapes or objects play an important role in emphasis and creating the illusion of spatial depth. Used effectively, the size of one shape or object in relation to another—what we call scale—can make elements appear to move forward or backward on the page. Large shapes and forms tend to attract more attention. However, a very small object can also attract attention if it is seen in contrast to many larger ones.
+- ###### Emphasis Through Contrast
+Through contrast—light versus dark, smooth versus rough, bright versus dull—you can emphasize some graphic elements over others. For example, a dark shape amid a field of lighter shapes might become a focal point. Contrast also depends on and is aided by size, scale, location, shape, and/or position.
+- ###### Emphasis Through Direction and Pointers 
+Elements such as arrows and diagonals use direction to point viewers’s eyes to where they should go.
+- ###### Emphasis Through Diagrammatic Structures
+  - ```Tree structures```. Positioning the main or superordinate element at the top with subordinated elements below it in descending order creates hierarchical relationships. Another tree structure looks similar to a tree trunk with branches; subordinate elements stem out from the main element carried by lines.
+  - ```Nest structures```. This can be done either through layering(the main element is the first layer and other layers move behind it) or through containment (the main element contains the less significant elements). Layering for the purpose of hierarchy is critical to understand in relation to websites and information design.
+  - ```Stair structures```. To illustrate hierarchy, this structure stacks elements, with the main element at the top and subordinate elements descending like stairsteps.
+ ![DiagrammaticStructures](./DiagrammaticStructures.jpg "DiagrammaticStructures")  
