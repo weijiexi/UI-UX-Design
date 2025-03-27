@@ -84,4 +84,6 @@ project.
       Radial balance is symmetry achieved through a combination of horizontally and vertically oriented symmetry (Diagram2-15). Elements radiate out from a point in the center of the composition.
       
       ![Symmetry](./Symmetry.jpg "Symmetry")
-      
+  ### Visual Hierarchy
+  - One of the primary purposes of graphic design is to communicate information, and visual hierarchy is the primary principle for organizing information. 
+  - To guide the viewer, the designer uses visual hierarchy, the arrangement of all graphic elements according to emphasis. 
