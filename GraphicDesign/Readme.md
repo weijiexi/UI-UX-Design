@@ -123,4 +123,5 @@ project.
     - Repetition occurs when you repeat one or a few visual elements a number times or with great or total consistency. 
     - Variation is established by a break or modification in the pattern or by changing elements, such as the color, size, shape, spacing,position, or visual weight. 
     - Variation creates visual interest to engage a viewer and add an element of surprise. However, too much variation will dilute a visual beat.
+    
     ![Rhythm](./Rhythm-2.jpg "Rhythm")![Rhythm](./Rhythm-3.jpg "Rhythm")
