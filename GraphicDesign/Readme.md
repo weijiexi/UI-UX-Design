@@ -113,3 +113,12 @@ project.
     - ```Stair structures```. To illustrate hierarchy, this structure stacks elements, with the main element at the top and subordinate elements descending like stairsteps.
   
   ![DiagrammaticStructures](./DiagrammaticStructures.jpg "DiagrammaticStructures")  
+  ### Rhythm
+  - In graphic design, a strong and consistent repetition, a pattern of elements can set up a rhythm, which causes the viewer’s eyes to move around the page. Timing can be set by the intervals between and among the position of elements on the page. 
+  - Many factors can contribute to establishing rhythm — ```color,texture, figure/ground relationships, emphasis, and balance.```
+    #### Repetition and Variation
+    - The key to establishing rhythm in design is to understand the difference between repetition and variation. 
+    - In graphic design, the repetition of rhythm is interposed by variation to create visual interest. 
+    - Repetition occurs when you repeat one or a few visual elements a number times or with great or total consistency. 
+    - Variation is established by a break or modification in the pattern or by changing elements, such as the color, size, shape, spacing,position, or visual weight. 
+    - Variation creates visual interest to engage a viewer and add an element of surprise. However, too much variation will dilute a visual beat.
