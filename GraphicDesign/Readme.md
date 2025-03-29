@@ -155,4 +155,4 @@ All the graphic elements in a design are so interrelated they form a greater who
   - ##### Continuing line
     lines are always perceived as following the simplest path. If two lines break, the viewer sees the overall movement rather than the break; also called implied line.
   #### Modular grid 
-    ![modular-grid](./modular-grid.jpg "modular-grid")
+  ![modular-grid](./modular-grid.jpg "modular-grid")
