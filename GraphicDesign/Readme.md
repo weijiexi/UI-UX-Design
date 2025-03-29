@@ -1,11 +1,11 @@
 # Graphic Design
 - ## Formal Elements & Principles of Graphic Design
-    - ## Formal Elements   
+    - #### Formal Elements   
         - Line                  
         - Shape
         - Color
         - Texture
-    - ## Principles of Design
+    - #### Principles of Design
         - Format
         - Balance
         - Visual Hierarchy
