@@ -125,3 +125,10 @@ project.
   - Variation creates visual interest to engage a viewer and add an element of surprise. However, too much variation will dilute a visual beat.
     
     ![Rhythm](./Rhythm-2.jpg "Rhythm")![Rhythm](./Rhythm-3.jpg "Rhythm")
+### Unity
+All the graphic elements in a design are so interrelated they form a greater whole. All the graphic elements look as though they belong together.Viewers best understand and remember a composition that is unified. 
+  #### Gestalt
+  German for “form,” which places an emphasis on the perception of forms as organized wholes, primarily concerned with how the mind attempts to impose order on the world, to unify and order perceptions. 
+  - ##### From gestalt, we derive certain laws of perceptual organization that govern visual thinking, profoundly affecting how you construct unity in a composition. 
+  - The mind attempts to create order, make connections, and to seek a whole by grouping—perceiving visual units by ```location, orientation, likeness, shape, and color.``` 
+  - A fundamental principle is the law of ```prägnanz``` (German for “precision” or “conciseness”)— which means we seek to order our experience as a whole in a regular, simple, coherent manner.
