@@ -1,7 +1,7 @@
 # UI-UX-Design
 - Resources
 - Figma Skill
-- Git&Github
+- Git & Github
 - Principles of Graphic Design
 - Getting Started
     - Sketching
