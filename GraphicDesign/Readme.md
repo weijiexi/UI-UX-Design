@@ -129,12 +129,28 @@ project.
 All the graphic elements in a design are so interrelated they form a greater whole. All the graphic elements look as though they belong together.Viewers best understand and remember a composition that is unified. 
   #### Gestalt
   German for “form,” which places an emphasis on the perception of forms as organized wholes, primarily concerned with how the mind attempts to impose order on the world, to unify and order perceptions. 
+  
+  ![gestalt](./gestalt.png "gestalt")
+### Unity
   - ##### From gestalt, we derive certain laws of perceptual organization that govern visual thinking, profoundly affecting how you construct unity in a composition. 
   - The mind attempts to create order, make connections, and to seek a whole by grouping—perceiving visual units by ```location, orientation, likeness, shape, and color.``` 
   - ##### [the law of prägnanz](https://lawsofux.com/law-of-pr%C3%A4gnanz/)
     German for “precision” or “conciseness”— which means we seek to order our experience as a whole in a regular, simple, coherent manner.
-    
+
     ![Prägnanz](./Pragnanz.jpg "Prägnanz")
       - The human eye likes to find simplicity and order in complex shapes because it prevents us from becoming overwhelmed with information.
       - Research confirms that people are better able to visually process and remember simple figures than complex figures.
       - The human eye simplifies complex shapes by transforming them into a single, unified shape.
+  #### Laws of Perceptual Organization
+  - ##### Similarity
+    like elements, those that share characteristics,are perceived as belonging together. Elements can share likeness in shape, texture, color, or direction. Dissimilar elements tend to separate from like elements.
+  - ##### Proximity
+    elements near each other, in spatial proximity, are perceived as belonging together.
+  - ##### Continuity
+    perceived visual paths or connections (actual or implied) among parts. Elements that appear as a continuation of previous elements are perceived as linked, creating an impression of movement.
+  - ##### Closure
+    the mind’s tendency to connect individual elements to produce a completed form, unit, or pattern.
+  - ##### Common fate
+    elements are likely to be perceived as a unit if they move in the same direction.
+  - ##### Continuing line
+    lines are always perceived as following the simplest path. If two lines break, the viewer sees the overall movement rather than the break; also called implied line.
