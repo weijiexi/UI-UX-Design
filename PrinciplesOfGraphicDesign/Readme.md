@@ -17,7 +17,7 @@
 - An ```abstract shape``` refers to a simple or complex rearrangement, alteration, or distortion of the representation of natural appearance used for stylistic distinction and/or communication purposes.
 - A ```representational shape``` is recognizable and reminds the viewer of actual objects seen in nature; it is also called a figurative shape.
 - Figure(positive space)/Ground(negative space) - The figure or positive shape is a definite shape, immediately discernible as a shape. 
-![federico pinto schmid art](./FedericoArt.png "federico pinto schmid art")
+![federico pinto schmid art](./imags/FedericoArt.png "federico pinto schmid art")
 ### Tecture
 - The tactile quality of a surface or the simulation or representation of such a surface quality is a texture. 
 - In the visual arts, there are two categories of texture: tactile and visual.
@@ -54,7 +54,7 @@ project.
   - Position
   - Arrangement.
   #### Visual Weight
-  ![VisualWeight](./VisualWeight.png "VisualWeight")
+  ![VisualWeight](./imags/VisualWeight.png "VisualWeight")
 
   Factors Affecting Visual Weight
   - Orientation and location of an element within the format
@@ -67,7 +67,7 @@ project.
   - Isolation and emphasis of an element in the composition (focal point)
   - Groupings (equal groups; group of several small shapes could counterbalance one large shape)
   - Actual movement (in time-based/screen-based media, motion graphics)
-  ![VisualWeight](./VisualWeight-1.jpg "VisualWeight")
+  ![VisualWeight](./imags/VisualWeight-1.jpg "VisualWeight")
     ##### In two-dimensional design, weight is defined as a visual force or as visual weight. 
     ##### This visual weight refers to the relative amount of visual attraction, importance, or emphasis the element carries in a composition. 
     ##### ```Every element in a composition carries energy``` — an impression of force, strength, or weight.
@@ -79,11 +79,11 @@ project.
       ##### Asymmetry 
       Asymmetry is an equal distribution of visual weights achieved through weight and counterweight by balancing one element with the weight of a counterpointing element without mirroring elements on either side of a central axis (Figure 2-8). To achieve asymmetrical balance, the position, visual weight, size, value, color, shape, and texture of a mark on the page must be considered and weighed against every other mark. Every element and its position contribute to the overall balancing effect in a composition. （Most designer use asymmetry to their artworks.）
        
-      ![asymmetry](./Asymmetry.jpg "asymmetry-1")![asymmetry](./Asymmetry-1.jpg "asymmetry-1")![asymmetry-2](./asymmetry-2.jpg "asymmetry-2")
+      ![asymmetry](./imags/Asymmetry.jpg "asymmetry-1")![asymmetry](./imags/Asymmetry-1.jpg "asymmetry-1")![asymmetry-2](./imags/asymmetry-2.jpg "asymmetry-2")
       ##### Radial balance 
       Radial balance is symmetry achieved through a combination of horizontally and vertically oriented symmetry (Diagram2-15). Elements radiate out from a point in the center of the composition.
       
-      ![Symmetry](./Symmetry.jpg "Symmetry")
+      ![Symmetry](./imags/Symmetry.jpg "Symmetry")
 ### Visual Hierarchy
 - One of the primary purposes of graphic design is to ```communicate information```, and visual hierarchy is the primary principle for ```organizing information```. 
 - To guide the viewer, the designer uses visual hierarchy, ```the arrangement of all graphic elements according to emphasis```. 
@@ -92,13 +92,13 @@ project.
   #### The designer must determine what to emphasize and what to de-emphasize. if you give emphasis to all elements in a design, you have given it to none of them; you end up with visual chaos. 
   #### Emphasis is directly related to establishing a point of focus.
   ```The focal point``` is the part of a design that is most emphasized or accentuated, where the green chair is the focal point. ```Position, size, shape, direction, hue, value, saturation, and texture of a graphic element``` all contribute to establishing a focal point.
-              ![focalPoint](./focalPoint.jpg "focalPoint")
+              ![focalPoint](./imags/focalPoint.jpg "focalPoint")
   #### Ways to Achieve Emphasis
   To establish a visual hierarchy, decide on the importance of the graphic elements (images and type) of your design. Create a flow of information from the most important graphic element to the least.
   Emphasis by Isolation
   Isolating a shape focuses attention on it (focused attention equals more visual weight). Please note that a focal point usually carries a good amount of visual weight and must be counterbalanced accordingly with other elements in a composition.
   
-  ![Emphasis](./Emphasis.jpg "Emphasis")
+  ![Emphasis](./imags/Emphasis.jpg "Emphasis")
   - ###### Emphasis by Placement
   How the viewer moves visually through a spatial composition is an ongoing topic of study. It has been shown that viewers have preferences for specific regions of a page. Placing a graphic element at a specific position in a composition, such as the foreground, the top-left corner, or the center/middle of a page, attracts most viewers' gaze most easily.
   - ###### Emphasis Through Scale
@@ -112,11 +112,11 @@ project.
     - ```Nest structures```. This can be done either through layering(the main element is the first layer and other layers move behind it) or through containment (the main element contains the less significant elements). Layering for the purpose of hierarchy is critical to understand in relation to websites and information design.
     - ```Stair structures```. To illustrate hierarchy, this structure stacks elements, with the main element at the top and subordinate elements descending like stairsteps.
   
-  ![DiagrammaticStructures](./DiagrammaticStructures.jpg "DiagrammaticStructures")  
+  ![DiagrammaticStructures](./imags/DiagrammaticStructures.jpg "DiagrammaticStructures")  
 ### Rhythm
 - In graphic design, a strong and consistent repetition, a pattern of elements can set up a rhythm, which causes the viewer’s eyes to move around the page. Timing can be set by the intervals between and among the position of elements on the page. 
 - Many factors can contribute to establishing rhythm — ```color,texture, figure/ground relationships, emphasis, and balance.```
-    ![Rhythm](./Rhythm-1.jpg "Rhythm")
+    ![Rhythm](./imags/Rhythm-1.jpg "Rhythm")
   #### Repetition and Variation
   - The key to establishing rhythm in design is to understand the difference between repetition and variation. 
   - In graphic design, the repetition of rhythm is interposed by variation to create visual interest. 
@@ -124,24 +124,24 @@ project.
   - Variation is established by a break or modification in the pattern or by changing elements, such as the color, size, shape, spacing,position, or visual weight. 
   - Variation creates visual interest to engage a viewer and add an element of surprise. However, too much variation will dilute a visual beat.
     
-    ![Rhythm](./Rhythm-2.jpg "Rhythm")![Rhythm](./Rhythm-3.jpg "Rhythm")
+    ![Rhythm](./imags/Rhythm-2.jpg "Rhythm")![Rhythm](./imags/Rhythm-3.jpg "Rhythm")
 ### Unity
 All the graphic elements in a design are so interrelated they form a greater whole. All the graphic elements look as though they belong together.Viewers best understand and remember a composition that is unified. 
   #### Gestalt
   German for “form,” which places an emphasis on the perception of forms as organized wholes, primarily concerned with how the mind attempts to impose order on the world, to unify and order perceptions. 
   
-  ![gestalt](./gestalt.png "gestalt")
+  ![gestalt](./imags/gestalt.png "gestalt")
   - ##### From gestalt, we derive certain laws of perceptual organization that govern visual thinking, profoundly affecting how you construct unity in a composition. 
   - The mind attempts to create order, make connections, and to seek a whole by grouping—perceiving visual units by ```location, orientation, likeness, shape, and color.``` 
   - ##### [the law of prägnanz](https://lawsofux.com/law-of-pr%C3%A4gnanz/)
     German for “precision” or “conciseness”— which means we seek to order our experience as a whole in a regular, simple, coherent manner.
 
-    ![Prägnanz](./Pragnanz.jpg "Prägnanz")
+    ![Prägnanz](./imags/Pragnanz.jpg "Prägnanz")
       - The human eye likes to find simplicity and order in complex shapes because it prevents us from becoming overwhelmed with information.
       - Research confirms that people are better able to visually process and remember simple figures than complex figures.
       - The human eye simplifies complex shapes by transforming them into a single, unified shape.
   #### Laws of Perceptual Organization
-  ![gestalt](./gestalt-1.png "gestalt")
+  ![gestalt](./imags/gestalt-1.png "gestalt")
   - ##### Similarity
     like elements, those that share characteristics,are perceived as belonging together. Elements can share likeness in shape, texture, color, or direction. Dissimilar elements tend to separate from like elements.
   - ##### Proximity
@@ -156,5 +156,5 @@ All the graphic elements in a design are so interrelated they form a greater who
     lines are always perceived as following the simplest path. If two lines break, the viewer sees the overall movement rather than the break; also called implied line.
   #### Modular grid 
   Structure and Unity - Viewers will perceive a greater sense of unity in a composition when they see or sense visual connections through the alignment of elements, objects, or edges. Because people seek order, their eyes easily pick up these relationships and make connections among the forms. 
-  ![modular-grid](./modular-grid.jpg "modular-grid")
-  ![modular-grid](./Modular-Grid.gif "modular-grid")
+  ![modular-grid](./imags/modular-grid.jpg "modular-grid")
+  ![modular-grid](./imags/Modular-Grid.gif "modular-grid")
