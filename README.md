@@ -2,7 +2,8 @@
 - Resources
 - Figma Skill
 - Git & Github
-- Principles of Graphic Design
+- Graphic Design
+    - Principles of Graphic Design
 - Getting Started
     - Sketching
     - User Flows
