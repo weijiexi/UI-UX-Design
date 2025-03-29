@@ -131,7 +131,6 @@ All the graphic elements in a design are so interrelated they form a greater who
   German for “form,” which places an emphasis on the perception of forms as organized wholes, primarily concerned with how the mind attempts to impose order on the world, to unify and order perceptions. 
   
   ![gestalt](./gestalt.png "gestalt")
-### Unity
   - ##### From gestalt, we derive certain laws of perceptual organization that govern visual thinking, profoundly affecting how you construct unity in a composition. 
   - The mind attempts to create order, make connections, and to seek a whole by grouping—perceiving visual units by ```location, orientation, likeness, shape, and color.``` 
   - ##### [the law of prägnanz](https://lawsofux.com/law-of-pr%C3%A4gnanz/)
