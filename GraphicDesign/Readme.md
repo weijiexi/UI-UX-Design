@@ -133,6 +133,7 @@ All the graphic elements in a design are so interrelated they form a greater who
   - The mind attempts to create order, make connections, and to seek a whole by grouping—perceiving visual units by ```location, orientation, likeness, shape, and color.``` 
   - ##### [the law of prägnanz](https://lawsofux.com/law-of-pr%C3%A4gnanz/)
     German for “precision” or “conciseness”— which means we seek to order our experience as a whole in a regular, simple, coherent manner.
+    
     ![Prägnanz](./Pragnanz.jpg "Prägnanz")
       - The human eye likes to find simplicity and order in complex shapes because it prevents us from becoming overwhelmed with information.
       - Research confirms that people are better able to visually process and remember simple figures than complex figures.
