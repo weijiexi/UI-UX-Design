@@ -141,6 +141,7 @@ All the graphic elements in a design are so interrelated they form a greater who
       - Research confirms that people are better able to visually process and remember simple figures than complex figures.
       - The human eye simplifies complex shapes by transforming them into a single, unified shape.
   #### Laws of Perceptual Organization
+    ![gestalt](./gestalt-1.png "gestalt")
   - ##### Similarity
     like elements, those that share characteristics,are perceived as belonging together. Elements can share likeness in shape, texture, color, or direction. Dissimilar elements tend to separate from like elements.
   - ##### Proximity
