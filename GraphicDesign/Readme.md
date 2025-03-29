@@ -155,5 +155,6 @@ All the graphic elements in a design are so interrelated they form a greater who
   - ##### Continuing line
     lines are always perceived as following the simplest path. If two lines break, the viewer sees the overall movement rather than the break; also called implied line.
   #### Modular grid 
+  Structure and Unity - Viewers will perceive a greater sense of unity in a composition when they see or sense visual connections through the alignment of elements, objects, or edges. Because people seek order, their eyes easily pick up these relationships and make connections among the forms. 
   ![modular-grid](./modular-grid.jpg "modular-grid")
   ![modular-grid](./Modular-Grid.gif "modular-grid")
