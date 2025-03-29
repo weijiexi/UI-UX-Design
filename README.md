@@ -4,6 +4,7 @@
 - Git & Github
 - Graphic Design
     - Formal Elements & Principles of Graphic Design
+- Law of UX
 - Getting Started
     - Sketching
     - User Flows
