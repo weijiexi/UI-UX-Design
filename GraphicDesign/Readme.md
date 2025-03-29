@@ -12,3 +12,4 @@ Formal Elements & Principles of Graphic Design
     - Rhythm
     - Unity
     - Laws of Perceptual Organization
+#### Formal Elements & Principles of Graphic Design
