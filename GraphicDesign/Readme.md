@@ -131,5 +131,9 @@ All the graphic elements in a design are so interrelated they form a greater who
   German for “form,” which places an emphasis on the perception of forms as organized wholes, primarily concerned with how the mind attempts to impose order on the world, to unify and order perceptions. 
   - ##### From gestalt, we derive certain laws of perceptual organization that govern visual thinking, profoundly affecting how you construct unity in a composition. 
   - The mind attempts to create order, make connections, and to seek a whole by grouping—perceiving visual units by ```location, orientation, likeness, shape, and color.``` 
-  - A fundamental principle is the law of ```prägnanz``` (German for “precision” or “conciseness”)— which means we seek to order our experience as a whole in a regular, simple, coherent manner.
-    - People will perceive and interpret ambiguous or complex images as the simplest form possible, because it is the interpretation that requires the least cognitive effort of us.
+  - ##### [the law of prägnanz](https://lawsofux.com/law-of-pr%C3%A4gnanz/)
+    German for “precision” or “conciseness”— which means we seek to order our experience as a whole in a regular, simple, coherent manner.
+    ![Prägnanz](./Prägnanz.jpg "Prägnanz")
+      - The human eye likes to find simplicity and order in complex shapes because it prevents us from becoming overwhelmed with information.
+      - Research confirms that people are better able to visually process and remember simple figures than complex figures.
+      - The human eye simplifies complex shapes by transforming them into a single, unified shape.
