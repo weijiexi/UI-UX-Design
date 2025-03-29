@@ -1,7 +1,13 @@
 # UI-UX-Design
 - Resources
 - Figma Skill
+- Git&Github
+- Graphic Design
 - Getting Started
     - Sketching
     - User Flows
     - Sitemaps
+- Explore & iterate
+    - Wireframes
+    - Mockups
+    - Prototypes
