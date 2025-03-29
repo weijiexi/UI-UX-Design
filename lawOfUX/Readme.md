@@ -1,1 +1,1 @@
-# Law of UX
+# [Law of UX](https://lawsofux.com/)
