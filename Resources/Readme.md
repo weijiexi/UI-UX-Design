@@ -30,6 +30,7 @@
 
 ### Graphic design
 - [Graphic design solutions 5th Ed](https://drive.google.com/file/d/1dqK3tw78z08PSWRmN82MMOqGa3_95Qrx/view)
+- [Law of UX](https://lawsofux.com/)
 
 ### Logo
 - [Logo Makers](https://zerotomastery.io/resources/)
