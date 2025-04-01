@@ -18,3 +18,4 @@ Before you choose a typeface, ```clearly define the audience, tone, personality 
     - Read reviews of the typeface and font.
     - For flexibility and unity, consider employing a type family. In a family, all the type maintains the same basic structure with variations, differentiated by slight individual characteristics.
     - Ensure sufficient value contrast between the typeface and the background.
+#### Design Concept
