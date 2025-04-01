@@ -8,3 +8,5 @@ For the screen, you can specify type measurement using points, pixels, percentag
 ### Type Selection
 Before you choose a typeface, ```clearly define the audience, tone, personality and attitude``` of what you are trying to communicate and how you want to say it. 
 #### Tips on Selecting a Typeface
+- Select based on appropriateness for audience, design concept, message, communication requirements, and context.
+> For large amounts of text, you need a highly readable typeface.
