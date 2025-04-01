@@ -18,4 +18,9 @@ Before you choose a typeface, ```clearly define the audience, tone, personality 
     - Read reviews of the typeface and font.
     - For flexibility and unity, consider employing a type family. In a family, all the type maintains the same basic structure with variations, differentiated by slight individual characteristics.
     - Ensure sufficient value contrast between the typeface and the background.
-#### Design Concept
+### Design Concept
+- Often, beginning students (and almost all nondesigners) choose typefaces for their novelty appeal rather than select a suitable
+typeface to express the design concept. 
+
+   - Beginners tend to be attracted to typefaces that are decorative. They may also have little understanding of what a typeface connotes, of its history and classification. ```For example, choosing a typeface associated with a time period or style, such as art deco, carries historical and aesthetic meaning, even if you aren’t aware of it. Knowing type classifications and design history comes strongly into play when selecting a typeface. For example, would you use American
+nineteenth-century wood type for a magazine article about the history of East Asia?
