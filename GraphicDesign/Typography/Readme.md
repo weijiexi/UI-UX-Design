@@ -32,4 +32,4 @@ nineteenth-century wood type for a magazine article about the history of East As
    > Papyrus	Ancient Middle Eastern / exoticized	Overused, cliché
    
    > Wood Type	19th-century American posters	Frontier, Western, industrial
-
+    ![didot](./imags/didot.png "didot")
