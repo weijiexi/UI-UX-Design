@@ -26,7 +26,7 @@ nineteenth-century wood type for a magazine article about the history of East As
    > Didot	18th-century French elegance	Luxury, fashion
      ![didot](./imags/didot.png "didot")
    > Futura	Bauhaus modernism (1920s)	Clean, rational, modern
-
+     ![futura](./imags/futura.png "futura")
    > Cooper Black	1920s–70s Americana	Retro, friendly
 
    > Papyrus	Ancient Middle Eastern / exoticized	Overused, cliché
