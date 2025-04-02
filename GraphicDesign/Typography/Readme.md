@@ -24,13 +24,18 @@ typeface to express the design concept. Every font carries meaning — ```histor
    - Beginners tend to be attracted to typefaces that are decorative. ```They may also have little understanding of what a typeface connotes, of its history and classification.``` For example, choosing a typeface associated with a time period or style, such as art deco, carries historical and aesthetic meaning, even if you aren’t aware of it. Knowing type classifications and design history comes strongly into play when selecting a typeface. For example, would you use American
 nineteenth-century wood type for a magazine article about the history of East Asia? Each typeface has a history, context, and classification — and using it communicates certain unspoken associations:   
    > Didot - 18th-century French elegance	Luxury, fashion
+
    ![didot](./imags/didot.png "didot")
    > Futura - Bauhaus modernism (1920s)	Clean, rational, modern
+
    ![futura](./imags/futura.png "futura")
    > Cooper Black - 1920s–70s Americana	Retro, friendly
+
    ![futura](./imags/CooperBlack.png "futura")
    > Papyrus - Ancient Middle Eastern / exoticized	Overused, cliché
+
    ![futura](./imags/Papyrus.jpg "futura")  
    > Wood Type - 19th-century American posters	Frontier, Western, industrial
+   
    ![futura](./imags/WoodType.jpg "futura")
    
