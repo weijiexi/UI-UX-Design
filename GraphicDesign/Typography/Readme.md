@@ -31,14 +31,15 @@ nineteenth-century wood type for a magazine article about the history of East As
    ![futura](./imags/futura.png "futura")
    > Cooper Black - 1920s–70s Americana	Retro, friendly
 
-   ![futura](./imags/CooperBlack.png "futura")
+   ![CooperBlack](./imags/CooperBlack.png "CooperBlack")
    > Papyrus - Ancient Middle Eastern / exoticized	Overused, cliché
 
-   ![futura](./imags/Papyrus.jpg "futura")  
+   ![papyrus](./imags/Papyrus.jpg "papyrus")  
    > Wood Type - 19th-century American posters	Frontier, Western, industrial
 
-   ![futura](./imags/WoodType.jpg "futura")
+   ![WoodType](./imags/WoodType.jpg "WoodType")
 ### Readability and Legibility
+   ![Readability&Legibility](./imags/Readability&Legibility.png "Readability&Legibility")
 With considerations of size, spacing, margins, color, and paper selection, contributes to readability. 
 - Typefaces that are too light or too heavy may be difficult to read, especially in smaller sizes. Caution: Thin strokes are very difficult to see on screen and should be avoided for text.
 - Typefaces with too much thick–thin contrast may be difficult to read if they are set very small—the thin strokes may seem to disappear.
