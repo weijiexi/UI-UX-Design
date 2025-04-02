@@ -56,3 +56,7 @@ In such a case, the typeface would contextualize the image.
 - Should the typeface carry the main communication with the image subordinate to it?
 - Should the type and image operate collectively? (See Figure3-7)
 - Would hand-drawn or handmade lettering or handwriting work best?
+### Typeface Pairings
+- Being creative involves experimentation. Having guidelines or grasping standards allows you to critique your experiments.
+- Designers mix typefaces for conceptual, creative, and/or aesthetic reasons. 
+- There are general type rules for beginners and, perhaps, for any designer.
