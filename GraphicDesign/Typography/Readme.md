@@ -47,3 +47,12 @@ With considerations of size, spacing, margins, color, and paper selection, contr
 - Greater value contrast between type and background increases readability.
 - Highly saturated colors may interfere with readability.
 - People tend to read darker colors first.
+### Integration with image
+> Should the typeface share visual characteristics with the image?
+> Should the typeface contrast with the characteristics of the image?
+> Should the typeface be neutral (one that does not draw great attention to itself) and allow the image to drive the solution?
+In such a case, the typeface would contextualize the image.
+> Should the typeface dominate the solution? 
+> Should the typeface carry the main communication with the image subordinate to it?
+> Should the type and image operate collectively? (See Figure3-7)
+> Would hand-drawn or handmade lettering or handwriting work best?
