@@ -58,6 +58,13 @@ In such a case, the typeface would contextualize the image.
 - Should the type and image operate collectively? (See Figure3-7)
 - Would hand-drawn or handmade lettering or handwriting work best?
 ### Typeface Pairings
-- Being creative involves experimentation. Having guidelines or grasping standards allows you to critique your experiments.
-- Designers mix typefaces for conceptual, creative, and/or aesthetic reasons. 
-- There are general type rules for beginners and, perhaps, for any designer.
+Being creative involves experimentation. Having guidelines or grasping standards allows you to critique your experiments.
+Designers mix typefaces for conceptual, creative, and/or aesthetic reasons. 
+There are general type rules for beginners and, perhaps, for any designer.
+- #### Limit Mixing and Select for Contrast
+   - Pair typefaces for distinction between display type and text type. 
+      - The most common rule is to restrict designing to utilizing no more than two typefaces—one for display and one for text. 
+      - For example, in print, mix a sans serif for display and a serif for readable text.
+      - The obvious point of mixing faces is to add contrast, for differentiation 
+      ![TypefacePairingsy](./imags/TypefacePairings-1.jpg "TypefacePairings")
+      ![TypefacePairings](./imags/TypefacePairings-2.jpg "TypefacePairings")
