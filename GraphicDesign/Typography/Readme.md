@@ -77,7 +77,9 @@ There are general type rules for beginners and, perhaps, for any designer.
       > Regular Versus Condensed
    - #### Pair Complementary Typefaces
       > Select typefaces that have contrasting voices but similar x-heights — pair a soft voice with a bombastic voice.
+
       > Consider pairing a typeface with a linear quality with a typeface made from thick strokes. 
+      
       > Consider pairing actual handwriting with an industrial typeface.
 ### Spacing
 When setting type, whether it’s a big, two-word headline or a big,
