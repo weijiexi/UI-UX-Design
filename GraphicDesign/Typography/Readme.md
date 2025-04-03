@@ -68,5 +68,6 @@ There are general type rules for beginners and, perhaps, for any designer.
       - The obvious point of mixing faces is to add contrast, for differentiation 
       ![TypefacePairingsy](./imags/TypefacePairings-1.jpg "TypefacePairings")
       ![TypefacePairings](./imags/TypefacePairings-2.jpg "TypefacePairings")
-      
+
       [fontpair](https://www.fontpair.co/)
+      > In editorial design the type and image should coexist harmoniously, and one should never overpower the other. They should complement each other. Novice designers often select elaborate display typefaces that conflict with the image. A good selection of a serif and sans serif typeface that contain a corresponding italic is all that is needed
