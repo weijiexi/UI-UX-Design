@@ -71,3 +71,11 @@ There are general type rules for beginners and, perhaps, for any designer.
 
       [fontpair](https://www.fontpair.co/)
       > In editorial design the type and image should coexist harmoniously, and one should never overpower the other. They should complement each other. Novice designers often select elaborate display typefaces that conflict with the image. A good selection of a serif and sans serif typeface that contain a corresponding italic is all that is needed
+   - #### Select for Contrast and Variation
+      > Serif Versus Sans Serif
+      > Light Versus Bold
+      > Regular Versus Condensed
+   - #### Pair Complementary Typefaces
+      > Select typefaces that have contrasting voices but similar x-heights — pair a soft voice with a bombastic voice.
+      > Consider pairing a typeface with a linear quality with a typeface made from thick strokes. 
+      > Consider pairing actual handwriting with an industrial typeface.
