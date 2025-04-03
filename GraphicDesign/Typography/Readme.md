@@ -79,3 +79,16 @@ There are general type rules for beginners and, perhaps, for any designer.
       > Select typefaces that have contrasting voices but similar x-heights — pair a soft voice with a bombastic voice.
       > Consider pairing a typeface with a linear quality with a typeface made from thick strokes. 
       > Consider pairing actual handwriting with an industrial typeface.
+### Spacing
+When setting type, whether it’s a big, two-word headline or a big,
+two-hundred-page document, one of the most overlooked aspects
+is the space between the letters, the words, the sentences and the
+paragraphs. This is as important as which typeface you choose and
+at what size you use it. Everyone can look at type and design with
+it but it takes a real craftsperson to look at the negative space and
+define the true relationship within the typography. Whether it’s
+loose or tight, it has to be consistent and pleasurable, and it’s right
+there, you just have to shift your attention.
+                                             — Armin Vit
+                                             UnderConsideration LLC
+
