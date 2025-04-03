@@ -68,4 +68,5 @@ There are general type rules for beginners and, perhaps, for any designer.
       - The obvious point of mixing faces is to add contrast, for differentiation 
       ![TypefacePairingsy](./imags/TypefacePairings-1.jpg "TypefacePairings")
       ![TypefacePairings](./imags/TypefacePairings-2.jpg "TypefacePairings")
+      
       [fontpair](https://www.fontpair.co/)
