@@ -95,4 +95,23 @@ loose or tight, it has to be consistent and pleasurable, and it’s right
 there, you just have to shift your attention.
                                              — Armin Vit
                                              UnderConsideration LLC
+### Voice and Branding
+- Make sure the typeface selection is appropriate for the brand or entity.
+- Typeface selection can help differentiate a brand. (Caution:
+Typefaces selected for a brand or group’s identity may
+work in print but may not translate well to the screen—for
+example, a modern classification with very thin strokes.)
+- Any display typeface should support the logo, not fight with
+it for attention. Maintain enough area of isolation (margins
+of white space) around the logo.
+- The typeface’s voice should enhance communication.
+Variety
+- As in print, a type family, extended family, or super family
+offers a variety of weights and widths.
+- Select type styles for weight and width contrast.
+Selecting Typefaces for Screens
+There are many typefaces for use on screen available for
+dynamic download from the cloud. You can purchase web
+fonts from reputable type foundries online. Many web font
+purchases include a font for print as well.
 
