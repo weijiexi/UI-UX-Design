@@ -13,3 +13,4 @@
         - Unity
         - Laws of Perceptual Organization
 - ## Typography
+- ## Composition
