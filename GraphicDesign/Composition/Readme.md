@@ -10,4 +10,4 @@ resulting from the visualization and arrangement of graphic
 elements—type and images—in relation to one another and
 to the format, created with the intention to visually commu-
 nicate, to be compelling, and to be expressive. 
-- Composing is about how all the parts of your design work together—the visual organization of type and images in a graphic spatial arrangement.
+- Composing is about how all the parts of your design work together — ```the visual organization of type and images in a graphic spatial arrangement.```
