@@ -5,6 +5,7 @@
 - Graphic Design
     - Formal Elements & Principles of Graphic Design
     - Typography
+    - Composition
 - Law of UX
 - Getting Started
     - Sketching
