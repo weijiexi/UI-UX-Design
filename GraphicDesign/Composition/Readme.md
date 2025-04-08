@@ -44,6 +44,11 @@ vertical axis is the key to establishing balance (Diagram 7-5).
 - In a symmetrical composition, corresponding (mirrored) forms are arranged on either side of the vertical axis. 
     - In general, balance achieved through symmetry yields stable and often static(as opposed to active) results. 
     - In an asymmetrical composition, arranging a balanced composition does not rely on symmetry. Forms are arranged to coun- terbalance each other without mirrored opposite visual weight and positioning. To achieve a balanced asymmetrical composition, you consider the position and visual weight (size, texture, color, value) of each graphic element in relation to the other and to the format. Asymmetry is not a formulaic approach to composition. Asymmetry often is more active due to its inherent variations, but it does not necessarily have more impact than symmetry.
+- In asymmetrical compositions where complementary graphic elements are positioned in counterpoint, visual weight deliberations are strategic, not formulaic. To understand balancing a composition through counterpoint, think of every visual weight you position in a composition requiring a contrasting counterbalancing force strategically placed in the composition. 
+- In design, counterpoint is the use of contrast or the interplay of graphic elements in a work simultaneously providing unity and variety. In any balancecomposition, if you move one graphic element, you will need
+to reconsider the balance of the entire composition. (See Chapter 2 for more information on visual weight.)
+
+![composition](./conposition-4.jpg "composition")
 ### Illusion of Spatial Depth
 - A plane is a flat surface, and the picture plane is the blank,
 flat surface plane of a print or digital single, static page. When
