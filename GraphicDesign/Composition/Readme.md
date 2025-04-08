@@ -1,5 +1,6 @@
 # Composition
 ## Fundamentals of Composition
+
 - Creating visual interest and clarity of communication are two main goals of composition. 
 - A formulaic design might be clear, but if it’s boring, no one is going to bother to look at it or spend time with it. Often, viewers will spend
 more time trying to make sense of a message if the form of
@@ -12,8 +13,14 @@ to the format, created with the intention to visually commu-
 nicate, to be compelling, and to be expressive. 
 - Composing is about how all the parts of your design work together — ```the visual organization of type and images in a graphic spatial arrangement.```
 ### The Format: Static Versus Active Composition
+- Vertical and horizontal elements and movements parallel the edges of a rectangular or square format. 
+- In static compositions,vertical and horizontal movements are emphasized. 
+- In active compositions, diagonal or curved movements—directions that contradict or are in counterpoint to the edges of the format—
+are emphasized. 
 - Generally, compositions with dominating parallel movements are deemed more placid. 
 - Compositionn with counterpointing movements are more active or tense;
+
+![composition](./composition-1.jpg "composition")
 ### Responding to the Edges of the Format
 All visual elements must respond to (though not necessar-
 ily touch) the edges of the page. Not merely the end of the graphic space, a format’s boundaries fully participate in the
