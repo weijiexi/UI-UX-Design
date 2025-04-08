@@ -38,7 +38,12 @@ Figure 7-3 makes use of a prominent midline.
 ### The Format: Closed Versus Open Composition
 - The terms closed and open refer to the way the graphic elements of a composition relate to the edges of a format. 
 ### Symmetrical Versus Asymmetrical Compositions
-- Whether in print or on screen, each static, single format has a vertical axis. Imagine a line down the center of the format. The equal distribution of visual weight on either side of the vertical axis is the key to establishing balance
+- Each static, single format has a vertical axis. 
+- The equal distribution of visual weight on either side of the
+vertical axis is the key to establishing balance (Diagram 7-5).
+- In a symmetrical composition, corresponding (mirrored) forms are arranged on either side of the vertical axis. 
+    - In general, balance achieved through symmetry yields stable and often static(as opposed to active) results. 
+    - In an asymmetrical composition, arranging a balanced composition does not rely on symmetry. Forms are arranged to coun- terbalance each other without mirrored opposite visual weight and positioning. To achieve a balanced asymmetrical composition, you consider the position and visual weight (size, texture, color, value) of each graphic element in relation to the other and to the format. Asymmetry is not a formulaic approach to composition. Asymmetry often is more active due to its inherent variations, but it does not necessarily have more impact than symmetry.
 ### Illusion of Spatial Depth
 - A plane is a flat surface, and the picture plane is the blank,
 flat surface plane of a print or digital single, static page. When
