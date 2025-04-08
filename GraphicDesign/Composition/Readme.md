@@ -22,9 +22,10 @@ are emphasized.
 
 ![composition](./composition-1.jpg "composition")
 ### Responding to the Edges of the Format
-All visual elements must respond to (though not necessar-
-ily touch) the edges of the page. Not merely the end of the graphic space, a format’s boundaries fully participate in the
+All visual elements must respond to (though not necessarily touch) the edges of the page. Not merely the end of the graphic space, a format’s boundaries fully participate in the
 compositional structure.
+
+![composition](./composition-2.jpg "composition")
 ### The Format: Closed Versus Open Composition
 - The terms closed and open refer to the way the graphic elements of a composition relate to the edges of a format. 
 ### Symmetrical Versus Asymmetrical Compositions
