@@ -26,6 +26,15 @@ All visual elements must respond to (though not necessarily touch) the edges of 
 compositional structure.
 
 ![composition](./composition-2.jpg "composition")
+#### Acknowledging the Midline
+Envision an imaginary vertical line down the center of a page
+(Diagram 7-4). As you position graphic elements, analyze how
+each interacts with that midline. Do graphic elements cross the
+midline? Approach the midline? How do the graphic elements
+interrelate in the central space of the composition? Notice how
+Figure 7-3 makes use of a prominent midline.
+
+![composition](./conposition-3.jpg "composition")
 ### The Format: Closed Versus Open Composition
 - The terms closed and open refer to the way the graphic elements of a composition relate to the edges of a format. 
 ### Symmetrical Versus Asymmetrical Compositions
