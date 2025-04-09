@@ -60,3 +60,12 @@ or any graphic element) on the surface, that mark interacts
 with the picture plane and perimeter of the format. The marks
 you make and composition you create can maintain the flat
 picture plane or can create the illusion of spatial depth. 
+### Balancing Forces
+- Every graphic element positioned on a page con-
+tributes to a potentially balanced action, to how opposing physical movements operate . 
+- Think of these complementary balancing forces as simultaneous actions building stability, balance, and harmony
+    - In and Out. Pulling forces inward, toward the vertical midline of the page, and forces expanding outward,toward the edges of the page (see Figure 7-5).
+    - Afferent and Efferent. Inward contraction from the outer edges to the core, moving from the edges to the focal point (the point of emphasis in a composition) and then back from focal point to the boundaries. (Not to be confused with actual radial composition where the composition radiates outward from a central point.)
+    - Up and Down. Grounding (rooting) the elements down while simultaneously lifting them up; that is, considering how the composition flows from top to bottom and bottom to top and considering all the transitions in between.
+
+![composition](./conposition-5.jpg "composition")
