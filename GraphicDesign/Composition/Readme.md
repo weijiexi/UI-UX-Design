@@ -145,3 +145,18 @@ components), you arrange them to respond to one another and to the shape and edg
 > Will they touch? 
 
 > Will type run across the image(s)? 
+- ```Type and image are fused```: type is inseparable from the image,
+often positioned inside the primary image, creating a
+conjoined relationship. When type and image are fused,
+there is an automatic relationship. When they are fused in
+an organic, almost seamless, relationship, they appear and
+operate as a single entity.
+- ```Type runs across image```: type runs across the image(s). The
+viewer reads the type while seeing the image behind it, as
+if the type were on a pane of glass over the image. “Seeing”
+both type and image simultaneously enhances the message; the type/image relationship is constructed this way
+for the purpose of communicating in unison.
+- ```Type is positioned outside the image or adjacent to the image```: type is not placed inside the main image, does not run over the
+main image, but is placed outside the image within the
+remaining pictorial space of the format. The type may also
+be adjacent to the image.
