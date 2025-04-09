@@ -90,3 +90,21 @@ screen or a piece of paper, you begin with the picture plane. As soon as you mak
     or any of the creativity exercises in this book. The best way
     is to start sketching, to think with a pencil, marker, or stylus
     in your hand. Sketching is thinking.`
+    - If spontaneous composing is too open ended as a starting
+    point, you can try sketching or experimenting using one of the
+    following as preliminary creativity exercises:
+    > Play with form: Use contrast. Create the illusion of three-
+    dimensional space, movement, or sound. Exaggerate scale.
+    Exaggerate near and far relationships. Manipulate images
+    through synthesis or create a visual merge. Form unex-
+    pected juxtapositions. Use abstraction.
+    > Play with media: collage, photograms, photomontage,
+    experimental materials, mixed media, painting, sculpture,
+    3D illustrations, photography, sewing/stitching, weavings,
+    rubbings/blottings, monotypes, printmaking, among
+    many others.
+    > Play with historical styles: Vienna Secession, Psychedelic, New
+    Wave, among many others.
+    > Sketch in the style of Alberto Giacometti, Honoré Daumier,
+    Georges Seurat, Luca Cambiaso, Käthe Kollwitz, Willem de
+    Kooning, Julie Mehretu, among many other fine artists.
