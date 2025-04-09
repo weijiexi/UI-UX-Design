@@ -66,8 +66,10 @@ screen or a piece of paper, you begin with the picture plane. As soon as you mak
 - In an “irregular” or Baroque pictorial space (referring to Flemish Baroque painting; think Peter Paul Rubens, or a comic book superhero’s fist punching in front of the picture plane), diagonal elements and planes move in front of as well as behind the picture plane creating the illusion of depth and action, suggesting an aggressive spatial property.
 ### Differentiation Through Grouping
 - The Gestalt principles of perception—similarity, proximity, continuity, and closure—explain how people tend to understand what they see by grouping, by visually assembling images and how they relate to one another into groups.
-    - Grouping is a fundamental Gestalt concept, proposing that
+    - ```Grouping``` is a fundamental Gestalt concept, proposing that
     when graphic elements appear similar—share characteristics,
     are arranged close together, are connected, or are enclosed in
     a common spatial area—people perceive them as belonging
     together. Groups can be formed in a variety of ways.
+- If you understand how grouping functions, you can more easily create visual emphasis in a composition through differentiation. One graphic element can be emphasized, become the focal point, by differentiating it from the other graphic elements through contrast in size (scale), weight, color, rhythm, orientation, and more.
+![composition](./conposition-6.jpg "composition")
