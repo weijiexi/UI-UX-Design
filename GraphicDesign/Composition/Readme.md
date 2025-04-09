@@ -161,6 +161,8 @@ main image, but is placed outside the image within the
 remaining pictorial space of the format. The type may also
 be adjacent to the image.
 
+![composition](./conposition-10.jpg "composition")
+![composition](./conposition-11.jpg "composition")
 When type runs across an image, the relationship is evident
 through touching one another. When type and image are not
 fused or do not touch, their relationship must be arranged
