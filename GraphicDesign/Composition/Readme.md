@@ -162,7 +162,6 @@ remaining pictorial space of the format. The type may also
 be adjacent to the image.
 
 ![composition](./conposition-10.jpg "composition")
-![composition](./conposition-11.jpg "composition")
 When type runs across an image, the relationship is evident
 through touching one another. When type and image are not
 fused or do not touch, their relationship must be arranged
@@ -178,6 +177,8 @@ within the graphic elements that can be paralleled or echoed
 and prospect for occasions of sympathetic relationships among the forms where alignments could occur. 
 
 Several basic alignments—flush left, flush right, centered, justified—help establish flow and unity. There are wraparound or edge or internal alignments as well.
+
+![composition](./conposition-11.jpg "composition")
 #### Integrating Type and Image
 A line will take us hours maybe; Yet if it does not seem a moment’s
 thought, Our stitching and unstitching has been naught.
