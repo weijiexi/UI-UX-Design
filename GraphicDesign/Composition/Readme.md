@@ -73,3 +73,9 @@ screen or a piece of paper, you begin with the picture plane. As soon as you mak
     together. Groups can be formed in a variety of ways.
 - If you understand how grouping functions, you can more easily create visual emphasis in a composition through differentiation. One graphic element can be emphasized, become the focal point, by differentiating it from the other graphic elements through contrast in size (scale), weight, color, rhythm, orientation, and more.
 ![composition](./conposition-6.jpg "composition")
+### Compositional Process
+- ```Composing is a process where one achieves a desired result by
+repeating a sequence of steps and successively getting closer
+to that result.``` You can get there by spontaneous means, by
+using proportional systems or compositional structures. The compositional method you use depends on the project’s specifications and your own method of composing and visualizing.
+- ```Composing is an iterative process. ```Iterations or revising (major and minor changes) usually happen at the same time as creating and producing. This means you are rethinking, revising as you work, which is part of the creative process of composing.
