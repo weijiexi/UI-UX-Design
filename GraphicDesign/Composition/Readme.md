@@ -160,3 +160,31 @@ for the purpose of communicating in unison.
 main image, but is placed outside the image within the
 remaining pictorial space of the format. The type may also
 be adjacent to the image.
+
+When type runs across an image, the relationship is evident
+through touching one another. When type and image are not
+fused or do not touch, their relationship must be arranged
+through alignment and flow. 
+- Consider how one leads to the other. 
+- Consider size relationships; consider which element is dominant and which is subordinate. 
+- Which is the focal point of the composition? 
+- ```Do you want the viewer to see the type or image first?```
+
+Designers who compose spontaneously optically seek naturally
+inherent ways to align type and images. They find movements
+within the graphic elements that can be paralleled or echoed
+and prospect for occasions of sympathetic relationships among the forms where alignments could occur. 
+
+Several basic alignments—flush left, flush right, centered, justified—help establish flow and unity. There are wraparound or edge or internal alignments as well.
+#### Integrating Type and Image
+A line will take us hours maybe; Yet if it does not seem a moment’s
+thought, Our stitching and unstitching has been naught.
+
+A graphic design problem can be solved typographically or with images alone. But when type and images interact, thenyou have to determine how they will interact.
+> Will the form of type and images share characteristics?
+> Will the type and images work in opposition, be contrasted in style of visualization and/or form?
+> Will the type drive the composition? Will the image drive the composition?
+> Will the type and images be organically intertwined?
+> Will they touch, overlap, be juxtaposed, fuse? Will they be words that incorporate images or be images that incorporate words?
+> Will one be the star and the other the supporting player? To best explain type and image integration, let’s break it into
+three categories.
