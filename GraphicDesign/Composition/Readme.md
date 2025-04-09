@@ -135,3 +135,13 @@ This mode is a fundamental means for advertising design
 and for book jacket design and posters.
 
 ![composition](./conposition-9.jpg "composition")
+### Arranging Type and Image
+When you compose type and image (the two main graphic
+components), you arrange them to respond to one another and to the shape and edges of the format. 
+> Will type and image be fused? 
+
+> Will they appear next to one another not touching? 
+
+> Will they touch? 
+
+> Will type run across the image(s)? 
