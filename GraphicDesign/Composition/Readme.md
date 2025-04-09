@@ -76,3 +76,17 @@ screen or a piece of paper, you begin with the picture plane. As soon as you mak
 ### Compositional Process
 - ```Composing is a process where one achieves a desired result by repeating a sequence of steps and successively getting closer to that result.``` You can get there by spontaneous means, by using proportional systems or compositional structures. The compositional method you use depends on the project’s specifications and your own method of composing and visualizing.
 - ```Composing is an iterative process. ```Iterations or revising (major and minor changes) usually happen at the same time as creating and producing. This means you are rethinking, revising as you work, which is part of the creative process of composing.
+> Spontaneous composing: mostly unplanned visualization and structuring, with the design concept driving the visualizing and composing. In the process of creating, shaping, moving, improvising, and experimenting with graphic elements, while utilizing the principles of composition as well as relying on your intuition and insights into the
+creative process, you form a composition. This type of
+composing is usually for a single surface and therefore
+does not utilize formal structural devices or systems, such
+as a grid, which is necessary and utilized for multiple pages
+or screens. Spontaneous composing does rely on creative
+as well as critical thinking, creative impulses that result
+from a working knowledge of design principles and ardent
+experimentation. Many designers use creativity exercises to
+start the process, such as problem finding, free drawing/
+sketching, prompted sketching, unconventional methods,
+or any of the creativity exercises in this book. The best way
+is to start sketching, to think with a pencil, marker, or stylus
+in your hand. Sketching is thinking.
