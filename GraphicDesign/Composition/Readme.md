@@ -98,13 +98,16 @@ screen or a piece of paper, you begin with the picture plane. As soon as you mak
     Exaggerate near and far relationships. Manipulate images
     through synthesis or create a visual merge. Form unex-
     pected juxtapositions. Use abstraction.
+    
     > Play with media: collage, photograms, photomontage,
     experimental materials, mixed media, painting, sculpture,
     3D illustrations, photography, sewing/stitching, weavings,
     rubbings/blottings, monotypes, printmaking, among
     many others.
+   
     > Play with historical styles: Vienna Secession, Psychedelic, New
     Wave, among many others.
+    
     > Sketch in the style of Alberto Giacometti, Honoré Daumier,
     Georges Seurat, Luca Cambiaso, Käthe Kollwitz, Willem de
     Kooning, Julie Mehretu, among many other fine artists.
