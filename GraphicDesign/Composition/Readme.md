@@ -59,13 +59,8 @@ tributes to a potentially balanced action, to how opposing physical movements op
 
 ![composition](./conposition-5.jpg "composition")
 ### Illusion of Spatial Depth
-- A plane is a flat surface, and the picture plane is the blank,
-flat surface plane of a print or digital single, static page. When
-you set out to compose on a two-dimensional surface, like a
-screen or a piece of paper, you begin with the picture plane.
-
-- As soon as you make one mark (draw a line, place a letterform,
-or any graphic element) on the surface, that mark interacts
-with the picture plane and perimeter of the format. The marks
-you make and composition you create can maintain the flat
-picture plane or can create the illusion of spatial depth. 
+- When you set out to compose on a two-dimensional surface, like a
+screen or a piece of paper, you begin with the picture plane. As soon as you make one mark (draw a line, place a letterform, or any graphic element) on the surface, ```that mark interacts with the picture plane and perimeter of the format. ```
+- ```The illusion of spatial depth means the appearance of three dimensional space, where some things appear closer to the viewer and some things appear farther away—just as in actual space. ```The illusion of spatial depth can be shallow or deep, recessive or projected. One diagonal line can evoke the illusion of depth.
+- In “regular” or “Classical” compositions (Classical here refers to the Italian Renaissance; think Raphael [Raffaello Sanzio] and Leonardo da Vinci), none of the major forms appear to move in front of the picture plane. This can be called a “picture window” arrangement, where, like a window pane, all that we see recedes behind the front plane and does not move in front of the picture plane into the viewer’s space .
+- In an “irregular” or Baroque pictorial space (referring to Flemish Baroque painting; think Peter Paul Rubens, or a comic book superhero’s fist punching in front of the picture plane), diagonal elements and planes move in front of as well as behind the picture plane creating the illusion of depth and action, suggesting an aggressive spatial property.
