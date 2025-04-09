@@ -111,3 +111,27 @@ screen or a piece of paper, you begin with the picture plane. As soon as you mak
     > Sketch in the style of Alberto Giacometti, Honoré Daumier,
     Georges Seurat, Luca Cambiaso, Käthe Kollwitz, Willem de
     Kooning, Julie Mehretu, among many other fine artists.
+    ### Composing for a Single Static Surface Format
+- When composing for a single surface format such as a poster,
+book or magazine cover, mobile ad, or website landing page or
+ad (as opposed to multipage formats, such as book interiors or
+websites), ```consider the roles and interrelationships of type and
+images as a whole.```
+#### Type-Driven, Image-Driven, and Visual-Verbal Synergy
+Consider one of the following ways to drive the communication:
+- Type-driven: emphasis on type and de-emphasis on images,
+where type is the dominant force with images as secondary. Type can be the only component of such a solution.
+
+![composition](./conposition-7.jpg "composition")
+- Image-driven: emphasis on image and de-emphasis on type,
+where image is the “hero” and type is subordinate to the
+image. An image-driven composition can
+have no text. In advertising, an image-driven ad with no
+text is referred to as a no-copy solution.
+
+![composition](./conposition-8.jpg "composition")
+- Visual-verbal synergy: a synergistic relationship between verbal message (the title or headline) and the primary image.
+This mode is a fundamental means for advertising design
+and for book jacket design and posters.
+
+![composition](./conposition-9.jpg "composition")
