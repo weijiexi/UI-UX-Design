@@ -230,7 +230,7 @@ weight, etc.), it can be a visual path created by white space, or
 any number of other kinds of entry points. You must structure
 space to facilitate the viewer’s comprehension (visual reading)
 of the composition, his or her passage through the compositional space. 
-    ![composition](./conposition-16.jpg "composition")
+    ![composition](./conposition-16.jpg  "composition")
 
 Eye-tracking studies (a method used to determine how peo-
 ple’s eyes move, scan, and rest on a page) reveal how visitors
