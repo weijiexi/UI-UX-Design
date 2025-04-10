@@ -211,3 +211,11 @@ weights, widths, thin/thick strokes, lines, textures, positive and
 negative shapes, and time period. For example, ```type and image share characteristics```.
 
 ![composition](./conposition-13.jpg "composition")
+### Contrasting Type and Image Relationship
+- There are two basic ways type and images work in contrast: complementary relationship or a formal ironic relationship.
+    - Complementary relationship. Typeface or hand-drawn type is chosen to work in opposition to or in juxtaposition to images, relying on contrasts in shape, form, proportions, weights, widths, thin/ thick strokes, lines, textures, positive and negative shapes—for example, geometric versus organic, elegant versus rough, re- fined versus sloppy, detailed versus loosely rendered (such as adetailed linear illustration contrasted with sloppy huge type).
+    
+    ![composition](./conposition-14.jpg "composition")
+    - Formal ironic relationship. Typeface and image(s) are selected for incongruity, for an ironic effect
+
+    ![composition](./conposition-15.jpg "composition")
