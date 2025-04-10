@@ -240,7 +240,7 @@ views and scans a single surface, including associative mean-
 ing, time exposed to the design, personal attention span, and
 distractions, among others.
 ### Guiding the Viewer
-- ### Transitions
+- #### Transitions
 Preferred points of entry can be the focal point, the key graphic
 element established through visual hierarchy, or a dominant
 image (```people tend to prefer images over text```). 
@@ -261,3 +261,26 @@ position will be appear organically related and taut.
 the viewer’s eyes``` . 
 
  ![composition](./imags/conposition-17.jpg  "composition")
+ - #### Continuity
+You can help the viewer navigate through a composition with
+continuity—one element directing your eyes to the next ele-
+ment. Goals of composition are to create a visual flow from one
+graphic element to another, to create continuity (visual paths)
+as well as unity. There are arrangement strategies for produc-
+ing continuity, composing the visual path and/or alignments
+within a group of graphic elements to direct the viewer’s eyes
+to the point of emphasis.
+
+To produce agreement, keep in mind these factors:
+- Position and orientation of the graphic elements can promote (or inhibit) visual flow.
+- An articulate visual hierarchy with an apparent focal point will provide a point of entry; for example, a dominant title or headline or a dominant visual provides a point of entry.
+- All directions must be considered: right, left, up, and down.
+- Viewers tend to be drawn to the figure as opposed to the ground.
+- Unity and balance contribute to visual flow.
+- Repetition, parallel movements, and counterpointing movements contribute to guiding the viewer.
+- Agreement throughout a website or app: A clear sense of place or geography created by consistent position of menus and graphic elements helps guide the viewer.
+- Agreement across a spread: Determine the most advantageous way to bridge the gap of the gutter (the blank space formed by the inner margins of two facing pages in a publication).
+- Agreement in a series: When designing for a series of individual but related units (for example, a series of brochures, a series of covers, related package designs), establish parameters to define a typographic system (palette and usage).
+
+![composition](./imags/conposition-18.jpg  "composition")
+![composition](./imags/conposition-19.jpg  "composition")
