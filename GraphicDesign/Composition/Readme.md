@@ -191,3 +191,23 @@ A graphic design problem can be solved typographically or with images alone. But
 > Will they touch, overlap, be juxtaposed, fuse? Will they be words that incorporate images or be images that incorporate words?
 > Will one be the star and the other the supporting player? To best explain type and image integration, let’s break it into
 three categories.
+### Supporting Partner Type and Image Relationship
+- In the supporting partner relationship, a classic “neutral” type-
+face works cooperatively with the image, which has the starring
+role. (Designers, by far, employ this category most commonly.)
+- For the sake of clarity and visual interest, the tendency is to
+allow either type or image(s) to be the star, hero, or heavy lifter, with the other component acting in a more neutral fash-
+ion, like a supporting actor. 
+- In a design, type might be the well-chosen, sterile, blank slate,
+and the visual “furnishes the room.” 
+- If both type and image attract our attention due to equal prominence, then focus is diffused or lost. Here type is purposely understated in contrast to a strong visual statement, where, perhaps, the visual is the
+“big idea.” 
+
+![composition](./conposition-12.jpg "composition")
+### Sympathetic Type and Image Relationship
+- Type and images possess shared or similar characteristics, which produce harmony. The agreement in form enhances meaning. Type and image share apparent character and purpose. (This is the next most often employed category.)
+- Congruence relies on agreement in shape, form, proportions,
+weights, widths, thin/thick strokes, lines, textures, positive and
+negative shapes, and time period. For example, ```type and image share characteristics```.
+
+![composition](./conposition-13.jpg "composition")
