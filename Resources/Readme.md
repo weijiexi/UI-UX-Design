@@ -30,6 +30,9 @@
 
 ### Graphic design
 - [Graphic design solutions 5th Ed](https://drive.google.com/file/d/1dqK3tw78z08PSWRmN82MMOqGa3_95Qrx/view)
+- [Graphic Design: The New Basics: Second Edition](https://ugc.production.linktr.ee/ea968e70-92b7-4c11-84eb-18c54b2c4324_Graphic-Design--The-New-Basics--Second-Edition--Revised-and-Expanded---PDFDrive---compressed.pdf)
+- ["Thinking with Type" by Ellen Lupton](https://readings.design/PDF/thinkingwithtype_ellenlupton.pdf)
+- ["Don't Make Me Think" by Steve Krug](https://eng317hannah.wordpress.ncsu.edu/files/2020/01/Krug_Steve_Dont_make_me_think_revisited___a_cz-lib.org_.pdf)
 - [Law of UX](https://lawsofux.com/)
 
 ### Logo
