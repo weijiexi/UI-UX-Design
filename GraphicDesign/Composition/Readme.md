@@ -20,12 +20,12 @@ are emphasized.
 - Generally, compositions with dominating parallel movements are deemed more placid. 
 - Compositionn with counterpointing movements are more active or tense;
 
-![composition](./composition-1.jpg "composition")
+![composition](./imags/composition-1.jpg "composition")
 ### Responding to the Edges of the Format
 All visual elements must respond to (though not necessarily touch) the edges of the page. Not merely the end of the graphic space, a format’s boundaries fully participate in the
 compositional structure.
 
-![composition](./composition-2.jpg "composition")
+![composition](./imags/composition-2.jpg "composition")
 #### Acknowledging the Midline
 Envision an imaginary vertical line down the center of a page
 (Diagram 7-4). As you position graphic elements, analyze how
@@ -34,7 +34,7 @@ midline? Approach the midline? How do the graphic elements
 interrelate in the central space of the composition? Notice how
 Figure 7-3 makes use of a prominent midline.
 
-![composition](./conposition-3.jpg "composition")
+![composition](./imags/conposition-3.jpg "composition")
 ### The Format: Closed Versus Open Composition
 - The terms closed and open refer to the way the graphic elements of a composition relate to the edges of a format. 
 ### Symmetrical Versus Asymmetrical Compositions
@@ -48,7 +48,7 @@ vertical axis is the key to establishing balance (Diagram 7-5).
 - In design, counterpoint is the use of contrast or the interplay of graphic elements in a work simultaneously providing unity and variety. In any balancecomposition, if you move one graphic element, you will need
 to reconsider the balance of the entire composition. (See Chapter 2 for more information on visual weight.)
 
-![composition](./conposition-4.jpg "composition")
+![composition](./imags/conposition-4.jpg "composition")
 ### Balancing Forces
 - Every graphic element positioned on a page con-
 tributes to a potentially balanced action, to how opposing physical movements operate . 
@@ -57,7 +57,7 @@ tributes to a potentially balanced action, to how opposing physical movements op
     - Afferent and Efferent. Inward contraction from the outer edges to the core, moving from the edges to the focal point (the point of emphasis in a composition) and then back from focal point to the boundaries. (Not to be confused with actual radial composition where the composition radiates outward from a central point.)
     - Up and Down. Grounding (rooting) the elements down while simultaneously lifting them up; that is, considering how the composition flows from top to bottom and bottom to top and considering all the transitions in between.
 
-![composition](./conposition-5.jpg "composition")
+![composition](./imags/conposition-5.jpg "composition")
 ### Illusion of Spatial Depth
 - When you set out to compose on a two-dimensional surface, like a
 screen or a piece of paper, you begin with the picture plane. As soon as you make one mark (draw a line, place a letterform, or any graphic element) on the surface, ```that mark interacts with the picture plane and perimeter of the format. ```
@@ -72,7 +72,7 @@ screen or a piece of paper, you begin with the picture plane. As soon as you mak
     a common spatial area—people perceive them as belonging
     together. Groups can be formed in a variety of ways.
 - If you understand how grouping functions, you can more easily create visual emphasis in a composition through differentiation. One graphic element can be emphasized, become the focal point, by differentiating it from the other graphic elements through contrast in size (scale), weight, color, rhythm, orientation, and more.
-![composition](./conposition-6.jpg "composition")
+![composition](./imags/conposition-6.jpg "composition")
 ### Compositional Process
 - ```Composing is a process where one achieves a desired result by repeating a sequence of steps and successively getting closer to that result.``` You can get there by spontaneous means, by using proportional systems or compositional structures. The compositional method you use depends on the project’s specifications and your own method of composing and visualizing.
 - ```Composing is an iterative process. ```Iterations or revising (major and minor changes) usually happen at the same time as creating and producing. This means you are rethinking, revising as you work, which is part of the creative process of composing.
@@ -122,19 +122,19 @@ Consider one of the following ways to drive the communication:
 - Type-driven: emphasis on type and de-emphasis on images,
 where type is the dominant force with images as secondary. Type can be the only component of such a solution.
 
-![composition](./conposition-7.jpg "composition")
+![composition](./imags/conposition-7.jpg "composition")
 - Image-driven: emphasis on image and de-emphasis on type,
 where image is the “hero” and type is subordinate to the
 image. An image-driven composition can
 have no text. In advertising, an image-driven ad with no
 text is referred to as a no-copy solution.
 
-![composition](./conposition-8.jpg "composition")
+![composition](./imags/conposition-8.jpg "composition")
 - Visual-verbal synergy: a synergistic relationship between verbal message (the title or headline) and the primary image.
 This mode is a fundamental means for advertising design
 and for book jacket design and posters.
 
-![composition](./conposition-9.jpg "composition")
+![composition](./imags/conposition-9.jpg "composition")
 ### Arranging Type and Image
 When you compose type and image (the two main graphic
 components), you arrange them to respond to one another and to the shape and edges of the format. 
@@ -161,7 +161,7 @@ main image, but is placed outside the image within the
 remaining pictorial space of the format. The type may also
 be adjacent to the image.
 
-![composition](./conposition-10.jpg "composition")
+![composition](./imags/conposition-10.jpg "composition")
 When type runs across an image, the relationship is evident
 through touching one another. When type and image are not
 fused or do not touch, their relationship must be arranged
@@ -178,7 +178,7 @@ and prospect for occasions of sympathetic relationships among the forms where al
 
 Several basic alignments—flush left, flush right, centered, justified—help establish flow and unity. There are wraparound or edge or internal alignments as well.
 
-![composition](./conposition-11.jpg "composition")
+![composition](./imags/conposition-11.jpg "composition")
 #### Integrating Type and Image
 A line will take us hours maybe; Yet if it does not seem a moment’s
 thought, Our stitching and unstitching has been naught.
@@ -203,22 +203,22 @@ and the visual “furnishes the room.”
 - If both type and image attract our attention due to equal prominence, then focus is diffused or lost. Here type is purposely understated in contrast to a strong visual statement, where, perhaps, the visual is the
 “big idea.” 
 
-![composition](./conposition-12.jpg "composition")
+![composition](./imags/conposition-12.jpg "composition")
 ### Sympathetic Type and Image Relationship
 - Type and images possess shared or similar characteristics, which produce harmony. The agreement in form enhances meaning. Type and image share apparent character and purpose. (This is the next most often employed category.)
 - Congruence relies on agreement in shape, form, proportions,
 weights, widths, thin/thick strokes, lines, textures, positive and
 negative shapes, and time period. For example, ```type and image share characteristics```.
 
-![composition](./conposition-13.jpg "composition")
+![composition](./imags/conposition-13.jpg "composition")
 ### Contrasting Type and Image Relationship
 - There are two basic ways type and images work in contrast: complementary relationship or a formal ironic relationship.
     - Complementary relationship. Typeface or hand-drawn type is chosen to work in opposition to or in juxtaposition to images, relying on contrasts in shape, form, proportions, weights, widths, thin/ thick strokes, lines, textures, positive and negative shapes—for example, geometric versus organic, elegant versus rough, re- fined versus sloppy, detailed versus loosely rendered (such as adetailed linear illustration contrasted with sloppy huge type).
     
-    ![composition](./conposition-14.jpg "composition")
+    ![composition](./imags/conposition-14.jpg "composition")
     - Formal ironic relationship. Typeface and image(s) are selected for incongruity, for an ironic effect
 
-    ![composition](./conposition-15.jpg "composition")
+    ![composition](./imags/conposition-15.jpg "composition")
 ### Arrangement
 In all two-dimensional design compositions—graphic design,
 illustration, painting, or drawing—the viewer seeks a point of
@@ -230,7 +230,7 @@ weight, etc.), it can be a visual path created by white space, or
 any number of other kinds of entry points. You must structure
 space to facilitate the viewer’s comprehension (visual reading)
 of the composition, his or her passage through the compositional space. 
-    ![composition](./conposition-16.jpg  "composition")
+    ![composition](./imags/conposition-16.jpg  "composition")
 
 Eye-tracking studies (a method used to determine how peo-
 ple’s eyes move, scan, and rest on a page) reveal how visitors
