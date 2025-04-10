@@ -219,3 +219,23 @@ negative shapes, and time period. For example, ```type and image share character
     - Formal ironic relationship. Typeface and image(s) are selected for incongruity, for an ironic effect
 
     ![composition](./conposition-15.jpg "composition")
+### Arrangement
+In all two-dimensional design compositions—graphic design,
+illustration, painting, or drawing—the viewer seeks a point of
+entry into the graphic space, just as a visitor seeks a point of entry into an architectural space. The designer needs to construct visual cues about where to enter. Most people look at foreground elements first and try to find a way to enter thegraphic space.
+
+This entry point can be the focal point (the largest or brightest or
+key positioned element, or component with the greatest visual
+weight, etc.), it can be a visual path created by white space, or
+any number of other kinds of entry points. You must structure
+space to facilitate the viewer’s comprehension (visual reading)
+of the composition, his or her passage through the compositional space. 
+    ![composition](./conposition-16.jpg "composition")
+
+Eye-tracking studies (a method used to determine how peo-
+ple’s eyes move, scan, and rest on a page) reveal how visitors
+observe print, web banners, and websites. Besides the composi-
+tion, there are many variables involved with how an individual
+views and scans a single surface, including associative mean-
+ing, time exposed to the design, personal attention span, and
+distractions, among others.
