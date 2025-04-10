@@ -239,3 +239,25 @@ tion, there are many variables involved with how an individual
 views and scans a single surface, including associative mean-
 ing, time exposed to the design, personal attention span, and
 distractions, among others.
+### Guiding the Viewer
+- ### Transitions
+Preferred points of entry can be the focal point, the key graphic
+element established through visual hierarchy, or a dominant
+image (```people tend to prefer images over text```). 
+
+Transitions are the key to creating a smooth visual flow from one graphic element to another throughout the composition. ```A transition is the passage or progression connecting one graphic element or movement to another in a design```. 
+
+Often, the transition is white space or a subordinate element.
+
+> Consider each and every interstice and every transition from
+shape to shape, letter to letter, and visual component to type
+component.
+
+> If you focus on the interstices, spaces that inter-
+vene between shapes and forms and type, then the entire com-
+position will be appear organically related and taut. 
+
+> To ```create visual passageways, employ negative space to direct
+the viewer’s eyes``` . 
+
+ ![composition](./imags/conposition-17.jpg  "composition")
