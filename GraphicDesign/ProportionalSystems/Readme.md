@@ -1,2 +1,2 @@
-Proportional Systems and the Grid
+# Proportional Systems and the Grid
 
