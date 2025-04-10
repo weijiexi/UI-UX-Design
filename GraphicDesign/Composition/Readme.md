@@ -284,3 +284,27 @@ To produce agreement, keep in mind these factors:
 
 ![composition](./imags/conposition-18.jpg  "composition")
 ![composition](./imags/conposition-19.jpg  "composition")
+### Building Compositions
+- You can build a composition around one dominant visual(using size, shape, color, pattern, or value contrast), where all other graphic elements form relationships with that dominant visual. A dominant composition can be based on one major movement, gesture, or compositional thrust, with all other movements minor ones built in relation to it through optical decisions and adjustments.
+- You can build a composition where there is no one overtly
+dominant visual. Here relationships are built through sequence, pattern, grid, modular structure, repetition, stair
+structures, axis alignment, edge alignment, positioning and flow, or some unifying principle. No graphic element dominates. This structuring concept applies to single surfaces, multiple surfaces, and motion graphics.
+- You can build a static composition or one that suggests motion
+or movement. A static composition represents a fixed position. It neither moves nor does it imply motion. The illusion of move-
+ment can be created by a variety of means.
+- A visual sequence is a number of items, graphic elements, or
+events in an order that might imply the passage of time, interval, or motion over a period of time (duration). A sequence can be estab-
+lished on a single surface, on sequential pages, or in motion
+graphics. For example, a storyboard or comic graphic format
+can visualize a sequence. Or when a reader turns a page, that
+kinetic experience can be utilized to represent a sequence of
+events over a short period of time. Certainly, motion graphics
+and film are natural media for depicting sequence. 
+- Sequential arrangements have a discernible specific order or
+form a particular sequence. One graphic element or frame can
+seem to be the consequence or result of the previous element
+or frame. Sequential elements can also denote the illusion
+of motion through visual multiplication. Multiple positions
+(think a comic book rendering of a dog with many legs to
+denote running), blurred boundaries or edges, repetition,
+shifts, or layers contribute to the illusion of motion.
