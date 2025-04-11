@@ -89,13 +89,13 @@ When designing for several screens—desktop, tablet, and mobile—some say best
 - ### Multicolumn Grids
 - ### Columns and Column Intervals
 In any grid, the number of columns depends on several factors, mainly the concept, purpose, and how the designer wants to present the content. When using more than one column, columns can be the same width or vary in width. One or more columns can be dedicated to only text or only images or a combination thereof. The spaces between columns are called column intervals.
-- A grid’s proportions and spaces provide a consistent visual appearance for a multipage format in print or on screen. A grid is a structural system that supplies an underlying unifying skeletal structure. It provides alignment.
-- Multicolumn grids are used for desktop, tablet, and mobile
+- ```A grid’```s proportions and spaces provide a consistent visual appearance for a multipage format in print or on screen. A grid is a structural system that supplies an underlying unifying skeletal structure. It provides alignment.
+- ```Multicolumn grids``` are used for desktop, tablet, and mobile
 screens measured and designed in pixels. Nathan Smith cre-
 ated the 960 Grid System (http://960.gs/), a web grid that is
 960 pixels wide, which works well on a majority of screens. 
-- A twelve-column grid has 60 pixel-wide columns, which yield column widths of 60, 140, 220, 300, 380, 460, 540, 620, 700, 780, 860, and 940. 
-- A sixteen-column grid has 40 pixel-wide columns, which yield column widths of 40, 100, 160, 220, 280, 340, 400, 460, 520, 580, 640, 700, 760, 820, 880, and 940. Each column has 10-pixel margins on left and right, which yield 20 pixel-wide column intervals between columns (see http://www.thegridsystem.org/).
+- ```A twelve-column grid``` has 60 pixel-wide columns, which yield column widths of 60, 140, 220, 300, 380, 460, 540, 620, 700, 780, 860, and 940. 
+- ```A sixteen-column grid``` has 40 pixel-wide columns, which yield column widths of 40, 100, 160, 220, 280, 340, 400, 460, 520, 580, 640, 700, 760, 820, 880, and 940. Each column has 10-pixel margins on left and right, which yield 20 pixel-wide column intervals between columns (see http://www.thegridsystem.org/).
 
 ![Proportional-Systems](./imags/Proportional-Systems-9.jpg "Proportional-Systems")
 - ### Flowlines
