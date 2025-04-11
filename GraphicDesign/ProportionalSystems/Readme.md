@@ -44,7 +44,7 @@ of proportion.
 
      ![Proportional-Systems](./imags/Proportional-Systems-6.jpg "Proportional-Systems")
 
-     ![Proportional-Systems](./imags/Proportional-Systems-7.jpg "Proportional-Systems")
+     ![Proportional-Systems](./imags/Proportional-Systems-7.webp "Proportional-Systems")
 - ### Modularity
 
 
