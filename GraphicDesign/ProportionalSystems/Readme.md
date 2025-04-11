@@ -21,9 +21,12 @@ of proportion.
     The opposite corners of the squares yields a spiral that resembles many found in plants, seashells, and other forms in nature.
 
     ![Proportional-Systems](./imags/Proportional-Systems-1.jpg "Proportional-Systems")
-    
-    ![Proportional-Systems](./imags/Proportional-Systems-2.jpg "Proportional-Systems")
 - ### The Golden Ratio
+    In Western art, shapes or structures defined by or based on the
+    golden section have been considered aesthetically pleasing by
+    many artists, designers, and architects. For example, architect
+    Le Corbusier used the golden ratio as the basis of his modular architectural system. The golden ratio is still used today in graphic design, fine art, and architecture. Graphic designers utilize the golden section for grid systems and page formats.
+    ![Proportional-Systems](./imags/Proportional-Systems-2.jpg "Proportional-Systems")
 - ### Rule of Thirds
 - ### Modularity
 - ### Chunking
