@@ -34,6 +34,8 @@ of proportion.
     The rule of thirds is an asymmetrical compositional technique
     often used by painters, photographers, and designers to create visual interest and balance. It involves overlaying the format with a grid and positioning or aligning the focal point or primary graphic elements of the composition along these grid lines or especially on the intersections of the grid lines. To employ the rule, the focal point is placed at one intersection.
 - ### Modularity
+
+
 - ### Chunking
 ## The Grid
 - ### Single-Column Grid
