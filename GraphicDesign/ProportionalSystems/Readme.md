@@ -46,9 +46,21 @@ of proportion.
 
      ![Proportional-Systems](./imags/Proportional-Systems-7.webp "Proportional-Systems")
 - ### Modularity
+    In graphic design, modularity is a structural principle employed to subdivide a format into manageable smallerparts—that is, to handle content using modules. 
 
+    A module is a self-contained, fixed unit that is combined with others to form a larger foundational structure composed
+    of regular units. A module is also defined as any single fixed element within a bigger system or structure. For example, a
+    unit on graph paper is a module, a pixel in a digital image is a module, a rectangular unit in a grid system is a module, and a
+    fixed encapsulated chunk of a composition is a module.
+    Modularity in the form of grids helps manage content as well as complexity (think of all the content on a government website). 
 
-- ### Chunking
+    Modularity has three main advantages: 
+    (1) the underlying structure produces unity and continuity across a multipage application, 
+    (2) the content within each module can easily be replaced or interchanged, and 
+    (3) modules can be rearranged to create different zones or forms yet still remain unified.
+
+    Modularity is also used to create modular alphabets, hand-lettering , typographic treatments, signage systems, symbol systems, pixel effects, or any modular-based imagery (for example, a transformation or sequence developed in modular units; figures composed of units).
+
 ## The Grid
 - ### Single-Column Grid
 - ### Multicolumn Grids
