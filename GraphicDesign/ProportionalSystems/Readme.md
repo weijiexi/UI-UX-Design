@@ -33,6 +33,18 @@ of proportion.
 
     The rule of thirds is an asymmetrical compositional technique
     often used by painters, photographers, and designers to create visual interest and balance. It involves overlaying the format with a grid and positioning or aligning the focal point or primary graphic elements of the composition along these grid lines or especially on the intersections of the grid lines. To employ the rule, the focal point is placed at one intersection.
+
+    for example, and a counterbalancing secondary graphic element or accent placed at an opposing intersection. In a landscape, this often translates into placing the horizon line along one of the horizontal grid lines. This rule is also sometimes called the golden grid rule because the modules created by the grid roughly relate to the ratio of the golden section 
+
+    In practice, the aim of the rule is to prevent the placement of the subject of an image at the center of a composition or to discourage placements that divide the image in half.
+
+     ![Proportional-Systems](./imags/Proportional-Systems-4.jpg "Proportional-Systems")
+
+     ![Proportional-Systems](./imags/Proportional-Systems-5.jpg "Proportional-Systems")
+
+     ![Proportional-Systems](./imags/Proportional-Systems-6.jpg "Proportional-Systems")
+
+     ![Proportional-Systems](./imags/Proportional-Systems-7.jpg "Proportional-Systems")
 - ### Modularity
 
 
