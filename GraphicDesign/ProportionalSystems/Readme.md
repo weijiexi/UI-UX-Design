@@ -62,6 +62,24 @@ of proportion.
     Modularity is also used to create modular alphabets, hand-lettering , typographic treatments, signage systems, symbol systems, pixel effects, or any modular-based imagery (for example, a transformation or sequence developed in modular units; figures composed of units).
 
 ## The Grid
+A grid is a guide—a compositional structure made up of verticals and
+horizontals that divide a format into columns and margins.
+
+Grids underlie the structure of books, magazines, brochures, desktop websites, mobile websites, and more. As far back in history as 3000 b.c., we can see the use of a column structure in cuneiform writing in Mesopotamia as well as similar structures in hieroglyphics writing in Egypt. 
+
+In the 1950s, Swiss designers adopted the grid as a structural design device. Their enthusiasm propelled the grid into popular use.
+
+Grids organize type and images. They help you build pages,print or digital. If you have to organize the enormous amount
+of content in any given newspaper, textbook, or corporate, government, museum, or editorial website, you would want some type of structure to ensure that readers would be able to easily access and read an abundance of information.
+
+Imagine designing your daily newspaper using a spontaneous composition method. You would have to intuitively design
+every page and then make sure each page had some resemblance to all the others while ensuring a sense of congruence
+across all the pages. Certainly, you could compose spontaneously, but you would not meet a daily deadline. Not only does
+a grid spare you the time of having to spontaneously compose
+every page, but it also affords a skeletal structure that provides
+continuity, congruence, unity, and visual flow across many print or digital pages.
+
+![Proportional-Systems](./imags/Proportional-Systems-8.jpg "Proportional-Systems")
 - ### Single-Column Grid
 - ### Multicolumn Grids
 - ### Columns and Column Intervals
