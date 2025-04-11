@@ -18,3 +18,4 @@
         - Laws of Perceptual Organization
 - ## Typography
 - ## Composition
+- ## Proportional Systems and the Grid
