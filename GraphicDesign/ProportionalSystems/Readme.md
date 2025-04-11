@@ -18,6 +18,9 @@ of proportion.
 
     Ruskin said, “In all perfectly beautiful objects there is found the opposition of one part to another and a reciprocal balance.” Although Ruskin’s view bestows value on aesthetics and beauty, a designer can deliberately play with expected proportion in a composition with the goal of creating graphic impact that is not even remotely about beauty, yet still establish a balanced reciprocity among the graphic elements.
 - ### Fibonacci Numbers
+    The opposite corners of the squares yields a spiral that resembles many found in plants, seashells, and other forms in nature.
+
+    ![Proportional-Systems](./imags/Proportional-Systems-1.jpg "Proportional-Systems")
 - ### The Golden Ratio
 - ### Rule of Thirds
 - ### Modularity
