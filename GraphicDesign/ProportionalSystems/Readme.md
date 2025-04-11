@@ -102,4 +102,26 @@ ated the 960 Grid System (http://960.gs/), a web grid that is
 - ### Grid Modules
 - ### Spatial Zones
 - ### Modular Grids
+    > A designer can strictly adhere to a grid or break a grid. For the sake of visual drama or surprise, you can occasionally break the grid. If you break the grid too often, however, the armature it provides will be lost.
 
+A baseline is the invisible line upon which type sits, defining the bottom of capital and lowercase letters excluding descenders. A baseline grid is a visual guide created by planning a set of
+baselines for the primary text, which run from the top margin to the bottom margin. These horizontal divisions are guidelines for text and image alignment from column to column. A baseline grid should accommodate the largest size type of the body text. This grid allows for adding line spacing between paragraphs to create chunks of text so that the visitor can easily scan or read the copy.
+
+![Proportional-Systems](./imags/Proportional-Systems-12.jpg "Proportional-Systems")
+
+How do you know which grid option to choose? Base your
+decision on communication goals, purpose, the amount of
+images and text, and audience. An award-winning (Presiden-
+tial Awards for Design Excellence) example of a modular grid
+is the Unigrid designed by Massimo Vignelli for the United
+States National Park Service, Washington, DC, Publications
+Program (Figure 8-6). Since 1977, all United States National
+Park Service brochures have been designed based on the Uni-
+grid System format, a modular grid system for layout of text
+and graphics. The design includes black bands at the top and
+bottom of the brochures, a standardized typeface, and stan-
+dard map formats; all establish a uniform identity for National
+Park Service brochures (http://www.nps.gov).
+
+![Proportional-Systems](./imags/Proportional-Systems-10.jpg "Proportional-Systems")
+![Proportional-Systems](./imags/Proportional-Systems-11.jpg "Proportional-Systems")
