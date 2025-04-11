@@ -14,3 +14,12 @@ to the whole in terms of magnitude, measure, and/or quantity.
 - ### Rule of Thirds
 - ### Modularity
 - ### Chunking
+## The Grid
+- ### Single-Column Grid
+- ### Multicolumn Grids
+- ### Columns and Column Intervals
+- ### Flowlines
+- ### Grid Modules
+- ### Spatial Zones
+- ### Modular Grids
+
