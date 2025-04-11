@@ -26,9 +26,13 @@ of proportion.
     golden section have been considered aesthetically pleasing by
     many artists, designers, and architects. For example, architect
     Le Corbusier used the golden ratio as the basis of his modular architectural system. The golden ratio is still used today in graphic design, fine art, and architecture. Graphic designers utilize the golden section for grid systems and page formats.
-    
+
     ![Proportional-Systems](./imags/Proportional-Systems-2.jpg "Proportional-Systems")
 - ### Rule of Thirds
+     ![Proportional-Systems](./imags/Proportional-Systems-3.jpg "Proportional-Systems")
+
+    The rule of thirds is an asymmetrical compositional technique
+    often used by painters, photographers, and designers to create visual interest and balance. It involves overlaying the format with a grid and positioning or aligning the focal point or primary graphic elements of the composition along these grid lines or especially on the intersections of the grid lines. To employ the rule, the focal point is placed at one intersection.
 - ### Modularity
 - ### Chunking
 ## The Grid
