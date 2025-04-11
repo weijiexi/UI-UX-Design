@@ -9,6 +9,14 @@ of proportion.
 Proportion is the comparative size relationships of parts to
 one another and to the whole. Elements or parts are compared
 to the whole in terms of magnitude, measure, and/or quantity.
+
+For designers, it is an aesthetic arrangement—a harmonious or
+agreeable relationship of parts or elements within a whole. Considered proportions are one main key to creating pleasing
+form.
+
+In design, harmony is agreement within a composition, where elements are constructed, arranged, and function in relation to one another to a congruent effect. Art critic John
+
+Ruskin said, “In all perfectly beautiful objects there is found the opposition of one part to another and a reciprocal balance.” Although Ruskin’s view bestows value on aesthetics and beauty, a designer can deliberately play with expected proportion in a composition with the goal of creating graphic impact that is not even remotely about beauty, yet still establish a balanced reciprocity among the graphic elements.
 - ### Fibonacci Numbers
 - ### The Golden Ratio
 - ### Rule of Thirds
