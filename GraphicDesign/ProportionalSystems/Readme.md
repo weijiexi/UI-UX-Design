@@ -21,6 +21,8 @@ of proportion.
     The opposite corners of the squares yields a spiral that resembles many found in plants, seashells, and other forms in nature.
 
     ![Proportional-Systems](./imags/Proportional-Systems-1.jpg "Proportional-Systems")
+    
+    ![Proportional-Systems](./imags/Proportional-Systems-2.jpg "Proportional-Systems")
 - ### The Golden Ratio
 - ### Rule of Thirds
 - ### Modularity
