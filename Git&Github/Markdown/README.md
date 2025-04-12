@@ -36,7 +36,7 @@ or
 
 ## Collapsible
 
-    ```shell
+```shell
 <details>
   <summary>Click me</summary>
   
@@ -47,12 +47,11 @@ or
      * Qux
 
   ### Some Javascript
-  ```js
+
   function logSomething(something) {
     console.log('Something', something);
   }
-  ```
 </details>
 
-    ```
+```
 
