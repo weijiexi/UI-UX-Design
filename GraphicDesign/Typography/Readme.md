@@ -29,7 +29,8 @@ Before you choose a typeface, ```clearly define the audience, tone, personality 
 </details>
   
 
-### Design Concept
+<details>
+  <summary>Design Concept</summary>
 - Often, beginning students (and almost all nondesigners) choose typefaces for their novelty appeal rather than select a suitable
 typeface to express the design concept. Every font carries meaning — ```historical, cultural, emotional — whether the designer intends it or not.```
    - Beginners tend to be attracted to typefaces that are decorative. ```They may also have little understanding of what a typeface connotes, of its history and classification.``` For example, choosing a typeface associated with a time period or style, such as art deco, carries historical and aesthetic meaning, even if you aren’t aware of it. Knowing type classifications and design history comes strongly into play when selecting a typeface. For example, would you use American
@@ -49,7 +50,11 @@ nineteenth-century wood type for a magazine article about the history of East As
    > Wood Type - 19th-century American posters	Frontier, Western, industrial
 
    ![WoodType](./imags/WoodType.jpg "WoodType")
-### Readability and Legibility
+</details>
+  
+
+<details>
+  <summary>Readability and Legibility</summary>
    ![Readability&Legibility](./imags/Readability&Legibility.png "Readability&Legibility")
 With considerations of size, spacing, margins, color, and paper selection, contributes to readability. 
 - Typefaces that are too light or too heavy may be difficult to read, especially in smaller sizes. Caution: Thin strokes are very difficult to see on screen and should be avoided for text.
@@ -59,7 +64,11 @@ With considerations of size, spacing, margins, color, and paper selection, contr
 - Greater value contrast between type and background increases readability.
 - Highly saturated colors may interfere with readability.
 - People tend to read darker colors first.
-### Integration with image
+</details>
+  
+
+<details>
+  <summary>Integration with image</summary>
 - Should the typeface share visual characteristics with the image?
 - Should the typeface contrast with the characteristics of the image?
 - Should the typeface be neutral (one that does not draw great attention to itself) and allow the image to drive the solution?
@@ -68,7 +77,11 @@ In such a case, the typeface would contextualize the image.
 - Should the typeface carry the main communication with the image subordinate to it?
 - Should the type and image operate collectively? (See Figure3-7)
 - Would hand-drawn or handmade lettering or handwriting work best?
-### Typeface Pairings
+</details>
+  
+
+<details>
+  <summary>Typeface Pairings</summary>
 Being creative involves experimentation. Having guidelines or grasping standards allows you to critique your experiments.
 Designers mix typefaces for conceptual, creative, and/or aesthetic reasons. 
 There are general type rules for beginners and, perhaps, for any designer.
@@ -94,7 +107,11 @@ There are general type rules for beginners and, perhaps, for any designer.
       > Consider pairing a typeface with a linear quality with a typeface made from thick strokes. 
 
       > Consider pairing actual handwriting with an industrial typeface.
-### Spacing
+</details>
+  
+
+<details>
+  <summary>Spacing </summary>
 When setting type, whether it’s a big, two-word headline or a big,
 two-hundred-page document, one of the most overlooked aspects
 is the space between the letters, the words, the sentences and the
@@ -106,7 +123,11 @@ loose or tight, it has to be consistent and pleasurable, and it’s right
 there, you just have to shift your attention.
                                              — Armin Vit
                                              UnderConsideration LLC
-### Voice and Branding
+</details>
+ 
+
+<details>
+  <summary>Voice and Branding </summary>
 - Make sure the typeface selection is appropriate for the brand or entity.
 - Typeface selection can help differentiate a brand. (Caution:
 Typefaces selected for a brand or group’s identity may
@@ -125,4 +146,6 @@ There are many typefaces for use on screen available for
 dynamic download from the cloud. You can purchase web
 fonts from reputable type foundries online. Many web font
 purchases include a font for print as well.
+</details>
+
 
