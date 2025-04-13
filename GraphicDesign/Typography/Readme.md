@@ -7,6 +7,7 @@ For the screen, you can specify type measurement using points, pixels, percentag
 
 <details>
   <summary>Type Classification</summary>
+  
 ![typography](./imags/typography-1.jpg "typography")
 ![typography](./imags/typography-2.jpg "typography")
 ![typography](./imags/typography-3.jpg "typography")
@@ -14,6 +15,7 @@ For the screen, you can specify type measurement using points, pixels, percentag
   
 <details>
   <summary>Type Selection</summary>
+
 Before you choose a typeface, ```clearly define the audience, tone, personality and attitude``` of what you are trying to communicate and how you want to say it. 
 #### Tips on Selecting a Typeface
 - Select based on appropriateness for audience, design concept, message, communication requirements, and context.
@@ -31,6 +33,7 @@ Before you choose a typeface, ```clearly define the audience, tone, personality 
 
 <details>
   <summary>Design Concept</summary>
+
 - Often, beginning students (and almost all nondesigners) choose typefaces for their novelty appeal rather than select a suitable
 typeface to express the design concept. Every font carries meaning — ```historical, cultural, emotional — whether the designer intends it or not.```
    - Beginners tend to be attracted to typefaces that are decorative. ```They may also have little understanding of what a typeface connotes, of its history and classification.``` For example, choosing a typeface associated with a time period or style, such as art deco, carries historical and aesthetic meaning, even if you aren’t aware of it. Knowing type classifications and design history comes strongly into play when selecting a typeface. For example, would you use American
@@ -55,6 +58,7 @@ nineteenth-century wood type for a magazine article about the history of East As
 
 <details>
   <summary>Readability and Legibility</summary>
+
    ![Readability&Legibility](./imags/Readability&Legibility.png "Readability&Legibility")
 With considerations of size, spacing, margins, color, and paper selection, contributes to readability. 
 - Typefaces that are too light or too heavy may be difficult to read, especially in smaller sizes. Caution: Thin strokes are very difficult to see on screen and should be avoided for text.
@@ -69,6 +73,7 @@ With considerations of size, spacing, margins, color, and paper selection, contr
 
 <details>
   <summary>Integration with image</summary>
+
 - Should the typeface share visual characteristics with the image?
 - Should the typeface contrast with the characteristics of the image?
 - Should the typeface be neutral (one that does not draw great attention to itself) and allow the image to drive the solution?
@@ -85,6 +90,7 @@ In such a case, the typeface would contextualize the image.
 Being creative involves experimentation. Having guidelines or grasping standards allows you to critique your experiments.
 Designers mix typefaces for conceptual, creative, and/or aesthetic reasons. 
 There are general type rules for beginners and, perhaps, for any designer.
+
 - #### Limit Mixing and Select for Contrast
    - Pair typefaces for distinction between display type and text type. 
       - The most common rule is to restrict designing to utilizing no more than two typefaces—one for display and one for text. 
