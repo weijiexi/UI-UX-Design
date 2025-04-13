@@ -36,7 +36,7 @@ scanned from actual textures, or photographed. Using skills learned in drawing, 
 
 <details>
   <summary>Pattern</summary>
-  
+
 - Pattern is a consistent repetition of a single visual unit or element within a given area. In all cases, there must be systematic repetition with obvious directional movement. 
 - An interesting aspect of pattern is that the viewer anticipates a sequence. If you examine patterns, you will notice that their structures rely on the configuration of three basic building blocks: ```dots, lines, and grids```. 
 - In a pattern, any individual small unit, whether a nonobjective or representational shape, can be based on the dot. Any moving path is based on lines, also called stripes. Any two intersecting units yield a pattern grid.
@@ -50,12 +50,19 @@ Applying a pattern on the packaging of different items helps to create a coordin
 
 ## Principles of Design
 
-### Format
+<details>
+  <summary>Format</summary>
+
 - The format is the defined perimeter as well as the field it encloses—the outer edges or boundaries of a design. 
 - Format refers to the field or substrate (piece of paper, mobile phone screen, outdoor billboard, etc.) for the graphic design
 project. 
 - Designers often use the term format to describe the type of project—that is, a poster, a CD cover, a mobile ads, and so on. Graphic designers work with a variety of formats.
-### Balance
+</details>
+
+
+<details>
+  <summary>Balance</summary
+
 - Balance is stability or equilibrium created by an even distribution of visual weight on each side of a central axis as well as by an even distribution of weight among all the elements of the composition. 
 - When a design is balanced, it tends toward harmony. A balanced composition affects the viewer—communicating stability. The average viewer is averse to imbalance in a composition and reacts negatively to instability. 
 - Understanding balance involves the study of several interrelated visual factors: 
@@ -93,7 +100,11 @@ project.
       Radial balance is symmetry achieved through a combination of horizontally and vertically oriented symmetry (Diagram2-15). Elements radiate out from a point in the center of the composition.
       
       ![Symmetry](./imags/Symmetry.jpg "Symmetry")
-### Visual Hierarchy
+</details>
+
+<details>
+  <summary>Visual Hierarchy</summary>
+
 - One of the primary purposes of graphic design is to ```communicate information```, and visual hierarchy is the primary principle for ```organizing information```. 
 - To guide the viewer, the designer uses visual hierarchy, ```the arrangement of all graphic elements according to emphasis```. 
   - Emphasis is the arrangement of visual elements according to importance, stressing some elements over others, making some superordinate (dominant) elements and subordinating other elements. 
@@ -122,7 +133,11 @@ project.
     - ```Stair structures```. To illustrate hierarchy, this structure stacks elements, with the main element at the top and subordinate elements descending like stairsteps.
   
   ![DiagrammaticStructures](./imags/DiagrammaticStructures.jpg "DiagrammaticStructures")  
-### Rhythm
+</details>
+
+<details>
+  <summary> Rhythm </summary>
+
 - In graphic design, a strong and consistent repetition, a pattern of elements can set up a rhythm, which causes the viewer’s eyes to move around the page. Timing can be set by the intervals between and among the position of elements on the page. 
 - Many factors can contribute to establishing rhythm — ```color,texture, figure/ground relationships, emphasis, and balance.```
     ![Rhythm](./imags/Rhythm-1.jpg "Rhythm")
@@ -134,7 +149,10 @@ project.
   - Variation creates visual interest to engage a viewer and add an element of surprise. However, too much variation will dilute a visual beat.
     
     ![Rhythm](./imags/Rhythm-2.jpg "Rhythm")![Rhythm](./imags/Rhythm-3.jpg "Rhythm")
-### Unity
+  </details>
+
+<details>
+  <summary> Unity  </summary> 
 All the graphic elements in a design are so interrelated they form a greater whole. All the graphic elements look as though they belong together.Viewers best understand and remember a composition that is unified. 
   #### Gestalt
   German for “form,” which places an emphasis on the perception of forms as organized wholes, primarily concerned with how the mind attempts to impose order on the world, to unify and order perceptions. 
@@ -167,3 +185,4 @@ All the graphic elements in a design are so interrelated they form a greater who
   Structure and Unity - Viewers will perceive a greater sense of unity in a composition when they see or sense visual connections through the alignment of elements, objects, or edges. Because people seek order, their eyes easily pick up these relationships and make connections among the forms. 
   ![modular-grid](./imags/modular-grid.jpg "modular-grid")
   ![modular-grid](./imags/Modular-Grid.gif "modular-grid")
+  </details>
