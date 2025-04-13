@@ -1,10 +1,9 @@
 # Graphic Design: Formal Elements & Principles of Design
 ## Formal Elements   
-- Line                  
-- Shape
-- Color
-- Texture
-### Line
+
+<details>
+  <summary>Line</summary>
+
 - The basic functions of lines include: ```Define shapes, edges, forms; create images, letters, and patterns```
 - Delineate boundaries and define areas within a composition
 - Assist in ```visually organizing a composition and creating a line of vision``` 
@@ -12,20 +11,32 @@
 - When line is the predominant element used to unify a composition or to describe shapes or forms in a design (or painting), the style is termed ```linear```.
 
     ![linear](./imags/linear1.jpg "linear")
-### Shape
+</details>
+
+<details>
+  <summary>Shape</summary>
+
 - A ```curvilinear shape```, organic, or biomorphic shape is formed by curves or dominating marked flowing edges,which seems to have a naturalistic feel. It may be drawn precisely or loosely.
 - An ```abstract shape``` refers to a simple or complex rearrangement, alteration, or distortion of the representation of natural appearance used for stylistic distinction and/or communication purposes.
 - A ```representational shape``` is recognizable and reminds the viewer of actual objects seen in nature; it is also called a figurative shape.
 - Figure(positive space)/Ground(negative space) - The figure or positive shape is a definite shape, immediately discernible as a shape. 
 ![federico pinto schmid art](./imags/FedericoArt.png "federico pinto schmid art")
-### Tecture
+</details>
+
+<details>
+  <summary>Tecture</summary>
 - The tactile quality of a surface or the simulation or representation of such a surface quality is a texture. 
 - In the visual arts, there are two categories of texture: tactile and visual.
 - ```Tactile textures``` have actual tactile quality and can be physically
 touched and felt; they are also called actual textures. 
 - ```Visual textures``` are illusions of real textures created by hand,
 scanned from actual textures, or photographed. Using skills learned in drawing, painting, photography, and various other image-making media, a designer can create a great variety of textures.
-### Pattern
+</details>
+
+
+<details>
+  <summary>Pattern</summary>
+  
 - Pattern is a consistent repetition of a single visual unit or element within a given area. In all cases, there must be systematic repetition with obvious directional movement. 
 - An interesting aspect of pattern is that the viewer anticipates a sequence. If you examine patterns, you will notice that their structures rely on the configuration of three basic building blocks: ```dots, lines, and grids```. 
 - In a pattern, any individual small unit, whether a nonobjective or representational shape, can be based on the dot. Any moving path is based on lines, also called stripes. Any two intersecting units yield a pattern grid.
@@ -34,13 +45,11 @@ scanned from actual textures, or photographed. Using skills learned in drawing, 
 - How to use It?
 A pattern can make a creative work visually more exciting and recognizable. Today,
 Applying a pattern on the packaging of different items helps to create a coordinated image between the various products of a brand to make it recognizable at a glance. Furthermore, the use of colour variants can help to differentiate the varieties: in this case, each colour will be associated with a particular taste, aroma, etc ... In the same way, using different textures or graphic motifs but of the same colour can help to identify a specific line of products.
+</details>
+
+
 ## Principles of Design
-- Format
-- Balance
-- Visual Hierarchy
-- Rhythm
-- Unity
-- Laws of Perceptual Organization
+
 ### Format
 - The format is the defined perimeter as well as the field it encloses—the outer edges or boundaries of a design. 
 - Format refers to the field or substrate (piece of paper, mobile phone screen, outdoor billboard, etc.) for the graphic design
