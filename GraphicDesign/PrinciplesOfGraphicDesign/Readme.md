@@ -2,8 +2,9 @@
 ## Formal Elements   
 
 <details>
-  <summary>Line</summary>
+  <summary>Point, Line, Plane</summary>
 
+#### line
 - The basic functions of lines include: ```Define shapes, edges, forms; create images, letters, and patterns```
 - Delineate boundaries and define areas within a composition
 - Assist in ```visually organizing a composition and creating a line of vision``` 
@@ -11,6 +12,31 @@
 - When line is the predominant element used to unify a composition or to describe shapes or forms in a design (or painting), the style is termed ```linear```.
 
     ![linear](./imags/linear1.jpg "linear")
+#### Space and Volume
+
+ ```Point and Line```: Physical and Digital In the lettering experiments shown here, each word is written with lines, points, or both, produced with physical elements, digital illustrations, or code-generated vectors. 
+
+  ![linear](./imags/point-and-line.jpg "linear")
+
+ ```Three Objects```: Thirty-Three Ways This comprehensive design project encourages designers to observe, represent, and abstract visible objects using a variety of materials and techniques. Designers begin by visiting an unusual place with surprising things to see and observe, such as a local museum, aquarium, or botanical garden. They produce a substantial number of observational drawings of three objects, paying special attention to the appearance of form, color, texture, and materials. Careful observation is followed by exercises in creating word lists and drawing from memory to create a total of ninety-nine studies. The project exposes designers to the iterative design process, building individual capacity for patience, endurance, and an open mind. 
+
+![linear](./imags/Three-Objects.jpg "linear")
+
+ ```Spatial Translation```:
+In this project, designers explore point, line, and plane as tools for
+expression. They immerse themselves in a space and observe it
+from multiple points of view, including different vantage points
+(above, below) and different psychological orientations (as a male, a
+female, a giraffe, a shrimp, etc.). Participants generate images of
+their chosen spaces in diverse media, including photography,
+drawing, painting, printing, collage, or video. Representations can
+be literal, abstract, iconic, indexical, or symbolic. After gathering
+their initial observations, designers create a series of
+representations using dot stickers, tape, and cut paper. The final
+application is a sequence of ten images suitable for an accordion
+fold book.
+
+![linear](./imags/point-line-plane.jpg "linear")
 </details>
 
 <details>
@@ -24,13 +50,35 @@
 </details>
 
 <details>
-  <summary>Tecture</summary>
+  <summary>Texture</summary>
+
 - The tactile quality of a surface or the simulation or representation of such a surface quality is a texture. 
 - In the visual arts, there are two categories of texture: tactile and visual.
 - ```Tactile textures``` have actual tactile quality and can be physically
 touched and felt; they are also called actual textures. 
 - ```Visual textures``` are illusions of real textures created by hand,
 scanned from actual textures, or photographed. Using skills learned in drawing, painting, photography, and various other image-making media, a designer can create a great variety of textures.
+
+```Five Squares``` Ten Inches All typefaces have an innate optical texture that results from
+the accumulation of attributes such as serifs, slope, stroke width, and proportion.
+Those attributes interact on the page with the size, tracking, leading, and paragraph
+style selected by the designer, yielding an overall texture.
+In this exercise, designers composed five justified squares of type inside a ten-inch
+frame. Variation of type style, texture, and value were achieved by combining
+contrasting characteristics such as old style italic serifs, uniformly weighted sans
+serifs, geometric slab serifs, and so on. Light to dark value (typographic color) was
+controlled through the combination of stroke width, letterspacing, and paragraph
+leading.
+Finally, students manipulated the scale and placement of the squares to achieve
+compositional balance, tension, and depth. Squares were permitted to bleed off the
+edges, reinforcing the illusion of amplification and recession. 
+
+![texture](./imags/texture-1.jpg "texture")![texture](./imags/texture-2.jpg "texture")
+
+![texture](./imags/texture-3.jpg "texture")![texture](./imags/texture-4.jpg "texture")
+
+![texture](./imags/texture-5.jpg "texture")![texture](./imags/texture-6.jpg "texture")
+
 </details>
 
 
@@ -96,6 +144,10 @@ project.
       Asymmetry is an equal distribution of visual weights achieved through weight and counterweight by balancing one element with the weight of a counterpointing element without mirroring elements on either side of a central axis (Figure 2-8). To achieve asymmetrical balance, the position, visual weight, size, value, color, shape, and texture of a mark on the page must be considered and weighed against every other mark. Every element and its position contribute to the overall balancing effect in a composition. （Most designer use asymmetry to their artworks.）
        
       ![asymmetry](./imags/Asymmetry.jpg "asymmetry-1")![asymmetry](./imags/Asymmetry-1.jpg "asymmetry-1")![asymmetry-2](./imags/asymmetry-2.jpg "asymmetry-2")
+
+      ```Disrupted Symmetry``` The designer has disrupted this symmetrical cross form to signify political unrest among factions in Uganda around the HIV/AIDS crisis. Narrative text lines alternate between clarity and obfuscation, ultimately erupting in chaos, yielding a dynamic counterpoint balance. 
+
+      ![Disrupted-Symmetry](./imags/Disrupted-Symmetry.jpg "Disrupted-Symmetry")
       ##### Radial balance 
       Radial balance is symmetry achieved through a combination of horizontally and vertically oriented symmetry (Diagram2-15). Elements radiate out from a point in the center of the composition.
       
@@ -149,6 +201,7 @@ project.
   - Variation creates visual interest to engage a viewer and add an element of surprise. However, too much variation will dilute a visual beat.
     
     ![Rhythm](./imags/Rhythm-2.jpg "Rhythm")![Rhythm](./imags/Rhythm-3.jpg "Rhythm")
+
   </details>
 
 <details>
@@ -158,6 +211,19 @@ All the graphic elements in a design are so interrelated they form a greater who
   German for “form,” which places an emphasis on the perception of forms as organized wholes, primarily concerned with how the mind attempts to impose order on the world, to unify and order perceptions. 
   
   ![gestalt](./imags/gestalt.png "gestalt")
+  - Simplicity - We see two circles rather than three odd shapes.
+  - Similarity - We see two groups based on the size of the elements.
+  - Proximity - We see two groups based on the closeness of the elements.
+  - Closure - We close the gap in the shape.
+  - Continuity - We see two long lines crossing rather than four short lines converging.
+  - Symmetry - We tend to close symmetrical forms to make a single object.
+
+  ![gestalt](./imags/gestalt-2.jpg "gestalt")
+
+  ![gestalt](./imags/gestalt-3.jpg "gestalt")
+
+  ![gestalt](./imags/gestalt-4.jpg "gestalt")
+
   - ##### From gestalt, we derive certain laws of perceptual organization that govern visual thinking, profoundly affecting how you construct unity in a composition. 
   - The mind attempts to create order, make connections, and to seek a whole by grouping—perceiving visual units by ```location, orientation, likeness, shape, and color.``` 
   - ##### [the law of prägnanz](https://lawsofux.com/law-of-pr%C3%A4gnanz/)
@@ -167,6 +233,7 @@ All the graphic elements in a design are so interrelated they form a greater who
       - The human eye likes to find simplicity and order in complex shapes because it prevents us from becoming overwhelmed with information.
       - Research confirms that people are better able to visually process and remember simple figures than complex figures.
       - The human eye simplifies complex shapes by transforming them into a single, unified shape.
+  
   #### Laws of Perceptual Organization
   ![gestalt](./imags/gestalt-1.png "gestalt")
   - ##### Similarity
@@ -185,4 +252,19 @@ All the graphic elements in a design are so interrelated they form a greater who
   Structure and Unity - Viewers will perceive a greater sense of unity in a composition when they see or sense visual connections through the alignment of elements, objects, or edges. Because people seek order, their eyes easily pick up these relationships and make connections among the forms. 
   ![modular-grid](./imags/modular-grid.jpg "modular-grid")
   ![modular-grid](./imags/Modular-Grid.gif "modular-grid")
-  </details>
+</details>
+
+
+<details>
+  <summary>Scale</summary>
+
+  ```Scale, Depth, and Motion``` In the typographic compositions shown here, designers worked with one word or a pair of words and used changes in scale as well as placement on the page to convey the meaning of the word or word pair. Contrasts in scale can imply motion or depth as well as express differences in importance.
+    
+  ![Scale](./imags/Rhythm-4.jpg "Scale")![Scale](./imags/Rhythm-5.jpg "Scale")![Scale](./imags/Rhythm-6.jpg "Scale")
+
+  ```Extreme Heights``` In the poster for a lecture at a college, designer Paul Sahre put his typography under severe pressure, yielding virtually illegible results. (He knew he had a captive audience.) 
+
+  ![Scale](./imags/Extreme-Heights.jpg "Scale")
+</details>
+  
+
