@@ -224,6 +224,29 @@ All the graphic elements in a design are so interrelated they form a greater who
 
   ![gestalt](./imags/gestalt-4.jpg "gestalt")
 
+```Grouping + Typography```
+At its most basic level, all typography employs principles of
+grouping. Letters cluster into words (proximity). Shifts in
+weight, style, or size signal differences and hierarchies
+(similarity). When we create “lines” of text out of letters and
+words, we exploit the power of continuity, which sustains the
+illusion of a single gesture or path.
+This project encourages designers to experiment with the
+basic principles of typography. Each student creates multiple
+interpretations of a given text by using spacing, composition,
+and alignment. Designers explore the impact of principles such
+as proximity, similarity, continuity, and closure to create new
+patterns of meaning that exploit the mind’s ability to reconnect
+fragments and build wholes out of parts. The text in this project
+comes from the Bill of Universal Human Rights.
+
+ ![Grouping+Typography](./imags/Grouping+Typography-1.jpg "Grouping+Typography")
+  ![Grouping+Typography](./imags/Grouping+Typography-2.jpg "Grouping+Typography")
+   ![Grouping+Typography](./imags/Grouping+Typography-3.jpg "Grouping+Typography")
+     ![Grouping+Typography](./imags/Grouping+Typography-4.jpg "Grouping+Typography")
+       ![Grouping+Typography](./imags/Grouping+Typography-5.jpg "Grouping+Typography")
+         ![Grouping+Typography](./imags/Grouping+Typography-6.jpg "Grouping+Typography")
+
   - ##### From gestalt, we derive certain laws of perceptual organization that govern visual thinking, profoundly affecting how you construct unity in a composition. 
   - The mind attempts to create order, make connections, and to seek a whole by grouping—perceiving visual units by ```location, orientation, likeness, shape, and color.``` 
   - ##### [the law of prägnanz](https://lawsofux.com/law-of-pr%C3%A4gnanz/)
