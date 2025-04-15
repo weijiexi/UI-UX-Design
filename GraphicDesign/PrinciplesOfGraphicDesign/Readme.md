@@ -45,15 +45,13 @@ fold book.
 - A ```curvilinear shape```, organic, or biomorphic shape is formed by curves or dominating marked flowing edges,which seems to have a naturalistic feel. It may be drawn precisely or loosely.
 - An ```abstract shape``` refers to a simple or complex rearrangement, alteration, or distortion of the representation of natural appearance used for stylistic distinction and/or communication purposes.
 - A ```representational shape``` is recognizable and reminds the viewer of actual objects seen in nature; it is also called a figurative shape.
-- ```Figure(positive space)/Ground(negative space)``` - The figure or positive shape is a definite shape, immediately discernible as a shape. 
+- ```Figure(positive space)/Ground(negative space)``` The figure or positive shape is a definite shape, immediately discernible as a shape. 
 
  ![federico pinto schmid art](./imags/FedericoArt.png "federico pinto schmid art")
-
 - ```Interwoven Space``` Designers, illustrators, and photographers often play with figure/ground relationships to add interest and intrigue to their work. Unlike conventional depictions where subjects are centered and framed against a background, active figure/ground conditions churn and interweave form and space, creating tension and ambiguity.
 
-![Shape](./imags/Shape-3.jpg "Shape") 
-![Shape](./imags/Shape-4.jpg "Shape")
-
+ ![shape](./imags/shape-3.jpg "shape")
+  ![shape](./imags/shape-4.jpg "shape")
 - ```Concept Sketching```
 Fast, informal visualizations allow designers to explore different
 figure/ground relationships in a low-risk environment that fosters
@@ -63,9 +61,16 @@ closer to reality. Multiple sketches yield a more valuable process
 than single sketches, as drawings begin to speak to one another,
 opening the mind and eye to new connections.
 
-![Shape](./imags/Shape-1.jpg "Shape") 
-![Shape](./imags/Shape-2.jpg "Shape")
+ ![shape](./imags/Shape-1.jpg "shape")
+  ![shape](./imags/shape-2.jpg "shape")
+    ![shape](./imags/shape-5.jpg "shape")
+      ![shape](./imags/shape-6.jpg "shape")
+- Letterform Abstraction In this introduction to letterform anatomy, students
+examined the forms and counterforms of the alphabet in many font variations,
+eventually isolating just enough of each letter to hint at its identity. Each student
+sought to strike a balance between positive and negative space. 
 
+  ![shape](./imags/shape-7.jpg "shape")
 </details>
 
 <details>
@@ -114,6 +119,18 @@ A pattern can make a creative work visually more exciting and recognizable. Toda
 Applying a pattern on the packaging of different items helps to create a coordinated image between the various products of a brand to make it recognizable at a glance. Furthermore, the use of colour variants can help to differentiate the varieties: in this case, each colour will be associated with a particular taste, aroma, etc ... In the same way, using different textures or graphic motifs but of the same colour can help to identify a specific line of products.
 </details>
 
+<details>
+  <summary>Diagram</summary>
+
+</details>
+
+
+<details>
+  <summary>Time and Motion</summary>
+
+</details>
+
+
 
 ## Principles of Design
 
@@ -124,6 +141,24 @@ Applying a pattern on the packaging of different items helps to create a coordin
 - Format refers to the field or substrate (piece of paper, mobile phone screen, outdoor billboard, etc.) for the graphic design
 project. 
 - Designers often use the term format to describe the type of project—that is, a poster, a CD cover, a mobile ads, and so on. Graphic designers work with a variety of formats.
+- ```Framing Text and Image``` In this project, designers edited, framed, and cropped a
+picture in relation to a passage of text. The challenge was to make the text an equal
+player in the final composition, not a mere caption or footnote to the picture.
+Designers approached the image abstractly as well as figuratively. Is the picture flat
+or three-dimensional? How does it look upside down? Designers edited the image by
+blocking out parts of it, changing the shape of the frame, or blowing up a detail. They
+found lines, shapes, and planes within the picture that suggested ways to position
+and align the text. The goal was to integrate the text with the image without letting
+the text disappear. 
+
+![Framing](./imags/Framing-1.jpg "Framing")![Framing](./imags/Framing-2.jpg "Framing")
+
+![Framing](./imags/Framing-3.jpg "Framing")![Framing](./imags/Framing-4.jpg "Framing")
+
+![Framing](./imags/Framing-5.jpg "Framing")![Framing](./imags/Framing-6.jpg "Framing")
+
+![Framing](./imags/Framing-7.jpg "Framing")
+
 </details>
 
 
@@ -176,6 +211,9 @@ project.
 <details>
   <summary>Visual Hierarchy</summary>
 
+  <details>
+    <summary>Emphasis</summary>
+
 - One of the primary purposes of graphic design is to ```communicate information```, and visual hierarchy is the primary principle for ```organizing information```. 
 - To guide the viewer, the designer uses visual hierarchy, ```the arrangement of all graphic elements according to emphasis```. 
   - Emphasis is the arrangement of visual elements according to importance, stressing some elements over others, making some superordinate (dominant) elements and subordinating other elements. 
@@ -183,13 +221,47 @@ project.
   #### The designer must determine what to emphasize and what to de-emphasize. if you give emphasis to all elements in a design, you have given it to none of them; you end up with visual chaos. 
   #### Emphasis is directly related to establishing a point of focus.
   ```The focal point``` is the part of a design that is most emphasized or accentuated, where the green chair is the focal point. ```Position, size, shape, direction, hue, value, saturation, and texture of a graphic element``` all contribute to establishing a focal point.
-              ![focalPoint](./imags/focalPoint.jpg "focalPoint")
+              ![focalPoint](./imags/focalPoint.jpg "focalPoint") ![Hierarchy](./imags/Hierarchy-5.jpg "Hierarchy")
+
+- ```Content Vacuum``` In this project the designer purposefully abstracted the content of newspaper pages, thereby drawing attention to the visual hierarchy. 
+
+    ![Hierarchy](./imags/Hierarchy-1.jpg "Hierarchy")  ![Hierarchy](./imags/Hierarchy-2.jpg "Hierarchy")
+
+    ![Hierarchy](./imags/Hierarchy-3.jpg "Hierarchy")  ![Hierarchy](./imags/Hierarchy-4.jpg "Hierarchy")
+
+- ```Five Fonts``` In this twist on the classic type specimen book,
+designers curate a collection of five typefaces and design a
+typographic hierarchy. Key content includes the typeface name,
+designer, year created, and descriptive or historical text. The
+compositional landscapes also contain a character set and
+some visual element focusing attention on the typeface’s
+expressive or formal qualities. In structuring multiple pages,
+students consider continuity and pacing. Covers and colophons
+become graceful extensions of the interior.
+
+  ![Hierarchy](./imags/Hierarchy-6.jpg "Hierarchy")  ![Hierarchy](./imags/Hierarchy-7.jpg "Hierarchy")  ![Hierarchy](./imags/Hierarchy-8.jpg "Hierarchy")
+
+- ```Dimensional Hierarchy```
+Messages applied to three-dimensional form have the added
+challenge of legibility across and around planes. Objects sitting in an
+environment are bathed in shadow and light. Unlike books that can
+conceal elaborate worlds inside their covers—automatically
+separated from exterior contexts—environmental messages must
+interact beyond their boundaries and become either a harmonious
+or poignant counterpoint to their neighbors.
+Notice in these examples how type, color fields, and graphic
+elements carry the viewer’s eye around the dimensional form, often
+making a visual if not verbal connection with neighboring packages
+when stacked side by side or vertically.
+
+  ![Hierarchy](./imags/Hierarchy-9.jpg "Hierarchy")  ![Hierarchy](./imags/Hierarchy-10.jpg "Hierarchy") 
   #### Ways to Achieve Emphasis
   To establish a visual hierarchy, decide on the importance of the graphic elements (images and type) of your design. Create a flow of information from the most important graphic element to the least.
   Emphasis by Isolation
   Isolating a shape focuses attention on it (focused attention equals more visual weight). Please note that a focal point usually carries a good amount of visual weight and must be counterbalanced accordingly with other elements in a composition.
   
   ![Emphasis](./imags/Emphasis.jpg "Emphasis")
+
   - ###### Emphasis by Placement
   How the viewer moves visually through a spatial composition is an ongoing topic of study. It has been shown that viewers have preferences for specific regions of a page. Placing a graphic element at a specific position in a composition, such as the foreground, the top-left corner, or the center/middle of a page, attracts most viewers' gaze most easily.
   - ###### Emphasis Through Scale
@@ -203,11 +275,61 @@ project.
     - ```Nest structures```. This can be done either through layering(the main element is the first layer and other layers move behind it) or through containment (the main element contains the less significant elements). Layering for the purpose of hierarchy is critical to understand in relation to websites and information design.
     - ```Stair structures```. To illustrate hierarchy, this structure stacks elements, with the main element at the top and subordinate elements descending like stairsteps.
   
-  ![DiagrammaticStructures](./imags/DiagrammaticStructures.jpg "DiagrammaticStructures")  
+  ![DiagrammaticStructures](./imags/DiagrammaticStructures.jpg "DiagrammaticStructures")
+    </details>
+    <details>
+      <summary>Layer</summary>
+
+    The designer or paste-up artist adhered each element of the page—type, images, blocks of color—to a separate layer, placing any element
+    that touches any other element on its own surface.
+    This same principle is at work in the digital layers we use today,
+    mobilized in new and powerful ways. 
+
+    Layers allow the designer to treat the image as a collection of
+    assets, a database of possibilities. Working with a layered file, the
+    designer quickly creates variations of a single design by turning
+    layers on and off. Designers use layered files to generate
+    storyboards for animations and interface elements such as buttons
+    and rollovers.
+- ```This typographic exercise presents three narratives``` taking place during a two-minute
+period: a news story broadcast on a radio, a conversation between a married couple, and
+the preparation of a pot of coffee. Typography, icons, lines, and other elements are used to
+present the three narratives within a shared space. The end result can be obvious or poetic.
+Whether the final piece is an easy-to-follow transcription or a painterly depiction, it is made
+up of narrative elements that define distinct layers or visual channels. 
+
+  ![layer](./imags/layer-1.jpg "layer")    ![layer](./imags/layer-2.jpg "layer")   ![layer](./imags/layer-3.jpg "layer")
+
+- ```Temporal Layers``` This publication records a collaboration between two universities in China
+and Russia. The large-scale numerals reference numbers in a calendar. Overlapping forms,
+images, and text blocks suggest depth and motion. 
+
+  ![layer](./imags/layer-4.jpg "layer")    ![layer](./imags/layer-5.jpg "layer")   ![layer](./imags/layer-6.jpg "layer") ![layer](./imags/layer-7.jpg "layer")
+
+- ```Life History``` Historical and contemporary photographs and documents are layered over a
+satellite image from Google Earth of the land these people have inhabited. Transparency is
+used to separate the elements visually. 
+
+![layer](./imags/layer-8.jpg "layer") 
+
+  </details>
+
+  <details>
+    <summary>Transparency</summary>
+      
+  Transparency means a simultaneous perception of different spatial
+  locations. . . . The position of the transparent figures has equivocal
+  meaning as one sees each figure now as the closer, now as the
+  farther one.
+
+  ![Transparency](./imags/Transparency.jpg "Transparency") 
+  </details>
 </details>
 
 <details>
   <summary> Rhythm </summary>
+
+
 
 - In graphic design, a strong and consistent repetition, a pattern of elements can set up a rhythm, which causes the viewer’s eyes to move around the page. Timing can be set by the intervals between and among the position of elements on the page. 
 - Many factors can contribute to establishing rhythm — ```color,texture, figure/ground relationships, emphasis, and balance.```
@@ -221,7 +343,7 @@ project.
     
     ![Rhythm](./imags/Rhythm-2.jpg "Rhythm")![Rhythm](./imags/Rhythm-3.jpg "Rhythm")
 
-  </details>
+</details>
 
 <details>
   <summary> Unity  </summary> 

@@ -1,5 +1,6 @@
 # Proportional Systems and the Grid
-## Mathematical Ratios and Proportional Systems
+<details>
+  <summary>Mathematical Ratios and Proportional Systems </summary>
 - Artists, architects, and musicians have been interested in ideal proportions. 
 - Some looked to math for a system of creating ideal proportions that could be applied to the visual arts, music, and architecture.
 - Most designers prefer to rely on their learned and innate sense
@@ -45,27 +46,56 @@ of proportion.
      ![Proportional-Systems](./imags/Proportional-Systems-6.jpg "Proportional-Systems")
 
      ![Proportional-Systems](./imags/Proportional-Systems-7.webp "Proportional-Systems")
-- ### Modularity
-    In graphic design, modularity is a structural principle employed to subdivide a format into manageable smallerparts—that is, to handle content using modules. 
+</details>
 
-    A module is a self-contained, fixed unit that is combined with others to form a larger foundational structure composed
-    of regular units. A module is also defined as any single fixed element within a bigger system or structure. For example, a
-    unit on graph paper is a module, a pixel in a digital image is a module, a rectangular unit in a grid system is a module, and a
-    fixed encapsulated chunk of a composition is a module.
-    Modularity in the form of grids helps manage content as well as complexity (think of all the content on a government website). 
+<details>
+  <summary>Modularity</summary>
+  
+In graphic design, modularity is a structural principle employed to subdivide a format into manageable smallerparts—that is, to handle content using modules. 
 
-    Modularity has three main advantages: 
-    (1) the underlying structure produces unity and continuity across a multipage application, 
-    (2) the content within each module can easily be replaced or interchanged, and 
-    (3) modules can be rearranged to create different zones or forms yet still remain unified.
+A module is a self-contained, fixed unit that is combined with others to form a larger foundational structure composed of regular units. A module is also defined as any single fixed element within a bigger system or structure. For example, a unit on graph paper is a module, a pixel in a digital image is a module, a rectangular unit in a grid system is a module, and a fixed encapsulated chunk of a composition is a module. Modularity in the form of grids helps manage content as well as complexity (think of all the content on a government website). 
 
-    Modularity is also used to create modular alphabets, hand-lettering , typographic treatments, signage systems, symbol systems, pixel effects, or any modular-based imagery (for example, a transformation or sequence developed in modular units; figures composed of units).
+Modularity has three main advantages: 
+- the underlying structure produces unity and continuity across a multipage application, 
+- the content within each module can easily be replaced or interchanged, and 
+- modules can be rearranged to create different zones or forms yet still remain unified.
 
-## The Grid
-A grid is a guide—a compositional structure made up of verticals and
-horizontals that divide a format into columns and margins.
+Modularity is also used to create modular alphabets, hand-lettering , typographic treatments, signage systems, symbol systems, pixel effects, or any modular-based imagery (for example, a transformation or sequence developed in modular units; figures composed of units).
+
+- ```Type as Tool``` This type family, called Teip, is designed with several styles and weights that
+users can remix into endless combinations. Elements appear to pass over and behind each
+other, creating a feeling of depth. Uppercase letters are stressed vertically, while lowercase
+letters are stressed horizontally.
+
+- ```Interlocking Forms``` Called Barin, this typeface was inspired by the
+geometric kufi calligraphy prevalent in Islamic culture, especially by
+the work of Persian calligraphers Hassan Massoudy and Emin. A
+calligrapher can freely adjust a character in relation to the marks
+coming before and after. In contrast, a typeface designer makes
+each glyph function with any other glyph in any order,
+compromising freedom in exchange for standardization. Barin
+explores the line between lettering and type design. Several
+alternates for every glyph allow letters to interlock. Barin has more
+than 5,800 glyphs. Open Type features created by Tal Leming enable
+Barin to automatically choose among thousands of ligatures based
+on context. This allows the typeface to interlock and maintain the
+balance between negative and positive space. 
+
+   ![Modularity](./imags/Modularity-1.jpg "Modularity") ![Modularity](./imags/Modularity-2.jpg "Modularity")
+
+- ```Social Order``` The designer has used a strict grid to organize the content, while employing a
+gradient tone and skewed geometry to give the piece motion. 
+
+   ![Modularity](./imags/Modularity-3.jpg "Modularity")
+</details>
+
+<details>
+  <summary>The Grid</summary>
+A grid is a guide—a compositional structure made up of verticals and horizontals that divide a format into columns and margins.
 
 Grids underlie the structure of books, magazines, brochures, desktop websites, mobile websites, and more. As far back in history as 3000 b.c., we can see the use of a column structure in cuneiform writing in Mesopotamia as well as similar structures in hieroglyphics writing in Egypt. 
+
+
 
 In the 1950s, Swiss designers adopted the grid as a structural design device. Their enthusiasm propelled the grid into popular use.
 
@@ -125,3 +155,39 @@ Park Service brochures (http://www.nps.gov).
 
 ![Proportional-Systems](./imags/Proportional-Systems-10.jpg "Proportional-Systems")
 ![Proportional-Systems](./imags/Proportional-Systems-11.jpg "Proportional-Systems")
+
+- ```Grids Generate Form``` The cells and nodes of a grid can be used to generate complex
+pattern designs as well as simple rectangles. Dividing a square into nine identical units is a
+classic design problem. Numerous simple forms and relationships can be built against this
+simple matrix. 
+
+  ![grid](./imags/grid-1.jpg "grid") ![grid](./imags/grid-2.jpg "grid") ![grid](./imags/grid-3.jpg "grid") ![grid](./imags/grid-4.jpg "grid")
+- ```Structure and Color``` In this project, designers explore the grid as a
+tool for organizing content and generating form. The text is the
+United Nations’ Universal Declaration of Human Rights (abbreviated
+version). ```With sixteen vertical columns and eight horizontal rows```,
+the grid provides a flexible scaffold for organizing content.
+Typefaces are limited to the Univers family. After designers arrive at
+a solid black-and-white concept, they use color to emphasize or
+counteract the underlying structure.
+
+   ![grid](./imags/grid-5.jpg "grid")
+
+   ![grid](./imags/grid-6.jpg "grid")
+
+   ![grid](./imags/grid-7.jpg "grid")![grid](./imags/grid-8.jpg "grid")
+- Co-Design: ```Generate Form After using the 16-column grid to organize the text```, the designer exchanged his InDesign file with classmates and asked them to add elements based on the grid. He created the final poster at right in response to the designs he collected.
+
+   ![grid](./imags/grid-9.jpg "grid")![grid](./imags/grid-10.jpg "grid")![grid](./imags/grid-11.jpg "grid")
+
+   ![grid](./imags/grid-12.jpg "grid")![grid](./imags/grid-13.jpg "grid")
+
+- ```Rhythm, Form, Frame``` Iceland-based designer Ragnar Freyr creates posters, identities,
+websites, and publications. In the posters shown here, Freyr has used the grid to establish
+simple rhythms and hierarchies as well as to frame images and generate complex forms.  
+
+   ![grid](./imags/grid-14.jpg "grid")![grid](./imags/grid-17.jpg "grid")![grid](./imags/grid-15.jpg "grid")
+
+   ![grid](./imags/grid-16.jpg "grid")![grid](./imags/grid-18.jpg "grid")![grid](./imags/grid-19.jpg "grid")
+
+</details>
