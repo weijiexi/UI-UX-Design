@@ -51,7 +51,9 @@ fold book.
 
 - ```Interwoven Space``` Designers, illustrators, and photographers often play with figure/ground relationships to add interest and intrigue to their work. Unlike conventional depictions where subjects are centered and framed against a background, active figure/ground conditions churn and interweave form and space, creating tension and ambiguity.
 
-![Shape](./imags/Shape-3.jpg "Shape") ![Shape](./imags/Shape-4.jpg "Shape")
+![Shape](./imags/Shape-3.jpg "Shape") 
+![Shape](./imags/Shape-4.jpg "Shape")
+
 - ```Concept Sketching```
 Fast, informal visualizations allow designers to explore different
 figure/ground relationships in a low-risk environment that fosters
@@ -61,7 +63,9 @@ closer to reality. Multiple sketches yield a more valuable process
 than single sketches, as drawings begin to speak to one another,
 opening the mind and eye to new connections.
 
-![Shape](./imags/Shape-1.jpg "Shape") ![Shape](./imags/Shape-2.jpg "Shape")
+![Shape](./imags/Shape-1.jpg "Shape") 
+![Shape](./imags/Shape-2.jpg "Shape")
+
 </details>
 
 <details>
