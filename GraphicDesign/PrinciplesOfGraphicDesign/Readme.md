@@ -45,8 +45,24 @@ fold book.
 - A ```curvilinear shape```, organic, or biomorphic shape is formed by curves or dominating marked flowing edges,which seems to have a naturalistic feel. It may be drawn precisely or loosely.
 - An ```abstract shape``` refers to a simple or complex rearrangement, alteration, or distortion of the representation of natural appearance used for stylistic distinction and/or communication purposes.
 - A ```representational shape``` is recognizable and reminds the viewer of actual objects seen in nature; it is also called a figurative shape.
-- Figure(positive space)/Ground(negative space) - The figure or positive shape is a definite shape, immediately discernible as a shape. 
-![federico pinto schmid art](./imags/FedericoArt.png "federico pinto schmid art")
+- ```Figure(positive space)/Ground(negative space)``` - The figure or positive shape is a definite shape, immediately discernible as a shape. 
+
+ ![federico pinto schmid art](./imags/FedericoArt.png "federico pinto schmid art")
+
+- ```Interwoven Space``` Designers, illustrators, and photographers often play with figure/ground relationships to add interest and intrigue to their work. Unlike conventional depictions where subjects are centered and framed against a background, active figure/ground conditions churn and interweave form and space, creating tension and ambiguity.
+
+  ![Shape](./imags/Shape-3.jpg "Shape")![Shape](./imags/Shape-4.jpg "Shape")
+
+- ```Concept Sketching```
+Fast, informal visualizations allow designers to explore different
+figure/ground relationships in a low-risk environment that fosters
+invention and discovery. While verbalizing ideas helps designers
+build a bank of potential concepts, sketching pushes these ideas
+closer to reality. Multiple sketches yield a more valuable process
+than single sketches, as drawings begin to speak to one another,
+opening the mind and eye to new connections.
+
+![Shape](./imags/Shape-1.jpg "Shape")![Shape](./imags/Shape-2.jpg "Shape")
 </details>
 
 <details>
@@ -211,6 +227,16 @@ All the graphic elements in a design are so interrelated they form a greater who
   German for “form,” which places an emphasis on the perception of forms as organized wholes, primarily concerned with how the mind attempts to impose order on the world, to unify and order perceptions. 
   
   ![gestalt](./imags/gestalt.png "gestalt")
+
+```Six Modes of Grouping```
+Psychologists have identified various principles of grouping; six
+common ones are diagrammed above. Designers often manipulate
+one or more principles of grouping in order to create images or
+compositions that are clear and focused or unsettled and surprising.
+Interesting effects emerge when we use our powers of perception to
+reassemble lines, shapes, or images that have been pulled apart or
+interrupted. Grouping prompts the observer to build parts into
+wholes.
   - Simplicity - We see two circles rather than three odd shapes.
   - Similarity - We see two groups based on the size of the elements.
   - Proximity - We see two groups based on the closeness of the elements.
@@ -218,6 +244,7 @@ All the graphic elements in a design are so interrelated they form a greater who
   - Continuity - We see two long lines crossing rather than four short lines converging.
   - Symmetry - We tend to close symmetrical forms to make a single object.
 
+  
   ![gestalt](./imags/gestalt-2.jpg "gestalt")
 
   ![gestalt](./imags/gestalt-3.jpg "gestalt")
