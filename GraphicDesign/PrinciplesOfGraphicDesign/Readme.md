@@ -117,20 +117,180 @@ edges, reinforcing the illusion of amplification and recession.
 - How to use It?
 A pattern can make a creative work visually more exciting and recognizable. Today,
 Applying a pattern on the packaging of different items helps to create a coordinated image between the various products of a brand to make it recognizable at a glance. Furthermore, the use of colour variants can help to differentiate the varieties: in this case, each colour will be associated with a particular taste, aroma, etc ... In the same way, using different textures or graphic motifs but of the same colour can help to identify a specific line of products.
+  - ```From Point to Line to Grid``` As dots move together, they form into lines and other shapes (while still being dots). As stripes cross over each other and become grids, they cut up the
+field into new figures, which function like new dots or new stripes. Some of the most visually fascinating patterns result from figure/ground ambiguity. The identity of a form can oscillate between being a figure (dot, stripe) to being a ground or support for another, opposing figure.
+
+  ![Pattern](./imags/Pattern-1.jpg "Pattern")
+  - ```Repeating Elements```Patterns follow some repetitive principle, whether dictated by a mechanical grid, a digital algorithm, or the physical rhythm of a crafts-person’s tool as it works along a surface. In the series of pattern studies developed here and on the following pages, a simple lozenge form is used to build designs of varying complexity. Experiments of this kind can be performed with countless base shapes, yielding an endless range of individual results. 
+  
+    ```One Element, Many Patterns``` The basic element in these patterns is a lozenge shape. Based on the orientation, proximity, scale, and color of the lozenges, they group into overlapping lines, forming a nascent grid. 
+
+    ![Pattern](./imags/Pattern-2.jpg "Pattern")![Pattern](./imags/Pattern-3.jpg "Pattern")![Pattern](./imags/Pattern-4.jpg "Pattern")
+    ![Pattern](./imags/Pattern-5.jpg "Pattern")![Pattern](./imags/Pattern-6.jpg "Pattern")![Pattern](./imags/Pattern-7.jpg "Pattern")
+    ![Pattern](./imags/Pattern-8.jpg "Pattern")![Pattern](./imags/Pattern-9.jpg "Pattern")![Pattern](./imags/Pattern-10.jpg "Pattern")
+    ![Pattern](./imags/Pattern-11.jpg "Pattern")![Pattern](./imags/Pattern-12.jpg "Pattern")
+
 </details>
 
 <details>
   <summary>Diagram</summary>
 
+A diagram is a graphic representation of a structure, situation, or
+process. Diagrams can depict the anatomy of a creature, the
+hierarchy of a corporation, or the flow of ideas. Diagrams allow us to
+see relationships that would not come forward in a straight list of
+numbers or a verbal description.
+
+- ```Mercurial Moods``` This simple diagram charts the upward and downward trajectory of the designer’s well-being based on specific forces that positively and negatively affect her world. 
+
+![Diagram](./imags/Diagram-1.jpg "Diagram")  ![Diagram](./imags/Diagram-2.jpg "Diagram")
 </details>
 
 
 <details>
   <summary>Time and Motion</summary>
 
+Any word or image that moves functions both spatially and temporally. Motion is a kind of change, and change takes place in time. 
+
+Motion can be implied as well as literal. 
+
+#### Artists have long sought ways to represent the movement of bodies and the passage of time within the realm of static, two-dimensional space. 
+
+Time and motion are considerations for all design work, from a multipage printed book, whose pages follow each other in time, to animations for film and television, which have literal duration.
+
+Any still image has implied motion (or implied stasis), while
+motion graphics share compositional principles with print.
+
+Designers routinely work in time-based media as well as print,
+and a design campaign often must function across multiple media
+simultaneously.
+
+Animation encompasses diverse modes of visible change,
+including the literal movement of elements that fly on or off the
+screen as well as changes in scale, transparency, color, layer, and
+more. These alternative modes of change are especially useful for
+designing animated text on the web, where gratuitous movement
+can be more distracting than pleasing or informative.
+
+- ```Implied Motion``` Graphic designers use numerous techniques to suggest change and movement on the printed page. Diagonal compositions evoke motion, while rectilinear arrangements appear static. Cropping a shape can suggest motion, as does a sinuous line or a pointed, triangular shape.
+
+  - ```Eruption of Form``` These shapes as well as their explosive arrangement suggest movement and change.
+  ![Diagram](./imags/Diagram-3.jpg "Diagram")
+  - Implied Time and Motion An effective logotype can be applied to anything from a tiny
+business card to a large-scale architectural sign to a computer screen or digital projection.
+The logotypes shown here use a variety of graphic strategies to imply motion.
+In this project, designers created a graphic identity for a conference about contemporary
+media art and theory called “Loop.” Each solution explores the concept of the loop as a
+continuous, repeating sequence. The designers applied each logo to a banner in an
+architectural setting and to a screen-based looping animation. (Photoshop was used to
+simulate the installation of the banners in a real physical space.)
+
+   ![Diagram](./imags/Diagram-4.jpg "Diagram")   ![Diagram](./imags/Diagram-5.jpg "Diagram")   ![Diagram](./imags/Diagram-6.jpg "Diagram")
+   ![Diagram](./imags/Diagram-7.jpg "Diagram")     ![Diagram](./imags/Diagram-8.jpg "Diagram")    ![Diagram](./imags/Diagram-9.jpg "Diagram")
+
+- Animating Type
+  - Change in Position Moving text around the screen is the most basic means of animating type. Commonly, type enters from the right side of the screen and moves left to support the normal direction of reading. Ticker or leader text also tends to move in this direction.
+  - Change in Color In the sequence shown here, the type itself is static, but a color change moves across the text letter by letter. Endless variations of this basic kind of change are possible.
+  - Change in Transparency White type appears gradually on screen by gradually becoming opaque.
+  - Multiple Modes of Change Many animations combine several techniques at once. This sequence features change in position, scale, and transparency.
+
 </details>
 
+<details>
+  <summary>Rules and Randomness</summary>
 
+The idea becomes a machine that makes the art. Sol LeWitt
+Designers create rules as well as finished pieces. A magazine
+designer, for example, works with a grid and a typographic
+hierarchy that is interpreted in different ways, page after page, issue
+after issue. If the rules are well planned, other designers will be able
+to interpret them to produce their own unique and unexpected
+layouts. Rules create a framework for design without determining
+the end results.
+
+Style sheets employed in print and web publishing (CSS) are rules
+for displaying the different parts of a document. By adjusting a style
+sheet, the designer can change the appearance of an entire book or
+website. Style sheets are used to reconfigure a single body of
+content for output in different media, from printed pages to the
+screen of a mobile phone.
+
+Rules can be used to generate form as well as organize content. In
+the 1920s, the Bauhaus artist and designer László Moholy-Nagy
+created a painting by telephoning a set of instructions to a sign
+painter. In the 1960s, the minimalist artist Sol LeWitt created
+drawings based on simple instructions; the drawings could be
+executed on a wall or other surface anywhere in the world by
+following the directions. Complex webs of lines often resulted from
+seemingly simple verbal instructions.
+
+Designers produce rules in computer code as well as natural
+language. C. E. B. Reas, who co-authored the software language
+Processing, creates rich digital drawings and interactive works that
+evolve from instructions and variables. Reas alters the outcome by
+changing the variables. He explains, “Sometimes I set strict rules,
+follow them, and then observe the results. More frequently, I begin
+with a core software behavior, implement it, and then observe the
+results. I then allow the piece to flow intuitively from there.”
+1 Reas and other contemporary artists are using software as a medium unto itself rather than as a tool supporting the design process.
+Designing rules and instructions is an intrinsic part of the design
+process. Increasingly, designers are asked to create systems that
+other people will implement and that will change over time. This
+chapter looks at ways to use rule-based processes to generate
+unexpected visual results.
+- ```Cell Phone Symphony``` In the project shown here, students were given a list of phone
+numbers from which to generate visual imagery for a poster. The posters promote a
+“cell phone symphony,” featuring music composed via interaction among the
+audience’s cell phones.
+Each poster suggests auditory experience as well as ideas of social and
+technological interaction. The students took numerous different approaches, from
+turning each phone number into a linear graph to using the digits to set the size and
+color of objects in a grid.
+Designing the system is part of the creative process. The visual results have an
+organic quality that comes from random input to the system. The designer controls
+and manipulates the system itself rather than the final outcome.
+
+   ![Rules-and-Randomness](./imags/Rules-and-Randomness-1.jpg "Rules-and-Randomness") ![Rules-and-Randomness](./imags/Rules-and-Randomness-2.jpg "Rules-and-Randomness") 
+   ![Rules-and-Randomness](./imags/Rules-and-Randomness-3.jpg "Rules-and-Randomness") ![Rules-and-Randomness](./imags/Rules-and-Randomness-4.jpg "Rules-and-Randomness")
+   ![Rules-and-Randomness](./imags/Rules-and-Randomness-5.jpg "Rules-and-Randomness") ![Rules-and-Randomness](./imags/Rules-and-Randomness-6.jpg "Rules-and-Randomness")
+   ![Rules-and-Randomness](./imags/Rules-and-Randomness-7.jpg "Rules-and-Randomness") ![Rules-and-Randomness](./imags/Rules-and-Randomness-8.jpg "Rules-and-Randomness")
+   ![Rules-and-Randomness](./imags/Rules-and-Randomness-9.jpg "Rules-and-Randomness") ![Rules-and-Randomness](./imags/Rules-and-Randomness-10.jpg "Rules-and-Randomness")
+
+- ```Motion Prompt``` How can time and motion be represented on a flat surface? Designers
+created a series of “gesture studies” in InDesign based on provided templates and using
+fifty-five frames from an animated shapes project they were already working on. Each
+template contained a prompt (such as morph, deface, contain, clone, pulverize), a series of
+constraints (such as copy, paste, cut, and position), and a time limit (one minute to several
+minutes). Each designer sought to capture the spirit of the prompt within the set
+constraints. They were asked to embrace motion graphics software not just as a way to
+generate animations, but as a way to generate material for developing two-dimensional
+imagery. 
+
+   ![Rules-and-Randomness](./imags/Rules-and-Randomness-11.png "Rules-and-Randomness") ![Rules-and-Randomness](./imags/Rules-and-Randomness-12.jpg "Rules-and-Randomness")
+   ![Rules-and-Randomness](./imags/Rules-and-Randomness-13.jpg "Rules-and-Randomness") ![Rules-and-Randomness](./imags/Rules-and-Randomness-14.jpg "Rules-and-Randomness")
+   ![Rules-and-Randomness](./imags/Rules-and-Randomness-15.jpg "Rules-and-Randomness") ![Rules-and-Randomness](./imags/Rules-and-Randomness-16.jpg "Rules-and-Randomness")
+- ```Repeat and Rotate```
+Repeating and rotating forms are universal principles of pattern
+design. The designs shown here were created in the Processing
+software language. By altering the input to a set of digital
+instructions, the designer can quickly see numerous variations of a
+single design. Changing the typeface, type size, type alignment,
+color, transparency, and the number and degree of rotations yields
+different results.
+
+   ![Rules-and-Randomness](./imags/Rules-and-Randomness-17.jpg "Rules-and-Randomness") ![Rules-and-Randomness](./imags/Rules-and-Randomness-18.jpg "Rules-and-Randomness")
+
+- ```Museum of Insider Art``` To create a visual brand for an imaginary museum, the designer created a code in Processing that converts alphabetic characters into abstract shapes. Theshapes become a private code. 
+
+   ![Rules-and-Randomness](./imags/Rules-and-Randomness-19.jpg "Rules-and-Randomness") ![Rules-and-Randomness](./imags/Rules-and-Randomness-20.jpg "Rules-and-Randomness")
+      ![Rules-and-Randomness](./imags/Rules-and-Randomness-21.jpg "Rules-and-Randomness") 
+
+- ```Abstract Alphabet``` The Latin alphabet is an inherently abstract code. To create this minimal
+typeface, the designer replaced letterforms with dots of varying size. Although rendered
+illegible, the resulting texts maintain a familiar sense of rhythm. 
+
+   ![Rules-and-Randomness](./imags/Rules-and-Randomness-22.jpg "Rules-and-Randomness")
+</details>
 
 ## Principles of Design
 

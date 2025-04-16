@@ -1,5 +1,7 @@
 # Composition
-## Fundamentals of Composition
+
+<details>
+  <summary>Fundamentals of Composition</summary>
 
 - Creating visual interest and clarity of communication are two main goals of composition. 
 - A formulaic design might be clear, but if it’s boring, no one is going to bother to look at it or spend time with it. Often, viewers will spend
@@ -58,13 +60,23 @@ tributes to a potentially balanced action, to how opposing physical movements op
     - Up and Down. Grounding (rooting) the elements down while simultaneously lifting them up; that is, considering how the composition flows from top to bottom and bottom to top and considering all the transitions in between.
 
 ![composition](./imags/conposition-5.jpg "composition")
-### Illusion of Spatial Depth
+
+</details>
+
+<details>
+  <summary>Illusion of Spatial Depth</summary>
+
 - When you set out to compose on a two-dimensional surface, like a
 screen or a piece of paper, you begin with the picture plane. As soon as you make one mark (draw a line, place a letterform, or any graphic element) on the surface, ```that mark interacts with the picture plane and perimeter of the format. ```
 - ```The illusion of spatial depth means the appearance of three dimensional space, where some things appear closer to the viewer and some things appear farther away—just as in actual space. ```The illusion of spatial depth can be shallow or deep, recessive or projected. One diagonal line can evoke the illusion of depth.
 - In “regular” or “Classical” compositions (Classical here refers to the Italian Renaissance; think Raphael [Raffaello Sanzio] and Leonardo da Vinci), none of the major forms appear to move in front of the picture plane. This can be called a “picture window” arrangement, where, like a window pane, all that we see recedes behind the front plane and does not move in front of the picture plane into the viewer’s space .
 - In an “irregular” or Baroque pictorial space (referring to Flemish Baroque painting; think Peter Paul Rubens, or a comic book superhero’s fist punching in front of the picture plane), diagonal elements and planes move in front of as well as behind the picture plane creating the illusion of depth and action, suggesting an aggressive spatial property.
-### Differentiation Through Grouping
+
+</details>
+
+<details>
+  <summary>Differentiation Through Grouping</summary>
+
 - The Gestalt principles of perception—similarity, proximity, continuity, and closure—explain how people tend to understand what they see by grouping, by visually assembling images and how they relate to one another into groups.
     - ```Grouping``` is a fundamental Gestalt concept, proposing that
     when graphic elements appear similar—share characteristics,
@@ -73,7 +85,12 @@ screen or a piece of paper, you begin with the picture plane. As soon as you mak
     together. Groups can be formed in a variety of ways.
 - If you understand how grouping functions, you can more easily create visual emphasis in a composition through differentiation. One graphic element can be emphasized, become the focal point, by differentiating it from the other graphic elements through contrast in size (scale), weight, color, rhythm, orientation, and more.
 ![composition](./imags/conposition-6.jpg "composition")
-### Compositional Process
+
+</details>
+
+<details>
+  <summary>Compositional Process</summary>
+
 - ```Composing is a process where one achieves a desired result by repeating a sequence of steps and successively getting closer to that result.``` You can get there by spontaneous means, by using proportional systems or compositional structures. The compositional method you use depends on the project’s specifications and your own method of composing and visualizing.
 - ```Composing is an iterative process. ```Iterations or revising (major and minor changes) usually happen at the same time as creating and producing. This means you are rethinking, revising as you work, which is part of the creative process of composing.
     - ```Spontaneous composing```: mostly unplanned visualization and structuring, with the design concept driving the visualizing and composing. In the process of creating, shaping, moving, improvising, and experimenting with graphic elements, while utilizing the principles of composition as well as relying on your intuition and insights into the
@@ -135,7 +152,11 @@ This mode is a fundamental means for advertising design
 and for book jacket design and posters.
 
 ![composition](./imags/conposition-9.jpg "composition")
-### Arranging Type and Image
+
+</details>
+
+<details>
+  <summary>Arranging Type and Image</summary>
 When you compose type and image (the two main graphic
 components), you arrange them to respond to one another and to the shape and edges of the format. 
 > Will type and image be fused? 
@@ -179,6 +200,7 @@ and prospect for occasions of sympathetic relationships among the forms where al
 Several basic alignments—flush left, flush right, centered, justified—help establish flow and unity. There are wraparound or edge or internal alignments as well.
 
 ![composition](./imags/conposition-11.jpg "composition")
+
 #### Integrating Type and Image
 A line will take us hours maybe; Yet if it does not seem a moment’s
 thought, Our stitching and unstitching has been naught.
@@ -219,7 +241,10 @@ negative shapes, and time period. For example, ```type and image share character
     - Formal ironic relationship. Typeface and image(s) are selected for incongruity, for an ironic effect
 
     ![composition](./imags/conposition-15.jpg "composition")
-### Arrangement
+</details>
+
+<details>
+  <summary>Arrangement</summary>
 In all two-dimensional design compositions—graphic design,
 illustration, painting, or drawing—the viewer seeks a point of
 entry into the graphic space, just as a visitor seeks a point of entry into an architectural space. The designer needs to construct visual cues about where to enter. Most people look at foreground elements first and try to find a way to enter thegraphic space.
@@ -239,7 +264,11 @@ tion, there are many variables involved with how an individual
 views and scans a single surface, including associative mean-
 ing, time exposed to the design, personal attention span, and
 distractions, among others.
-### Guiding the Viewer
+</details>
+
+<details>
+  <summary>Guiding the Viewer</summary>
+
 - #### Transitions
 Preferred points of entry can be the focal point, the key graphic
 element established through visual hierarchy, or a dominant
@@ -284,7 +313,8 @@ To produce agreement, keep in mind these factors:
 
 ![composition](./imags/conposition-18.jpg  "composition")
 ![composition](./imags/conposition-19.jpg  "composition")
-### Building Compositions
+
+### Building Compositions 
 - You can build a composition around one dominant visual(using size, shape, color, pattern, or value contrast), where all other graphic elements form relationships with that dominant visual. A dominant composition can be based on one major movement, gesture, or compositional thrust, with all other movements minor ones built in relation to it through optical decisions and adjustments.
 - You can build a composition where there is no one overtly
 dominant visual. Here relationships are built through sequence, pattern, grid, modular structure, repetition, stair
@@ -308,3 +338,5 @@ of motion through visual multiplication. Multiple positions
 (think a comic book rendering of a dog with many legs to
 denote running), blurred boundaries or edges, repetition,
 shifts, or layers contribute to the illusion of motion.
+
+</details>

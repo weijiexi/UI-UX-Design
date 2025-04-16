@@ -9,6 +9,10 @@
         - Shape
         - Color
         - Texture
+        - Pattern
+        - Diagram
+        - Time and Motion
+        - Rules and Randomness
     - #### Principles of Design
         - Format
         - Balance
