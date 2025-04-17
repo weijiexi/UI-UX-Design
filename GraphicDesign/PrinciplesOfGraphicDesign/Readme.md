@@ -74,6 +74,87 @@ sought to strike a balance between positive and negative space.
 </details>
 
 <details>
+  <summary>Color</summary>
+
+  Color can convey a mood, describe reality, or codify information. Words like “gloomy,” “drab,” and “glittering” each bring to mind a general climate of colors, a palette of relationships. 
+
+  Designers use color to make some things stand out (warning signs) and to make other things disappear (camouflage). Color serves to differentiate and connect, to highlight and to hide.
+
+  According to the classical tradition, the essence of design lies in linear structures and tonal relationships (drawing and shading), notin fleeting optical effects (hue, intensity, luminosity). Design used to be understood as an abstract armature that underlies appearances. Color, in contrast, was seen as subjective and unstable.And, indeed, it is. Color exists, literally, in the eye of the beholder. We cannot perceive color until light bounces off an object or is emitted from a source and enters the eye.
+
+  ![color](./imags/colorwheel-1.jpg "color") ![color](./imags/colorwheel-2.jpg "color")    ![color](./imags/colorwheel-5.jpg "color")
+
+  ![color](./imags/colorwheel-6.jpg "color")   ![color](./imags/colorwheel-4.jpg "color")     ![color](./imags/colorwheel-7.jpg "color")
+
+  - ```Secondaries and Complements``` This series of posters is produced with complements (orange + blue) and two secondary colors (orange + purple). Mixes and gradients provide the steps in between. 
+  
+  ![color](./imags/color-1.jpg "color")
+  
+
+
+
+
+  ### Interaction of Color
+  - Designers juxtapose colors to create specific climates and qualities, using one color to diminish or intensify another.
+  - Understanding how colors interact helps designers control the power of color and systematically test variations of an idea.
+    - ```One Color, Different Effects``` The neutral tone passing through these three squares of color is the same in each instance. It takes on a slightly different hue or value depending on its context.
+
+      ![color](./imags/color-2.jpg "color")
+
+    - ````Bezold Effect``` Johann Friedrich Wilhelm von Bezold was a German physicist working in the nineteenth century. Fascinated with light and color, he also was an amateur rug maker. He noticed that by changing a color that interwove with other colors in a rug, he could create entirely different results. Adding a darker color to the carpet would create an overall darker effect, while adding a lighter one yielded a lighter carpet. This effect is known as optical mixing.
+
+      ![color](./imags/color-3.jpg "color")
+
+    - ```Vibration and Value``` When two colors are very close in value, a glowing effect occurs; on the left, the green appears luminous and unstable. With a strong value difference, as seen on the right, the green appears darker.
+
+      ![color](./imags/color-4.jpg "color")
+
+    - ```Black + One``` The yellow is deep enough to allow the white type to read against it.
+
+      ![color](./imags/color-5.jpg "color")
+
+    - ```Black + Two``` The warm salmon red and cool greenish blue bring a satisfying sense of completeness to the palette. 
+
+      ![color](./imags/color-6.jpg "color")
+
+    - ```Black Is a Color``` This interface uses a minimal color range to convey simple actions. Used richly and forcefully, the black and gray tones become full-fledged actors within the color palette.
+
+       ![color](./imags/color-7.jpg "color") ![color](./imags/color-8.jpg "color")
+    
+    - ```Monochrome``` A single shade of blue expresses a no-nonsense attitude in this branding project. Lighter shades of blue and mixtures of blue and black express a broad range of tonality within a limited spectrum.
+
+      ![color](./imags/color-9.jpg "color") ![color](./imags/color-10.jpg "color") ![color](./imags/color-11.jpg "color")
+
+    - ```Hard Light``` This museum identity contrasts an intense, cold blue with pure red to reference the RGB color space. 
+
+      ![color](./imags/color-12.jpg "color")
+    
+    - ```Hot and colds```Simple primary colors serveas a background for black and white typography.
+
+      ![color](./imags/color-13.jpg "color")
+
+    - ```Analogous Naturals``` The three colors that make up the palette of this museum branding project come from positions located near each other on the color wheel. The gently muted, desaturated hues convey an organic quality. 
+
+      ![color](./imags/color-14.jpg "color")
+    
+    - ```Near Complements``` The rosy orange and deep violet featured in this brand identity sit near each other on the color wheel, creating harmony within a range of warm and cool. 
+
+      ![color](./imags/color-15.jpg "color") ![color](./imags/color-16.jpg "color")
+
+    - ```Selective Emphasis``` These studies use typographic patterns to explore how color alters not just the mood of a pattern, but the way its shapes and figures are perceived. Color affects both the parts and the whole. Each study begins with a black and white pattern built from a single font and letterform. Experiments with hue, value, and saturation, as well as with analogous, complementary, and near complementary color juxtapositions, affect the way the patterns feel and behave. Through selective emphasis, some elements pull forward and others recede. 
+
+      ![color](./imags/color-17.jpg "color") ![color](./imags/color-18.jpg "color") ![color](./imags/color-19.jpg "color")![color](./imags/color-20.jpg "color")
+
+      ![color](./imags/color-22.jpg "color") ![color](./imags/color-23.jpg "color") ![color](./imags/color-24.jpg "color")![color](./imags/color-21.jpg "color")
+
+
+
+
+</details>
+
+
+
+<details>
   <summary>Texture</summary>
 
 - The tactile quality of a surface or the simulation or representation of such a surface quality is a texture. 
@@ -143,7 +224,7 @@ numbers or a verbal description.
 
 - ```Mercurial Moods``` This simple diagram charts the upward and downward trajectory of the designer’s well-being based on specific forces that positively and negatively affect her world. 
 
-![Diagram](./imags/Diagram-1.jpg "Diagram")  ![Diagram](./imags/Diagram-2.jpg "Diagram")
+![Diagram](./imags/Diagram-1.jpg "Diagram")  ![Diagram](./imags/Diagram-2.jpg "Diagram") ![Diagram](./imags/Diagram-3.jpg "Diagram")
 </details>
 
 
@@ -175,7 +256,7 @@ can be more distracting than pleasing or informative.
 - ```Implied Motion``` Graphic designers use numerous techniques to suggest change and movement on the printed page. Diagonal compositions evoke motion, while rectilinear arrangements appear static. Cropping a shape can suggest motion, as does a sinuous line or a pointed, triangular shape.
 
   - ```Eruption of Form``` These shapes as well as their explosive arrangement suggest movement and change.
-  ![Diagram](./imags/Diagram-3.jpg "Diagram")
+  ![Diagram](./imags/time-3.jpg "Diagram")
   - Implied Time and Motion An effective logotype can be applied to anything from a tiny
 business card to a large-scale architectural sign to a computer screen or digital projection.
 The logotypes shown here use a variety of graphic strategies to imply motion.
@@ -417,7 +498,7 @@ when stacked side by side or vertically.
   ![Hierarchy](./imags/Hierarchy-9.jpg "Hierarchy")  ![Hierarchy](./imags/Hierarchy-10.jpg "Hierarchy") 
   #### Ways to Achieve Emphasis
   To establish a visual hierarchy, decide on the importance of the graphic elements (images and type) of your design. Create a flow of information from the most important graphic element to the least.
-  Emphasis by Isolation
+  - ###### Emphasis by Isolation
   Isolating a shape focuses attention on it (focused attention equals more visual weight). Please note that a focal point usually carries a good amount of visual weight and must be counterbalanced accordingly with other elements in a composition.
   
   ![Emphasis](./imags/Emphasis.jpg "Emphasis")
