@@ -1,17 +1,19 @@
-# UI-UX-Design
+# UI/UX Design
 - Resources
-- Figma Skill
 - Git & Github
-- Graphic Design
+- Figma Skill
+- UI Design
     - Formal Elements & Principles of Graphic Design
     - Typography
     - Composition
-- Law of UX
-- Getting Started
-    - Sketching
-    - User Flows
-    - Sitemaps
-- Explore & iterate
-    - Wireframes
-    - Mockups
-    - Prototypes
+    - Proportional Systems
+    - Web Usability
+- UX Design
+    - Getting Started
+        - Sketching
+        - User Flows
+        - Sitemaps
+    - Explore & iterate
+        - Wireframes
+        - Mockups
+        - Prototypes
