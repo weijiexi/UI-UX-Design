@@ -140,5 +140,21 @@
   - Highlight key terms. 
     Much page scanning consists of looking for key words and phrases. Formatting the most important ones in bold where they first appear in the text makes them easier to find. (If they’re already text links, you obviously don’t have to.) 
 </details>
+</details>
+
+<details>
+  <summary>Why user like mindless choices</summary>
+  
+  When you can’t avoid giving me a difficult choice, you need to go out of your way to give me as much guidance as I need—but no more.
+
+  This guidance works best when it’s
+  - #### Brief
+    The smallest amount of information that will help me
+  - #### Timely
+    Placed so I encounter it exactly when I need it
+  - #### Unavoidable
+    Formatted in a way that ensures that I’ll notice it
+
+  All the time on the Web and making those choices mindless is one of the most important things you can do to make a site easy to use.
 
 </details>
