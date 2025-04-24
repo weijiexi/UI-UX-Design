@@ -158,3 +158,30 @@
   All the time on the Web and making those choices mindless is one of the most important things you can do to make a site easy to use.
 
 </details>
+
+<details>
+  <summary>Omit needless words</summary>
+  
+  Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts.
+
+  Getting rid of all those words that no one is going to read has several beneficial effects:
+  - It reduces the noise level of the page.
+  - It makes the useful content more prominent.
+  - It makes the pages shorter, allowing users to see more of each page at a glance without scrolling.
+  ### Happy talk must die
+  Most Web users don’t have time for small talk; they want to get right to the point. You can—and should—eliminate as much happy talk as possible.
+  ### Instructions must die
+  Your objective should always be to eliminate instructions entirely by making everything self-explanatory, or as close to it as possible. When instructions are absolutely necessary, cut them back to the bare minimum.
+  
+</details>
+
+### Things You Need to Get Right
+<details>
+  <summary>Designing navigation</summary>
+
+  In the shop, you use the store’s navigation systems (the signs and theorganizing hierarchy that the signs embody) and your ability to scan shelves full of products to find what you’re looking for.
+  - “search-dominant” users will almost always look for a search box as soon as they enter a site. (These may be the same people who look for the nearest clerk as soon as they enter a store.)
+  - “link-dominant” users will almost always browse first, searching only when they’ve run out of likely links to click or when they have gotten sufficiently frustrated by the site.
+  - For everyone else, the decision whether to start by browsing or searching depends on their current frame of mind, how much of a hurry they’re in, andwhether the site appears to have decent browsable navigation.
+
+</details>
