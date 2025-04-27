@@ -183,5 +183,9 @@
   - “search-dominant” users will almost always look for a search box as soon as they enter a site. (These may be the same people who look for the nearest clerk as soon as they enter a store.)
   - “link-dominant” users will almost always browse first, searching only when they’ve run out of likely links to click or when they have gotten sufficiently frustrated by the site.
   - For everyone else, the decision whether to start by browsing or searching depends on their current frame of mind, how much of a hurry they’re in, andwhether the site appears to have decent browsable navigation.
+  
+
+  #### If you choose to browse, you make your way through a hierarchy, using signs to guide you. 
+  #### Typically, you’ll look around on the Home page for a list of the site’s main sections (like the store’s department signs) and click on the one that seems right.
 
 </details>

@@ -22,6 +22,7 @@
 - [Site-Inspire](http://siteinspire.net/) - A collection of web design and development inspiration.
 - [Muzli](https://muz.li/) - Your daily dose of design inspiration from around the web.
 - [Panda](https://usepanda.com/)
+- [aiga](https://eyeondesign.aiga.org/)
 - [awwwards jury](https://www.awwwards.com/jury/2025/)
     - [Louis Paquet](https://www.behance.net/louispaquet)
     - [Monika Kehrer](https://trufcreative.com/news/)
