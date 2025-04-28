@@ -589,6 +589,7 @@ used to separate the elements visually.
 <details>
   <summary> Unity  </summary> 
 All the graphic elements in a design are so interrelated they form a greater whole. All the graphic elements look as though they belong together.Viewers best understand and remember a composition that is unified. 
+  
   #### Gestalt
   German for “form,” which places an emphasis on the perception of forms as organized wholes, primarily concerned with how the mind attempts to impose order on the world, to unify and order perceptions. 
   
