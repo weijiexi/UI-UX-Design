@@ -1,41 +1,119 @@
-# Designing Brand Identity
+# [Designing Brand Identity](https://laithaljunaidy.com/books/assets/files/Designing_Brand_Identity.pdf)
 
-<details>
-  <summary>Nine Design Elements Your Brand Absolutely, Positively Needs</summary>
+  - [Standards Manual](https://standardsmanual.com/)
+  - [Nasa Graphics Manual](https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
 
-### Logo | Identity
-Whether this is a “wordmark” – simply the name of your brand or company in a specific font treatment, or a “lock-up” of a wordmark in combination with a icon that used as a unit.
+   
+  <details>
+   <summary>Designing identity Elements</summary>
+   
+   ### Logo | Identity
+   Whether this is a “wordmark” – simply the name of your brand or company in a specific font treatment, or a “lock-up” of a wordmark in combination with a icon that used as a unit.
 
-### Alternate Logos
-Possibly a version that works in a square format or one that works in a long horizontal format. ```A brand have up to 2 alternate layouts of their logo for specific usages.``` It is strongly advised not to go overboard here – you don’t want to confuse your customer. If your logo has one or more colors in it, it is also a good idea to have a version that is only black and white.
+   A logotype is a word (or words) in a determined font, which may be standard, modified, or entirely redrawn. Frequently, a logotype is juxtaposed with a symbol in a formal relationship called the signature. 
 
-### Usage Guidelines | Yes/No Rules
-You need to have a document created that is a set of instructions illustrating exactly how they are allowed to be used. Can your logo have a drop-shadow added to it? Will you allow people to stretch the logo out vertically? Should they be allowed to fill the letters with a photograph? No “not allowed” rule is too ridiculous to
-show. You would be alarmed what people will do to your logo – to be “creative” or to “make it special for just this one use”.
+   Logotypes need durable and sustainable. ```Legibility at various scales and in a range of media is imperative, ```whether a logotype is silk-screened on the side of a ballpoint pen or illuminated in an external sign twenty stories off the ground.
 
-### Fonts
-Outline exactly what fonts and sizes are allowed to be used on your brand collateral materials, website, of products. There should be an absolute maximum of four. But ```I suggest you limit it to two fonts: a primary and secondary.``` A main usage font for titles and headlines and a secondary or text body copy font.
+   ```The best logotypes are a result of careful typographic exploration. Designers consider the attributes of each letterform, as well as the relationships between letterforms.``` In the best logotypes, letterforms may be redrawn, modified, and manipulated in order to express the appropriate personality and positioning of the company. The designer begins his or her process by examining hundreds of typographic variations. Beginning with the basics—for example, whether the name should be set in all caps or caps and lowercase—the designer proceeds to look at classic and modern typefaces, roman and italic variations, and various weights, scales, and combinations. The designer then proceeds to manipulate and customize the logotype. ```Each decision is driven by visual and performance considerations, as well as by what the typography itself communicates.```
 
-### Color Palette
-Color is the strongest driver of primal emotional reaction. Don’t go overboard here. ```Four or five colors is all you need for 90% of brands.``` A main brand color, a couple neutral colors, a “pop” or bright color, and a
-darker color. (Try Adobe’s Kuler.com, an amazing tool for generating complementary color palettes)
+   #### There are fundamental ways of depicting shapes or forms.
+   - Elemental form: line or flat tone used to reduce an image or subject to stark simplicity, similar to a pictograph.
+   - Linear: line used as the main element to depict or describe the shape or form. This can be as simple as a notation or as complex as a full-out linear rendering.(Brand Identity: Sony)
+   - High contrast: depiction of forms based on extreme contrast of light and shadow falling on a three-dimensional form.
+   - Volumetric: light and shadow, gradation, or modeling used to suggest the illusion of three-dimensional form.
+   - Texture or pattern: line or marks used to suggest form, light,
 
-### Pattern +Texture
-Having a pattern to use in backgrounds on websites, brochures, banner ads, will come in handy.
+   <details>
+    <summary>Gestalt principles are a powerful tool for logo design</summary>
+  
+  In fact, some of the most iconic logos in the world use Gestalt theory to create simplicity, cleverness, and memorability.
 
-### Graphic Elements + Icons
-```Designing or choosing a style of icon to be used with your branding materials is an often-overlooked part of brand design.``` The need for iconography has become even more necessary as brands operate more and more in the digital realm. When it comes down to it, people don’t want to read. They want cryptography. They want to be able to navigate with pictures. What will the style of your icons be? Cartoony? Technical? Hand illustrated?One color? The choices you make here will reflect on your brands personality.
+  Gestalt is a psychology theory that describes how people perceive visual elements as wholes rather than individual parts. In design, this helps you guide the viewer’s perception — so your logo communicates more with less.
+    
+  Gestalt makes your logo feel smart, efficient, and memorable. It allows you to suggest deep meaning without visual clutter — ideal for AI, digital, and abstract concepts.
+  - Figure/Ground - Viewers see a shape by what is around it (positive/negative space)	FedEx logo — hidden arrow between E and x
+  - Closure - The brain fills in missing shapes to create a whole	WWF panda logo — not all lines are complete
+  - Similarity - Elements that look similar are grouped together	Olympic rings — unified by color and shape
+  - Proximity - Items close together are perceived as one group	Cisco logo — vertical bars represent a bridge
+  - Continuity - The eye follows smooth paths even across gaps	Unilever logo — multiple icons forming a U
+  - Symmetry & Order - The mind prefers balanced, symmetrical design	Apple logo — perfectly shaped, complete form
+   </details>
 
-### Photography
-```Choosing a photographic style to become associated with your brand``` is an opportunity to elevate your brand beyond the competition. You don’t necessarily have to spend tons of money getting everything shot custom for you. But carefully selecting the style of photography and developing guidelines showing how to use them will make your brand stand out from the crowd. It can be as easy as how they are colored. Are they retro and faded? Bright and deeply saturated? Two-toned? Black and white? Is the style amateurish and spontaneous? Polished and posed? Action-packed? You get the idea.
+   ### Alternate Logos
+   Possibly a version that works in a square format or one that works in a long horizontal format. ```A brand have up to 2 alternate layouts of their logo for specific usages.``` It is strongly advised not to go overboard here – you don’t want to confuse your customer. If your logo has one or more colors in it, it is also a good idea to have a version that is only black and white.
 
-### Usage Examples
-Create examples of what your branding, logo, fonts, color, palette, etc. look like when they are actually used. This will give aesthetic guidance to your future design, marketing and advertising partners. Design a mock-up of a few items that illustrate how your brand could appear. Try a T-shirt, signage, a full-page magazine ad, a billboard, delivery truck, Facebook banner. It doesn’t matter whether you actually will be using all of these in real life. It creates a picture of your brand ecosystem. You will be surprised how designing just a few examples will begin to provide a clear idea of how your brand “looks and feels”.
+   #### Look and feel
+   Look and feel is the visual language that makes a system proprietary and immediately recognizable. It also expresses a point of view. This support system of color, imagery, typography, and composition is what makes an entire program cohesive and differentiated. In the best programs, designers create an overall look that resonates in the mind of the customer and rises above the clutter of a visual environment. All elements of a visual language should be intentionally designed to advance the brand strategy, each doing its part and working together as a whole to unify and distinguish.
 
-</details>
+   ### Usage Guidelines | Yes/No Rules
+   You need to have a document created that is a set of instructions illustrating exactly how they are allowed to be used. Can your logo have a drop-shadow added to it? Will you allow people to stretch the logo out vertically? Should they be allowed to fill the letters with a photograph? No “not allowed” rule is too ridiculous to show. You would be alarmed what people will do to your logo – to be “creative” or to “make it special for just this one use”.
 
+   ### Typography | Fonts
+   Outline exactly what fonts and sizes are allowed to be used on your brand collateral materials, website, of products. There should be an absolute maximum of four. But ```I suggest you limit it to two fonts: a primary and secondary.``` A main usage font for titles and headlines and a secondary or text body copy font.
 
+   Typography is a core building block of an effective identity program. A unified and coherent company image is not possible without typogaraphy that has a unique personality and an inherent legibility. 
 
+   Typography must support the positioning strategy and information hierarchy. Identity program typography needs to be susatainable and not on the curve of a fad.
+
+   Choosing the right font requires a basic knowl edge of the breadth of options and a core understanding of how effective typography functions. Issues of functionality differ dramatically on a form, a pharmaceutical package, a magazine ad, and a website. The typeface needs to be flexible and easy to use, and it must provide a wide range of expression. ```Clarity and legibility are the drivers.```
+
+   A typeface for a logo should be chosen for its form, appropriateness, and expressive potential, with knowledge of both the denotative meaning and the connotative meaning (heri-tage, voice, expressive meaning) of the typeface. When the budget allows, a proprietary typeface can be commissioned for the logo.
+
+   #### Keep in mind these basic typographic considerations for logo and visual identity design:
+   - Legibility
+   - Connotation: appropriateness, voice, and expression
+   - Uniqueness and distinction (consider a proprietary typeface)
+   - Differentiation from competition
+   - Select a typeface family for range, flexibility of use, weights, widths, including numerals and bullets
+   - Limit the number of typefaces (no more than two is a good rule)
+   - Works in a range of sizes and across all formats and media
+   - Web fonts are built around web standards, tailored specifically for websites
+   - Works well in black and white and color
+   - Choose a typeface for the text of the correspondence on stationery to complement the logo, not replicate it
+
+   ### Color Palette
+   Color is the strongest driver of primal emotional reaction. Don’t go overboard here. ```Four or five colors is all you need for 90% of brands.``` A main brand color, a couple neutral colors, a “pop” or bright color, and a darker color. (Try Adobe’s Kuler.com, an amazing tool for generating complementary color palettes)
+
+   Color brand identity basics While some colors are used to unify an identity, other colors may be used functionally to clarify brand architecture, through differentiating products or business lines. ```Traditionally the primary brand color is assigned to the symbol, and the secondary color is assigned to the logotype, business descriptor, or tagline. ``` Families of color are developed to support a broad range of communications needs. Ensuring optimum reproduction of the brand color is an integral element of standards, and part of the challenge of unifying colors across packaging, printing, signage, and electronic media.
+
+   ```Color is used to evoke emotion and express personality. It stimulates brand association and accelerates differentiation.```  In the sequence of visual perception, the brain reads color after it registers a shape and before it reads content. Choosing a color for a new identity requires a core understanding of color theory, a clear vision of how the brand needs to be perceived and differentiated, and an ability to master consistency and meaning over a broad range of media. Use color to facilitate recognition and build brand equity. Colors have different connotations in different cultures. Research. Color is affected by various reproduction methods. Test.The designer is the ultimate arbiter for setting color consistency across platforms. Ensuring consistency across applications is frequently a challenge. Remember, most of the world uses a PC. Test. Sixty percent of the decision to buy a product is based on color. You can never know enough about color. Depend on your basic color theory knowledge: warm, cool; values, hues; tints, shades; complementary colors, contrasting colors. Quality insures that the brand identity asset is protected.
+   
+   Many brands are synonymous with the color or color palette
+of their visual identities (think BP’s bright yellow and green
+palette, Dunkin’ Donuts’s orange and pink, Coca-Cola’s red,
+or IBM’s blue). 
+
+   Color contributes to distinction and influences people’s brand perception. People are greatly affected by color, and cultural and psychological color associations influence them. 
+
+   Color plays an important role, and it is specified by the
+designer along with other visual identity guidelines. For the
+San Francisco Zoo, Kit Hinrichs and his team created a color
+palette of natural earthy and vibrant hues to aid in expressing
+the design concept.
+
+   #### Keep in mind these basic color considerations for logo and visual identity:
+   - Choose color or color palette for distinction and differentiation from the competition. Like a construct, a brand should “own” a color in its category, for example, Coca-Cola owns red in the soft drink category.
+   - Choose color wisely for meaning, connotations, and symbolism across cultures.
+   - Use color to build meaning (as did Tiffany and BP).
+   - Use color variations in logos of the same company or brand to represent different operating units or brand extensions.
+   - Ensure color consistency across media.
+   
+   ### Pattern +Texture
+   Having a pattern to use in backgrounds on websites, brochures, banner ads, will come in handy.
+
+   ### Graphic Elements + Icons
+   ```Designing or choosing a style of icon to be used with your branding materials is an often-overlooked part of brand design.``` The need for iconography has become even more necessary as brands operate more and more in the digital realm. When it comes down to it, people don’t want to read. They want cryptography. They want to be able to navigate with pictures. What will the style of your icons be? Cartoony? Technical? Hand illustrated?One color? The choices you make here will reflect on your brands personality.
+
+   ### Animation
+   The animated version of an identity is part of the initial concept. Motion must support the essence and meaning of an identity, not trivialize it.
+   
+   ### Photography
+   ```Choosing a photographic style to become associated with your brand``` is an opportunity to elevate your brand beyond the competition. You don’t necessarily have to spend tons of money getting everything shot custom for you. But carefully selecting the style of photography and developing guidelines showing how to use them will make your brand stand out from the crowd. It can be as easy as how they are colored. Are they retro and faded? Bright and deeply saturated? Two-toned? Black and white? Is the style amateurish and spontaneous? Polished and posed? Action-packed? You get the idea.
+
+   ### Usage Examples | Graphics Standards Manual
+   Create examples of what your branding, logo, fonts, color, palette, etc. look like when they are actually used. This will give aesthetic guidance to your future design, marketing and advertising partners. Design a mock-up of a few items that illustrate how your brand could appear. Try a T-shirt, signage, a full-page magazine ad, a billboard, delivery truck, Facebook banner. It doesn’t matter whether you actually will be using all of these in real life. It creates a picture of your brand ecosystem. You will be surprised how designing just a few examples will begin to provide a clear idea of how your brand “looks and feels”.
+
+  </details>
 
 <details>
   <summary>Basics</summary>
@@ -281,39 +359,10 @@ Create examples of what your branding, logo, fonts, color, palette, etc. look li
   </details>
 
 
-  <details>
-   <summary>Phase 3 Designing identity</summary>
+   ### Phase 3 Designing identity
 
    The creative design process begins in Phase 3. ```Design is an iterative process that seeks to integrate meaning with form.```  The best designers work at the intersection of strategic imagination, intuition, design excellence, and experience. 
-
-   ### Logotype + signature
-   A logotype is a word (or words) in a determined font, which may be standard, modified, or entirely redrawn. Frequently, a logotype is juxtaposed with a symbol in a formal relationship called the signature. Logotypes need to be not only disÂ tinctive, but durable and sustainable. Legibility at various scales and in a range of media is imperative, whether a logotype is silk-screened on the side of a ballpoint pen or illuminated in an external sign twenty stories off the ground.
-   ```The best logotypes are a result of careful typographic exploration. Designers consider the attributes of each letterform, as well as the relationships between letterforms.``` In the best logotypes, letterforms may be redrawn, modified, and manipulated in order to express the appropriate personality and positioning of the company. The designer begins his or her process by examining hundreds of typographic variations. Beginning with the basics—for example, whether the name should be set in all caps or caps and lowercase—the designer proceeds to look at classic and modern typefaces, roman and italic variations, and various weights, scales, and combinations. The designer then proceeds to manipulate and customize the logotype. Each decision is driven by visual and performance considerations, as well as by what the typography itself communicates.
-
-   #### Look and feel
-   Look and feel is the visual language that makes a system proprietary and immediately recognizable. It also expresses a point of view. This support system of color, imagery, typography, and composition is what makes an entire program cohesive and differentiated. In the best programs, designers create an overall look that resonates in the mind of the customer and rises above the clutter of a visual environment. All elements of a visual language should be intentionally designed to advance the brand strategy, each doing its part and working together as a whole to unify and distinguish.
-
-   ### Color
-   ```Color is used to evoke emotion and express personality. It stimulates brand association and accelerates differentiation.```  In the sequence of visual perception, the brain reads color after it registers a shape and before it reads content. Choosing a color for a new identity requires a core understanding of color theory, a clear vision of how the brand needs to be perceived and differentiated, and an ability to master consistency and meaning over a broad range of media. Use color to facilitate recognition and build brand equity. Colors have different connotations in different cultures. Research. Color is affected by various reproduction methods. Test.The designer is the ultimate arbiter for setting color consistency across platforms. Ensuring consistency across applications is frequently a challenge. Remember, most of the world uses a PC. Test. Sixty percent of the decision to buy a product is based on color. You can never know enough about color. Depend on your basic color theory knowledge: warm, cool; values, hues; tints, shades; complementary colors, contrasting colors. Quality insures that the brand identity asset is protected.
-
-   Color brand identity basics While some colors are used to unify an identity, other colors may be used functionally to clarify brand architecture, through differentiating products or business lines. ```Traditionally the primary brand color is assigned to the symbol, and the secondary color is assigned to the logotype, business descriptor, or tagline. ``` Families of color are developed to support a broad range of communications needs. Ensuring optimum reproduction of the brand color is an integral element of standards, and part of the challenge of unifying colors across packaging, printing, signage, and electronic media.
-
-   A signature is the specific and nonnegotiable designed combination of the brandmark and the logotype. The best signatures have specific isolation zones to protect their presence. A company may have numerous signatures, for various business lines or with and without a tagline.
-
-   ### Typography 
-   Typography is a core building block of an effective identity program. A unified and coherent company image is not possible without typogÂ raphy that has a unique personality and an inherent legibility. 
-
-   Typography must support the positioning strategy and information hierarchy. Identity program typography needs to be susÂ tainable and not on the curve of a fad.
-
-   Choosing the right font requires a basic knowl edge of the breadth of options and a core understanding of how effective typography functions. Issues of functionality differ dramatically on a form, a pharmaceutical package, a magazine ad, and a website. The typeface needs to be flexible and easy to use, and it must provide a wide range of expression. Clarity and legibility are the drivers.
-
-   #### Animation
-   The animated version of an identity is part of the initial concept. Motion must support the essence and meaning of an identity, not trivialize it.
-
-</details>
-
-
-
+   
   <details>
    <summary>Phase 4 Creating touchpoints </summary>
 
@@ -323,25 +372,173 @@ Create examples of what your branding, logo, fonts, color, palette, etc. look li
    Websites just may be the next best thing to reality, and in some cases they are more efficient, more user friendly, and faster. Think retail. ```The best websites know who their visitors are, and give them a reason to come back again and again.``` Videos have started to populate most websites with storytelling and testimonials. A number of specialists work collaboratively to build a site, including graphic and user experience designers, information architects, developers, content authors, project managers, and usability engineers. Search engine experts have become a critical part of the team in order to get high rankings in search engines.
 
    ### Favicons
-   Favicons are miniaturized storefront signs that give brands an opportunity to attract attention
-and stand out from the crowd. They are the
-16x16 pixel icons located in a web browser’s
-address bar. If companies don’t have a favicon,
-the browser’s generic default icon will be next
-to the URL. Favicons are also visible next to
-the web page’s name in a web user’s list of
-bookmarks.
-Favicons need to work within the extreme size
-constraints of the web address bar. One would
-think that telegraphing a unique identity in such
-a small, low-res space would be impossible. It’s
-not. The simplest, boldest forms are immediately
-recognizable. Amazing.
-  
+   Favicons are miniaturized storefront signs that give brands an opportunity to attract attention and stand out from the crowd. ```They are the 16x16 pixel icons located in a web browser’s address bar. ```If companies don’t have a favicon, the browser’s generic default icon will be next to the URL. Favicons are also visible next to web page’s name in a web user’s list of bookmarks. Favicons need to work within the extreme size constraints of the web address bar. One would think that telegraphing a unique identity in such a small, low-res space would be impossible. It’s not. The simplest, boldest forms are immediately recognizable. Amazing.
 
+   ### Correspondence
+   Letterhead, offset-printed on fine paper, remains a core application in the brand identity system along with electronic letterheads. Letterhead with an original signature is still an important conduit for doing business. It is regarded as credible proof of being in business, and it frequently carries an important message or contractual agreement. It is still regarded as the most formal type of business communication and has an implicit dignity. For many years banks required businesses to write a letter on their letterhead in order to open an account. Most of the world uses letterhead and envelopes based on the metric system. Only the United States, Canada, and Mexico don’t.
+  
+   ### Business card
+   The designer is faced with so much information to include—from emailto voicemail to mobile phone and 800 numbers, double addresses and domains—that the small business card is a challenge even for the most experienced designers. Information, by necessity, is flowing to the back side.
+
+   The business card is a small and portable marketing tool. The quality and intelligence of the information are a reflection of the cardholderand her company. In the future a high-tech business card may double as an identification card and include a user’s fingerprint or other biometric data.
+  
+   ### Collateral
+   You are waiting for your café latte and see a set of brochures in a stylish rack. You go to the doctor, and each aspect of your health care has its own publication. You’re in charge of making a buying decision at your office and your sales representative has a collection of information outlining his company’s history, case studies, and advantages for selecting his product over a competitor.
+
+   ```The best collateral communicates the right information at the right time with a customer:``` discussing roasting techniques while you’re drinking that café latte; outlining surgery preparation before the big day; or making you feel more confident about that big purchase. 
+  
+   ### Signage
+   Signage functions as identification, information, and advertising. Effective retail signage increases revenues, and intelligent wayfinding systems support and enhance the experience of a destination.
+
+   Cities and towns around the world routinely revise sign codes in order to create environments that support the image that a community wants to portray, and to regulate standards to protect public safety.
+  
+   ### Product design
+   ### Packaging
+   ### Advertising
+   ### Environments
+   ### Vehicles
+   ### Uniforms
+   ### Ephemera
+  
   </details>
 
   
+  <details>
+   <summary>Phase 5 Managing assets</summary>
+
+   ### Changing brand identity
+   Rare is the person in an organization who
+embraces change. Introducing a new name and
+identity to an existing organization or to merged
+entities is exponentially more difficult than creating a brand for a new company. Changing brand identity means that whatever was on a
+manager’s plate now doubles. The to-do list is
+extremely long, even in a small company. New
+brand identity implementation requires a vigilant
+strategic focus, advance planning, and obsession with detail.
+Military mobilization skills come in handy,
+and boundless optimism helps. Typically, the
+director of marketing and public relations will
+oversee the change. In larger organizations an
+individual may be retained to focus exclusively
+on implementation. The skills required are
+knowledge of branding, public relations, communications, identity design, production, and organizational management. 
+  
+   ### Launching brand identity
+   Get ready. Get set. Launch. A launch represents
+a huge marketing opportunity. Smart organizations seize this chance to build brand awareness and synergy.
+Different circumstances demand different launch
+strategies—from multimedia campaigns,
+company-wide meetings, and road tours, to a
+T-shirt for each employee. Some organizations
+execute massive visible change, including
+external signage and vehicles, virtually overnight,
+while others choose a phased approach.
+Small organizations may not have the budget
+for a multimedia campaign, but can leverage
+social networks, like Facebook and Twitter.
+Smart organizations create a sales call
+opportunity to present a new card, or send a
+blast email to each customer, colleague, and
+vendor. Others use existing marketing channels,
+such as inserting brochures with monthly
+statements.
+In nearly every launch, the most important audience is a company’s employees. Regardless of the scope and budget, a launch requires a comprehensive communications plan. Rarely is the
+best launch strategy no strategy, which is the business-as-usual or un-launch. Occasionally an organization may not want to draw attention from the financial community or its shareholders, so it
+may choose to do nothing.
+
+   ### Building brand champions
+   Engaging employees in the meaning of the
+brand and the thinking behind it is one of the
+best investments that a company can make.
+Organizational development consultants have
+long known that long-term success is directly
+influenced by the way employees share in their
+company’s culture—its values, stories, symbols,
+and heroes. Traditionally the CEO and the marketing department were the most visible brand
+champions—individuals who understood and
+could articulate a company’s core values, vision,
+and brand essence.
+Companies all around the world are beginning
+to develop compelling ways of sharing the brand
+essence—from road shows, to online branding
+tools and guides, to special events. What was
+once a standards and guidelines toolkit for creative firms has evolved into a brand-building tool for all employees.
+
+   ### Brand books
+   Brand books, spirit books, and thought books
+inspire, educate, and build brand awareness.
+Brand strategy can’t influence anyone if it stays
+in a conference room, in someone’s head, or on
+page 3 of a marketing plan. The vision of a company and the meaning of a brand need a
+communications vehicle that is accessible, portable, and personal. Online brand sites are more
+frequently publishing “Who we are” and “What
+our brand stands for,” in addition to standards,
+templates, and guidelines.
+Timing is everything. Companies in the midst of
+organizational change need to convey “where
+the ship is going.” Frequently, the brand identity
+process sparks a new clarity about the brand.
+Building awareness about how each employee
+can help build the brand is smart. 
+
+   ### Standards content | Graphics Standards Manual
+   Designing, specifying, ordering, and printing or
+fabricating elements of a new brand identity
+system are all dependent on a set of intelligent
+standards and guidelines. Good, solid standards
+save time, money, and frustration. The size and
+nature of an organization affect the depth and
+breadth of the content and how marketing materials are conceived and produced in the future.
+Usually printing and fabrication specifications
+accompany design specifications. Legal and
+nomenclature guideline considerations are
+essential. Some guidelines include order forms
+for business cards and other applications.
+Following is an in-depth composite that can be
+used as a reference for building an outline.
+
+   ### Online branding tools
+   The web has transformed brand management,
+consolidating brand assets and establishing
+24/7 access to user-friendly guidelines, tools,
+and templates. Scalable, modular sites are
+always current, evolving as a company grows.
+Many sites feature brand vision and attributes,
+helping to build a shared vocabulary. Robust
+sites support strategic marketing, consistent
+communications, and quality execution. Initially
+envisioned to house logos and image libraries,
+sites now encompass brand strategy, content
+development guidelines, and web resources.
+Creative firms and external vendors are assigned
+passwords to access key messages, logos,
+image libraries, glossaries, intellectual property
+compliance, and a panoply of smart resources
+and content. Sites may also be used for online
+ordering and transactions. Access to certain sections may be limited to user groups. The success
+of online branding tools is easily monitored
+through usage statistics. Additionally site monitoring tools are now validating the significant
+ROI results often realized using these tools.
+
+   ### Reproduction files
+   Maintaining the quality of reproduction in a
+world where tools are continually changing is an
+ongoing challenge. Users have urgent needs,
+different levels of proficiency, various software
+platforms, and a disparate understanding of
+digital files, color, and quality. An asset management system needs to be diligent about naming,
+organization, storage, retrieval, and overall
+usability of file formats.
+The designer’s responsibilities are to test all files
+in numerous formats and to develop a retrievable
+system that is logical and sustainable. The manager’s responsibility is to determine who has
+access to files and how best to field all requests.
+It is no longer unusual to download logo files and
+images from a website’s media portal. Clear legal
+guidelines, forms, and contact information help
+protect the assets.  
+
+  </details>
 
 </details>
 
