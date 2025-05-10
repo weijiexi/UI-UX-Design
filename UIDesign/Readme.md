@@ -55,6 +55,7 @@
             - The law of prägnanz
         - Scale
 - ## Typography
+- ## Visualization
 - ## Composition
     - The Format: Static Versus Active Composition
     - Responding to the Edges of the Format
