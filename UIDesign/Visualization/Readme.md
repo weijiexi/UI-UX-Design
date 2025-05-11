@@ -189,6 +189,40 @@ Designing a system requires a clear design concept and a consistent use of scale
 
 <details>
   <summary>Media, Methods, and Visualization</summary>
+
+  After you generate a design concept or several concepts for an assignment, you consider the content, which is the required ```text and image components```. Then you make preliminary decisions about:
+ - ```Media and Methods:``` How the graphic components will be
+created, visualized, and displayed on screen or in print.
+Some media and methods include illustration, drawing
+and painting, photography, graphic illustration, collage,
+photomontage, layering, and type as an image.
+- ```Mode of Visualization and/or Style:``` This is how you will render
+and execute the visuals and type for a project, including decisions about the characteristics of the form.
+ 
+ You can create imagery using a multitude of tools and media. The following list explains broad categories of producing and creating images.
+ - #### Illustration: 
+    A handmade unique image that accompanies or complements printed, digital, or spoken text, which clarifies, enhances, illuminates, or demonstrates the message of the text. Some designers among many others, also illustrate. Professional illustrators work in a variety of media and most often have uniquely identifiable styles. 
+
+    The AIGA notes, “Each illustrator brings a different perspective, vision and idea to play that, when married with
+    great design, becomes an original art form.” When you are working professionally and need to hire an illustrator, you
+    can find one through their representatives (agents) or in annuals, in sourcebooks, and through professional organizations. (On a historical note, prior to the invention of photography, and also when photography was in its infancy and the equipment cumbersome, illustration was the most popular form of imagery in visual communication.)
+ - #### Photography: 
+    A visual created using a camera to capture or record an image. Commercial photographers specialize in various genres, such as still life, portraiture, sports, outdoor imagery, fashion, journalist, aerial, landscape, urban, moving image, events, food, and others. When you are working professionally and need to hire a photographer, you can find one in annuals, sourcebooks, on the Internet, or through their agents. Fine art photography and journalistic photography are also utilized in graphic design. (Today, photography is probably the most popular form of image in visual communication.)
+ - #### Graphic interpretation: an elemental visualization of an
+    object or subject, almost resembling a sign, pictograph, or symbol in its reductive representation. Although a graphic interpretation employs economy (stripping down visuals to fundamental forms), what differentiates a graphic interpretation from a sign or pictograph is its expressive quality; it is often more descriptive. With the same skill set used to design logos or pictographs, graphic designers can capably create graphic interpretations.
+ - #### Collage: 
+    A visual created by cutting and pasting bits or pieces of paper, photographs, cloth, or any material to a two-dimensional surface, which can be combined with handmade visuals and colors. A conventional collage technique can be simulated and rethought for digital media using computer software (and its tools and capabilities) and hardware, a digital camera, a digital pen and tablet, and/or a scanner.
+ - #### Photomontage: 
+    A composite visual made up of a number of photographs or parts of photographs to form a unique image.
+
+ - #### Mixed media: 
+    A visual resulting from the use of different media—for example, photography combined with illustration.
+ - #### Motion graphics: 
+   Time-based visual communication that integrates visuals, typography, and audio; it is created using film, video, and computer software, including animation, television commercials, film titles, and promotional and informational applications for broadcast media and screen media.
+ - #### Diagram: 
+    A graphic representation of information, statistical data, a structure, environment, or process—the workings of something. A chart is a specific type of diagrammatic representation of facts or data. A graph is a specific
+type of diagram used to indicate relationships between two (or more) variables, often represented on axes. A map is a specific type of diagrammatic representation used to depict a route or geographic area—to show location.
+
   
 </details>
 
@@ -202,11 +236,123 @@ Designing a system requires a clear design concept and a consistent use of scale
 <details>
   <summary>Basics of Visualizing Form</summary>
   
+  #### Sharpness VS Diffusion
+   - Sharpness is characterized by clarity of form, detail, clean and clear edges and boundaries, saturated color, readable and legible typography, hyperrealism, photorealism, closed compositions, and limited type alignment. 
+   - Diffusion is characterized by blurred forms and boundaries, transparencies, muted color palettes, layering, open compositions, and painterliness.
+  #### Accuracy VS Distortion
+   Viewers believe an object or subject to be accurately depicted when it conforms with what they know or to common knowledge of that form. When an object or subject is twisted, stretched, bent, warped, buckled, or significantly altered from its normal appearance, it is distorted. In the poster promoting a concert by The Pretenders, the image of Chrissie Hynde and the typography are pixelated, expressively distorting them.
+  #### Economy VS Intricacy
+   - Economy refers to stripping down visuals to fundamental forms, reducing them, using as little description and as few details as possible for denotation. It is employed for icons, pictographs, and symbols, for instance. 
+   - Intricacy is based on complexity, on the use of many component parts and/or details to describe and visually communicate.
+  #### Subtle VS Bold
+   - Using a subtle visualizing treatment is about restraint. Subtlety can be created through low contrast, muted color palettes or tints, static compositions, transparencies, layering, limiting typefaces and alignment, and atmospheric perspective.
+   - Boldness can be conveyed with big, brassy, aggressive movements and compositions, saturated color palettes, thick lines, high contrast, cropping, or images that are near. Related to this is understatement versus exaggeration. An understated visual is less dramatic, subtle, and restrained, whereas an exaggerated depiction uses visual hyperbole and might be bigger, grander, more prominent, more dramatic, embellished, or amplified.
+  #### Predictable VS Spontaneous
+   Pattern, symmetry, absolute consistency of elements and their treatment, stable compositions, even weights, among other things would be considered predictable. Sketchiness, abrupt movements, asymmetry, changes in pace, staccato lines, open forms, changes in case, or blurring of edges could communicate spontaneity. The spontaneous quality in Ed Fella’s Low and Behold poster is conveyed through whimsical changes in the sizes of letters, hand-drawn letters, and forms. You can see why in Graphis, Stuart Frolick titled his article about Fella “Design Doodler.”
+
+   ![Predictable VS Spontaneous](./PredictableVSSpontaneous.jpg "Predictable VS Spontaneous")
+  #### Opaque VS Transparent
+   Opaque elements are dense, seemingly solid, and not seen through. Elements, type, and visuals can be transparent, which means see-through from one image to another, from
+one letterform to another, or from one color to another, as in the free-form shapes constituting the visuals in Figure 6-8. Seeing through could imply space to various degrees of graphic depth. Digital transparency involves altering the opacity of any graphic element or image in print or motion.
+
+   The contrast of an element is lowered so that it appears transparent in relation to its original opaque form. You also can juxtapose transparent and opaque elements for contrast or another expressive purpose.
+Patterns often employ graphic transparency where layers of lines, shapes, textures, forms, letterforms, or fields or bands of color overlap. Related to graphic transparency, linear transparency refers to transparent layering of linear forms or lines or outline type.
+
+   ![Opaque VS Transparent](./OpaqueVSTransparent.jpg "Opaque VS Transparent")
+  #### Linear VS Painterly Modes
+   A linear mode is characterized by a predominant use of lines to describe forms or shapes within a composition. In graphic
+design, painterly modes are characterized by the use of color and value to describe shapes and forms, relying on visible,
+broad, or a sketchy description of form rather than the specificity of lines. Utilizing a linear or painterly mode can also
+contribute to unifying a composition.
+In his seminal work Principles of Art History: The Problem
+of the Development of Style in Later Art, Swiss art historian
+Heinrich Wölfflin describes linear versus painterly modes of representation in fine art, which help us understand how form
+and style communicate meaning and how they are shaped by
+culture, time period, and context.
+
+  #### Hard Edge VS Brushy
+   In painting, hard-edge visualization is almost diametrically opposed to works in a brushy, painterly style. For the unique “Day Without Art” symbol, by contrasting a brushstroke X with the hard-edge delineation of the square representing a picture frame, meaning is enhanced.
+  #### Proximate VS Versus Distant Vision: 
+   Modes of Representation In this must-read essay “On Point of View in the Arts,” philosopher José Ortega y Gasset offers “proximate vision” and “distant vision” modes, accounting for the difference in how visual artists describe forms that they see. He explains the point of view of artists in relation to what is seen, representative of changes during eras reflecting the culture, religious beliefs, and philosophy of their time periods.
+All images are rendered in focus and in detail in proximate
+vision regardless of whether they are near or far in space.
+There is no evidence of the effect of the atmosphere on what
+is seen. We see every form and shape with clarity and in detail
+no matter how far from us it is.
+In distant vision, the effect of the atmosphere between the art-
+ist’s (and viewer’s) vision and the thing seen is in evidence.
+There is one point of focus (in any given moment, we can
+only focus on one thing at a time) with surrounding elements
+somewhat obscured. Distant vision is usually partnered with a
+painterly mode.
+   #### Singularity VS Juxtaposition
+   Whether you look at any religious icon—for example, any
+saint depicted during the Middle Ages—or at a contemporary
+poster using a single visual, you can see how a singular image
+can be employed to communicate a message or to symbolize
+or represent an idea. You can juxtapose two or more images
+for contrast or in a synergistic way.
 </details>
 
 
 <details>
-  <summary>A Final Word on Visualization: Storytelling</summary>
+  <summary>Drawing for Designers and Graphic Interpretations</summary>
+
+  Drawing as visualizing for graphic design, in which communication is primary, is different from drawing as a fine art
+discipline, in which form and personal expression are primary, although similar competencies are necessary. Designers
+
+utilize a variety of visualizing techniques. They
+also use visualizing as a creative process of visual thinking
+and during concept development and design development.
+Creative visualization gives expressive form to an idea.
+
+   ![Drawing for Designers and Graphic Interpretations](./imag-1.jpg "Drawing for Designers and Graphic Interpretations")
+  #### Visualizing techniques include:
+- Line Drawing: An image created with line, using a tool such
+as a stylus or pencil, with no solid areas or shading effects
+other than cross-hatching; it is also called line art. Lines can
+stay on a surface or extend into an environmental space.
+Line can be created by unconventional materials and tools
+as well.
+- Contour Drawing: Emphasis is given to the outline of an
+object or figure, to its specific contour, to render mass and
+form.
+- Elemental Flat Shape: Basic shape rendering of a form using
+flat colors or neutrals.
+- Tonal Drawing: A form is depicted through varying tonal
+values, through shading, rather than through line.
+- Sketches: A rapid visualization technique; a quick, rough
+drawing method used to communicate concepts and to
+present layouts and plans.
+- Rendering: Drawing to define three-dimensional spaces or
+objects.
+- Cartoon Drawing: Simple rendering of figures and situations.
+- Caricaturing: Drawing that captures particular expressions
+and features.
+
+##### Light and Shadow Linear Outline Open Geometric
+##### Silhouette Spiral Pattern Icon Changing Line Weight
+
+Texture Cropped Sketch Transparent Positive and Negative Shapes Presentation: Margins, Rules,
+Borders, Cropping, and Bleeds
+How you present an image affects communication. How will
+you use the visual as an independent entity? Will you crop
+it? Bleed it? Isolate it? Combine it? Juxtapose it? Frame it?
+Silhouette it? You also need to plan how you will utilize it
+within the format’s entire visual field. How will the visual be
+composed on the page? Considerations include:
+- Margins: the blank space surrounding a visual on the left,
+right, top, or bottom edge of a page can frame a visual,
+almost presenting it in a formal manner. Margins also
+afford space for page numbers, running heads in publica-
+tions, notations, captions, headings, titles, and credits.
+- Rules: thin stripe(s) or line(s) used for borders or for separating text, columns of text, or visuals. Most often, rules
+function best when used to separate, as dividers, attracting
+little notice.
+- Borders: a graphic band that runs along the edge of an
+image, acting to separate the image from the background,
+like a frame, by something as simple as a thin rule or as
+ornate as a Baroque frame. Borders can also act to emphasize the boundaries of an image. A border should never overwhelm or distract from what it frames.
   
 </details>
 

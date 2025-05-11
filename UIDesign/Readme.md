@@ -5,6 +5,7 @@
 - ["Don't Make Me Think" by Steve Krug](https://eng317hannah.wordpress.ncsu.edu/files/2020/01/Krug_Steve_Dont_make_me_think_revisited___a_cz-lib.org_.pdf)
 - ["Designing Brand Identity" by Alina Wheeler](https://laithaljunaidy.com/books/assets/files/Designing_Brand_Identity.pdf)
 - [Philip VanDusen](https://philipvandusen.com/)
+- [AIGA](https://eyeondesign.aiga.org/)
 
 - ## The Design Process
     - Orientation

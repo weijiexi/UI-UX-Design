@@ -1,7 +1,8 @@
 # [Designing Brand Identity](https://laithaljunaidy.com/books/assets/files/Designing_Brand_Identity.pdf)
-
+  - [Logo Modernism, Book, by Jens Muller and R. Roger Remington](https://drive.google.com/file/d/1QlvC9l-8ntO7vTdwhiVhBtHE_OsvQiMZ/view)
   - [Standards Manual](https://standardsmanual.com/)
   - [Nasa Graphics Manual](https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
+  - [Lufthansa Brand Guidelines](https://frontify.lufthansa.com/d/jKOh3AHXtyml/en/guidelines#/brand-elements/logo)
 
    
   <details>
