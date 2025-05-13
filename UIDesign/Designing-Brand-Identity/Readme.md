@@ -544,6 +544,76 @@ protect the assets.
 </details>
 
 
+<details>
+  <summary>Logo Modernism</summary>
+  
+   #### [Logo Modernism](https://drive.google.com/file/d/1QlvC9l-8ntO7vTdwhiVhBtHE_OsvQiMZ/view)
+
+   "Logo Modernism" typically refers to a style and design philosophy in logo design that emerged during the modernist movement in the 20th century—particularly prominent from the 1940s through the 1980s.
+   "Logo Modernism" typically refers to a style and design philosophy in logo design that emerged during the modernist movement in the 20th century—particularly prominent from the 1940s through the 1980s. It's also the title of a well-known design book by Jens Müller, published by TASCHEN, which catalogs and analyzes thousands of logos created in the modernist style.
+
+   #### Key Features of Modernist Logos:
+   - Simplicity – Clean, stripped-down forms with minimal decoration.
+   - Geometric Shapes – Use of circles, squares, and lines to create balanced compositions.
+   - Grid-Based Design – Careful use of alignment, symmetry, and proportions.
+   - Timelessness – Logos are made to endure stylistic changes, not just follow trends.
+   - Functionality – Logos are versatile and designed to work across different mediums and sizes.
+   - Abstraction – Visual metaphors or symbolic representations instead of literal depictions.
+
+   #### Geometric shapes          
+   - Angulor   
+   - Arrow
+   - circle
+   - Cross
+   - Dots
+   - Figurative
+   - Lines
+   - Skewed
+   - Round
+   - Square
+   - Triangle
+   
+   #### Effect
+   - Cun-off
+   - Split
+   - Duplication
+   - Grid
+   - Reflection
+   - Outline
+   - Overlay
+   - Rotation
+   - 3D
+   - White and black
+   
+   #### Typographic
+   - A to Z letters
+   - Opened-up letters
+   - Two letters
+   - Three letters
+   - Words
+
+
+   ![Logo Modernism](./imags/logo-3.jpg "Logo Modernism")
+   ![Logo Modernism](./imags/logo-4.jpg "Logo Modernism")
+   ![Logo Modernism](./imags/logo-1.jpg "Logo Modernism")
+   ![Logo Modernism](./imags/logo-2.jpg "Logo Modernism")
+   ![Logo Modernism](./imags/logo-6.jpg "Logo Modernism")
+   ![Logo Modernism](./imags/logo-7.jpg "Logo Modernism")
+   ![Logo Modernism](./imags/logo-8.jpg "Logo Modernism")
+   ![Logo Modernism](./imags/logo-9.jpg "Logo Modernism")
+   ![Logo Modernism](./imags/logo-10.jpg "Logo Modernism")
+   ![Logo Modernism](./imags/logo-11.jpg "Logo Modernism")
+   ![Logo Modernism](./imags/logo-12.jpg "Logo Modernism")
+   
+
+   #### Notable Designers & Logos:
+   - Paul Rand – IBM, ABC, UPS
+   - Saul Bass – AT&T, United Airlines
+   - Otl Aicher – Lufthansa
+   - Massimo Vignelli – American Airlines (1970s logo)
+
+</details>
+
 
 
 <details>
@@ -553,3 +623,5 @@ protect the assets.
   
 
 </details>
+
+
