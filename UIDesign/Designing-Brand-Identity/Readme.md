@@ -560,38 +560,102 @@ protect the assets.
    - Functionality – Logos are versatile and designed to work across different mediums and sizes.
    - Abstraction – Visual metaphors or symbolic representations instead of literal depictions.
 
-   #### Geometric shapes          
-   - Angulor   
+   <details>
+   <summary>Geometric shapes </summary>         
+    
+   - Angulor 
+
+      ![Logo Modernism](./imags/logo-13.jpg "Logo Modernism")  
    - Arrow
+
+      ![Logo Modernism](./imags/logo-14.jpg "Logo Modernism") 
+   - Basic Forms
+
+      ![Logo Modernism](./imags/logo-15.jpg "Logo Modernism")
    - circle
+
+      ![Logo Modernism](./imags/logo-16.jpg "Logo Modernism")
    - Cross
+
+      ![Logo Modernism](./imags/logo-17.jpg "Logo Modernism")
    - Dots
+
+      ![Logo Modernism](./imags/logo-18.jpg "Logo Modernism")
    - Figurative
+
+      ![Logo Modernism](./imags/logo-20.jpg "Logo Modernism")
    - Lines
+
+      ![Logo Modernism](./imags/logo-19.jpg "Logo Modernism")
    - Skewed
    - Round
    - Square
    - Triangle
+   </details>
+
+
+   <details>
+    <summary>Effect</summary>
    
-   #### Effect
    - Cun-off
+
+      ![Logo Modernism](./imags/logo-21.jpg "Logo Modernism")
    - Split
+
+      ![Logo Modernism](./imags/logo-22.jpg "Logo Modernism")
    - Duplication
+
+      ![Logo Modernism](./imags/logo-23.jpg "Logo Modernism")
    - Grid
+
+      ![Logo Modernism](./imags/logo-24.jpg "Logo Modernism")
    - Reflection
+
+      ![Logo Modernism](./imags/logo-25.jpg "Logo Modernism")
    - Outline
+
+      ![Logo Modernism](./imags/logo-26.jpg "Logo Modernism")
    - Overlay
+
+      ![Logo Modernism](./imags/logo-27.jpg "Logo Modernism")
    - Rotation
+
+      ![Logo Modernism](./imags/logo-28.jpg "Logo Modernism")
    - 3D
+
+      ![Logo Modernism](./imags/logo-29.jpg "Logo Modernism")
    - White and black
+
+      ![Logo Modernism](./imags/logo-30.jpg "Logo Modernism")
+   </details>
    
-   #### Typographic
+   
+   <details>
+   <summary>Typographic</summary>
+
    - A to Z letters
+
+      ![Logo Modernism](./imags/logo-31.jpg "Logo Modernism")
    - Opened-up letters
+
+   
    - Two letters
+
+      ![Logo Modernism](./imags/logo-32.jpg "Logo Modernism")
    - Three letters
+
+      ![Logo Modernism](./imags/logo-33.jpg "Logo Modernism")
    - Words
 
+      ![Logo Modernism](./imags/logo-34.jpg "Logo Modernism")
+   </details>
+
+   <details>
+   <summary>Grids</summary>
+
+   ![Logo Modernism](./imags/logo-35.jpg "Logo Modernism")
+
+   </details>
 
    ![Logo Modernism](./imags/logo-3.jpg "Logo Modernism")
    ![Logo Modernism](./imags/logo-4.jpg "Logo Modernism")
