@@ -3,10 +3,13 @@
 - Git & Github
 - Figma Skill
 - UI Design
+    - The Design Process
+    - Core Foundations of Graphic Design
     - Formal Elements & Principles of Graphic Design
     - Typography
     - Composition
     - Proportional Systems
+    - Designing Brand Identity
     - Web Usability
 - UX Design
     - Getting Started
