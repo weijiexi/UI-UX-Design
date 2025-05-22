@@ -1,4 +1,5 @@
-# [Designing Brand Identity](https://laithaljunaidy.com/books/assets/files/Designing_Brand_Identity.pdf)
+# Designing Brand Identity
+  - ["Designing Brand Identity" by Alina Wheeler](https://archive.org/details/alina-wheeler-designing-brand-identity-an-essential-guide-for-the-entire-brandin/mode/2up?view=theater)
   - [Logo Modernism, Book, by Jens Muller and R. Roger Remington](https://drive.google.com/file/d/1QlvC9l-8ntO7vTdwhiVhBtHE_OsvQiMZ/view)
   - [Standards Manual](https://standardsmanual.com/)
   - [Nasa Graphics Manual](https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
@@ -215,7 +216,7 @@ the design concept.
    ### Wordmarks
    A wordmark is a freestanding word or words. It may be a company name or an acronym. ```The best wordmarks imbue a legible word or words with distinctive font characteristics, and may integrate abstract elements or pictorial elements. ```The distinctive tilted “E” in “Dell” activates and strengthens the one-syllable name. The IBM acronym has transcended enormous technological change in its industry
 
-   ### Letterform marks
+   ### Monogram logo / Letterform marks
    The single letter is frequently used by designers as a distinctive graphic focal point for a brandmark. The letter is always a unique and proprietary design that is infused with significant personality and meaning. The letterform acts as a mnemonic device, and is easy to apply to an app icon.
 
    ### Pictorial marks
@@ -683,7 +684,20 @@ protect the assets.
 <details>
   <summary>Case studies</summary>
 
-  #### - ["Designing Brand Identity" by Alina Wheeler P223~P325](https://laithaljunaidy.com/books/assets/files/Designing_Brand_Identity.pdf)
+  #### - ["Designing Brand Identity" by Alina Wheeler P223~P325](https://archive.org/details/alina-wheeler-designing-brand-identity-an-essential-guide-for-the-entire-brandin/page/194/mode/2up?view=theater)
+  ![Designing identity Elements](./imags/logo-40.jpg "Designing identity Elements")
+  ![Designing identity Elements](./imags/logo-41.jpg "Designing identity Elements")
+  ![Designing identity Elements](./imags/logo-42.jpg "Designing identity Elements")
+  ![Designing identity Elements](./imags/logo-43.jpg "Designing identity Elements")
+  ![Designing identity Elements](./imags/logo-36.jpg "Designing identity Elements")
+  ![Designing identity Elements](./imags/logo-37.jpg "Designing identity Elements")
+  ![Designing identity Elements](./imags/logo-38.jpg "Designing identity Elements")
+  ![Designing identity Elements](./imags/logo-39.jpg "Designing identity Elements")
+ 
+
+
+
+
   
 
 </details>

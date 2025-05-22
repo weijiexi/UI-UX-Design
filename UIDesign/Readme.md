@@ -3,7 +3,7 @@
 - ["Graphic Design: The New Basics" by Ellen Lupton and Jennifer Cole Phillips](https://ugc.production.linktr.ee/ea968e70-92b7-4c11-84eb-18c54b2c4324_Graphic-Design--The-New-Basics--Second-Edition--Revised-and-Expanded---PDFDrive---compressed.pdf)
 - ["Thinking with Type" by Ellen Lupton](https://readings.design/PDF/thinkingwithtype_ellenlupton.pdf)
 - ["Don't Make Me Think" by Steve Krug](https://eng317hannah.wordpress.ncsu.edu/files/2020/01/Krug_Steve_Dont_make_me_think_revisited___a_cz-lib.org_.pdf)
-- ["Designing Brand Identity" by Alina Wheeler](https://laithaljunaidy.com/books/assets/files/Designing_Brand_Identity.pdf)
+- ["Designing Brand Identity" by Alina Wheeler](https://archive.org/details/alina-wheeler-designing-brand-identity-an-essential-guide-for-the-entire-brandin/page/196/mode/2up?view=theater)
 - [Philip VanDusen](https://philipvandusen.com/)
 - [AIGA](https://eyeondesign.aiga.org/)
 
