@@ -6,6 +6,8 @@
 - ["Designing Brand Identity" by Alina Wheeler](https://archive.org/details/alina-wheeler-designing-brand-identity-an-essential-guide-for-the-entire-brandin/page/196/mode/2up?view=theater)
 - [Philip VanDusen](https://philipvandusen.com/)
 - [AIGA](https://eyeondesign.aiga.org/)
+- [annik troxler](https://www.anniktroxler.ch/work)
+- [Truf](https://trufcreative.com/work/)
 
 - ## The Design Process
     - Orientation

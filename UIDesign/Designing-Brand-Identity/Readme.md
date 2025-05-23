@@ -1,9 +1,10 @@
 # Designing Brand Identity
-  - ["Designing Brand Identity" by Alina Wheeler](https://archive.org/details/alina-wheeler-designing-brand-identity-an-essential-guide-for-the-entire-brandin/mode/2up?view=theater)
+  - ["Designing Brand Identity" by Alina Wheeler](https://archive.org/details/alina-wheeler-designing-brand-identity-an-essential-guide-for-the-entire-brandin/page/n9/mode/2up?view=theater)
   - [Logo Modernism, Book, by Jens Muller and R. Roger Remington](https://drive.google.com/file/d/1QlvC9l-8ntO7vTdwhiVhBtHE_OsvQiMZ/view)
   - [Standards Manual](https://standardsmanual.com/)
   - [Nasa Graphics Manual](https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
   - [Lufthansa Brand Guidelines](https://frontify.lufthansa.com/d/jKOh3AHXtyml/en/guidelines#/brand-elements/logo)
+  - [Truf](https://trufcreative.com/work/)
 
    
   <details>
@@ -684,11 +685,15 @@ protect the assets.
 <details>
   <summary>Case studies</summary>
 
-  #### - ["Designing Brand Identity" by Alina Wheeler P223~P325](https://archive.org/details/alina-wheeler-designing-brand-identity-an-essential-guide-for-the-entire-brandin/page/194/mode/2up?view=theater)
+  #### - ["Designing Brand Identity" by Alina Wheeler P194~P290](https://archive.org/details/alina-wheeler-designing-brand-identity-an-essential-guide-for-the-entire-brandin/page/194/mode/2up?view=theater)
   ![Designing identity Elements](./imags/logo-40.jpg "Designing identity Elements")
   ![Designing identity Elements](./imags/logo-41.jpg "Designing identity Elements")
   ![Designing identity Elements](./imags/logo-42.jpg "Designing identity Elements")
   ![Designing identity Elements](./imags/logo-43.jpg "Designing identity Elements")
+  ![Designing identity Elements](./imags/logo-44.jpg "Designing identity Elements")
+  ![Designing identity Elements](./imags/logo-45.jpg "Designing identity Elements")
+  ![Designing identity Elements](./imags/logo-46.jpg "Designing identity Elements")
+  ![Designing identity Elements](./imags/logo-47.jpg "Designing identity Elements")
   ![Designing identity Elements](./imags/logo-36.jpg "Designing identity Elements")
   ![Designing identity Elements](./imags/logo-37.jpg "Designing identity Elements")
   ![Designing identity Elements](./imags/logo-38.jpg "Designing identity Elements")
