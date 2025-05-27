@@ -8,7 +8,7 @@
     ###### H6
 
 ## Bold 
-   **Concept**
+    **Concept**
 ## Lists
 You can use hyphens (-), asterisks (*), or plus signs (+) to create unordered lists:
 
@@ -58,8 +58,8 @@ or
 
 ```
 ## Table
-| Color           | Hex       | Usage                                |
-|----------------|-----------|--------------------------------------|
-| Electric Blue  | `#007BFF` | Primary accent, CTAs, links          |
-| Slate Grey     | `#2E2E2E` | Main UI text, headers, backgrounds   |
+     | Color           | Hex       | Usage                                |
+     |----------------|-----------|--------------------------------------|
+     | Electric Blue  | `#007BFF` | Primary accent, CTAs, links          |
+     | Slate Grey     | `#2E2E2E` | Main UI text, headers, backgrounds   |
 
