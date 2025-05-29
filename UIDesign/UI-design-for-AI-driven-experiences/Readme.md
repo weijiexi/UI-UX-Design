@@ -11,7 +11,8 @@
   - [Copy.ai](https://www.copy.ai/) / [Jasper](https://www.jasper.ai/) – Generate taglines, headlines, and product content
   - [Notion AI](https://www.notion.so/product/ai) - Embedded AI assistant inside Notion for writing, summarizing, and organizing
   - [Cursor](https://www.cursor.com/) - an AI-powered code editor developed by Anysphere Inc
-  - [devin](https://devin.ai/) - Devin is an autonomous AI software engineer developed by Cognition Labs, designed to assist with various software development tasks
+  - [Devin](https://devin.ai/) - Devin is an autonomous AI software engineer developed by Cognition Labs, designed to assist with various software development tasks
+  - [Windsurf](https://windsurf.com) - an AI-powered integrated development environment (IDE) developed by Exafunction, Inc., designed to enhance developer productivity by integrating intelligent features directly into the coding workflow
 
 </details>
 
@@ -25,8 +26,13 @@
   - [Figma AI Plugins](https://mockuuups.studio/blog/post/figma-ai-plugins/) – For UI/UX mockups, usability improvements
   - [Leonardo.Ai](https://leonardo.ai) - AI-powered creative image generation with control and style
   - [Khroma](https://www.khroma.co) - AI color palette generator for designers
+  - [Deepdreamgenerator](https://deepdreamgenerator.com/)
   - [Huemint](https://huemint.com) - an AI-powered color palette generator that leverages machine learning to craft unique and visually appealing color schemes tailored for brands, websites, and various design projects
-
+  - [Gamma](https://gamma.app/) - an AI-powered platform designed to streamline the creation of presentations, documents, websites, and social media content
+  - [KREA](krea.ai) -	Real-time generative canvas that blends prompt + brush tools for fashion, product, and spatial design
+  - [Designify](designify.com) -	One-click image enhancement and background replacement. Great for ecommerce, profile photos, and mockups
+  - [VanceAI](vanceai.com) -	Suite of AI tools for image enhancement, restoration, upscaling, and background removal
+  - [Artbreeder](artbreeder.com) - Blend and morph visual styles using genetic algorithms — ideal for character and scene ideation	
 </details>
 
 <details>
@@ -90,6 +96,8 @@
   <summary>AI Agent Platforms (Autonomous / Workflow Automation)</summary> 
 
 - [manus](https://manus.im/?index=1) - Manus is designed to execute complex tasks across various domains without continuous human intervention
+- [Vantel](https://vantel.com/) - an AI-powered platform designed to assist commercial insurance brokers by automating time-consuming tasks such as policy analysis, quote comparison, and contract review
+- [Sweet Spot](https://www.sweetspot.so/) - an AI-powered platform designed to streamline the government contracting process for businesses
 - [AutoGPT]( https://github.com/Torantulino/Auto-GPT) - Open-source project that chains LLMs together to perform tasks autonomously. | |
 - [AgentGPT](https://agentgpt.reworkd.ai) - Browser-based tool to create autonomous AI agents in seconds
 - [SuperAGI](https://superagi.com) - Open-source autonomous AI framework for complex task automation

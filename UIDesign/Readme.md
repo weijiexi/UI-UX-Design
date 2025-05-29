@@ -7,7 +7,6 @@
 - [Philip VanDusen](https://philipvandusen.com/)
 - [AIGA](https://eyeondesign.aiga.org/)
 - [annik troxler](https://www.anniktroxler.ch/work)
-- [Truf](https://trufcreative.com/work/)
 
 - ## The Design Process
     - Orientation
