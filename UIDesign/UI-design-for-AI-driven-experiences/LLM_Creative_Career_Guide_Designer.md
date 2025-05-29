@@ -40,7 +40,7 @@ A traditional art designer has a strong traditional design background and a BA f
 - Learn Figma + AI Plugins
 - Use Canva’s Magic tools and Uizard for UX prototyping
 
-### 💻 Optional Tech Add-ons
+### Optional Tech Add-ons
 - Light Python/JS to automate AI workflows (if interested)
 - Use RunwayML or Gradio to create AI mini-projects
 
