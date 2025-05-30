@@ -32,7 +32,13 @@
   - [KREA](krea.ai) -	Real-time generative canvas that blends prompt + brush tools for fashion, product, and spatial design
   - [Designify](designify.com) -	One-click image enhancement and background replacement. Great for ecommerce, profile photos, and mockups
   - [VanceAI](vanceai.com) -	Suite of AI tools for image enhancement, restoration, upscaling, and background removal
-  - [Artbreeder](artbreeder.com) - Blend and morph visual styles using genetic algorithms — ideal for character and scene ideation	
+  - [Artbreeder](artbreeder.com) - Blend and morph visual styles using genetic algorithms — ideal for character and scene ideation
+  - [Galileo AI](https://www.usegalileo.ai/explore)	- Galileo AI is a platform designed to assist designers and developers in creating user interfaces (UIs) efficiently using artificial intelligence
+  - [Uizard](https://uizard.io/) - an AI-powered design platform that enables users to rapidly create wireframes, mockups, and prototypes for web and mobile applications
+  - [Locofy](https://www.locofy.ai/) - an AI-powered platform designed to accelerate the transition from design to code, enabling designers and developers to convert Figma and Adobe XD designs into production-ready frontend code for web and mobile applications
+  - [Pika](https://pika.art/login) - an AI-powered video generation platform developed by Pika Labs, enabling users to transform text prompts and images into dynamic, short-form videos
+  - [Khroma](https://www.khroma.co/) - an AI-powered color tool designed to assist designers in discovering, generating, and saving personalized color palettes
+  - [Openart](https://openart.ai/home) - a versatile AI-powered art platform designed to transform your creative ideas into stunning visual artworks
 </details>
 
 <details>
