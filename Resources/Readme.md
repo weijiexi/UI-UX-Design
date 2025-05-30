@@ -71,15 +71,6 @@
 - [Atomic Design by Brad Frost](https://atomicdesign.bradfrost.com/)
 - [Material design](https://m3.material.io/)
 
-### AI Generation :
-- [Leonardo](https://app.leonardo.ai/)
-- [Midjourney](https://www.midjourney.com/home)
-- [Openart](https://openart.ai/home)
-- [Deepdreamgenerator](https://deepdreamgenerator.com/)
-- [PlaygroundAI](https://playground.com/) 
-- [Deepmind.google](https://deepmind.google/)
-    - [image-fx](https://labs.google/fx/tools/image-fx?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
-
 ### Figma Files
 - [Sketching](https://www.figma.com/file/j2d64odNtmrUwx2CBdf2sM/00.-Sketching-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
 - [FigmaBasics](https://www.figma.com/file/KD4nSqQljzRWlv91aDbmOT/01.-Figma-Basics-Resource?type=design&t=j2lcMgAPjl0SeKq0-6)
