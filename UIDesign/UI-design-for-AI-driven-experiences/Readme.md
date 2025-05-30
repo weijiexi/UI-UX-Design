@@ -7,7 +7,8 @@
   
   - [ChatGPT](https://openai.com/index/chatgpt/) / [GPT-4](https://openai.com/index/gpt-4/) – Brainstorming, design briefs, content strategy
   - [Claude](https://claude.ai) - AI assistant from Anthropic with a focus on safety and contextual reasoning
-  - [Perplexity](https://www.perplexity.ai) - AI-powered search engine that generates cited answers. | 
+  - [Perplexity](https://www.perplexity.ai) - AI-powered search engine that generates cited answers
+  - [Ollama]( https://ollama.com/ ) - an open-source platform that enables users to run large language models (LLMs) locally on their own machines
   - [Copy.ai](https://www.copy.ai/) / [Jasper](https://www.jasper.ai/) – Generate taglines, headlines, and product content
   - [Notion AI](https://www.notion.so/product/ai) - Embedded AI assistant inside Notion for writing, summarizing, and organizing
   - [Cursor](https://www.cursor.com/) - an AI-powered code editor developed by Anysphere Inc
