@@ -7,6 +7,10 @@ This guide explores the influence of **11 key modern art movements** on the evol
 ## Constructivism(Russia, early 20th century)
 - **Core Ideas**: Functionalism, industrial aesthetics, bold geometry
 - **Impact**: Grid systems, modular layout, typographic posters
+- [What Is Constructivism in Graphic Design?](https://www.designyourway.net/blog/what-is-constructivism-in-graphic-design/#google_vignette)
+
+![Constructivism](./imags/Constructivism-5.jpg "Constructivism")
+
 
 ### Constructivism Influence Graphic Design 
 Constructivism is a design and art movement that originated in Russia in the early 20th century. It is known for its geometric abstraction, functional aesthetics, and use of industrial materials. In design art, Constructivism focuses on structure, utility, and bold visual communication. Here's a breakdown of its design methods and key principles:
@@ -286,6 +290,8 @@ Too much Constructivist rigidity might limit playful, soft, or emotion-driven UI
 - **Core Ideas**: Form follows function, integration of art and industry
 - **Impact**: Clean interfaces, sans-serif typography, product design influence
 
+![Bauhaus](./imags/Bauhaus-1.jpg "Bauhaus")
+
 ## De Stijl / Dutch Modernism(Netherlands, 1917–1931)
 - **Core Ideas**: Universal harmony through abstract geometry and primary colors
 - **Impact**: Rigid grid systems, brand modularity, asymmetrical balance
@@ -293,6 +299,9 @@ Too much Constructivist rigidity might limit playful, soft, or emotion-driven UI
 ## Swiss / International Typographic Style(Switzerland, 1950s) 
 - **Core Ideas**: Objectivity, clarity, use of grid and sans-serif type
 - **Impact**: Corporate identity, UX design systems, information hierarchy
+
+![swiss](./imags/swiss-1.jpg "swiss")
+![swiss](./imags/swiss-2.jpg "swiss")
 
 ## Pop Art(UK & USA, 1950s–60s)
 - **Core Ideas**: Mass culture, irony, bold color
@@ -302,6 +311,8 @@ Too much Constructivist rigidity might limit playful, soft, or emotion-driven UI
 - **Core Ideas**: Emotion, spontaneity, gestural painting
 - **Impact**: Expressive branding, textured motion design, emotional resonance
 
+![Lyrical Abstraction](./imags/LyricalAbstraction.jpg "Lyrical Abstraction")
+
 ## Cubism(France, early 20th century)
 - **Core Ideas**: Fragmented perspective, flattened space
 - **Impact**: Collage layouts, overlapping UI, editorial experimentation
@@ -309,6 +320,8 @@ Too much Constructivist rigidity might limit playful, soft, or emotion-driven UI
 ## Abstract Art(Early 1900s–present)
 - **Core Ideas**: Non-representational form, emphasis on line/shape/color
 - **Impact**: Visual rhythm, AI-generated backgrounds, branding emotion
+
+![Abstraction](./imags/abstract.jpg "Abstraction")
 
 ## Color Field Painting(USA, 1950s)
 - **Core Ideas**: Meditative color planes, spiritual minimalism
@@ -324,8 +337,8 @@ Too much Constructivist rigidity might limit playful, soft, or emotion-driven UI
 
 ## 🧩 Summary
 Modern art movements shaped how we:
-- Use grids and typography
-- Design visual systems and layouts
+- Use **grids** and **typography**
+- **Design visual systems** and **layouts**
 - Create emotional, conceptual, or generative graphics
 - Combine aesthetic clarity with functional purpose
 
