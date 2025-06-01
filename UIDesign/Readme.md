@@ -160,3 +160,4 @@
 - ## Designing Brand Identity
 - ## Web Usability
 - ## UI design for AI driven experiences
+- ## Modern Art Movements Influence Graphic Design
