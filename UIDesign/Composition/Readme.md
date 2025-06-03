@@ -340,3 +340,54 @@ denote running), blurred boundaries or edges, repetition,
 shifts, or layers contribute to the illusion of motion.
 
 </details>
+
+
+<details>
+  <summary>Understanding Composition in Web Design</summary>
+
+Web composition refers to how visual elements are arranged on a web page to create clarity, hierarchy, usability, and aesthetic balance. A strong composition helps users navigate content and engage intuitively with the site.
+
+### Core Principles of Web Composition
+
+**1. Grid System**
+- Creates consistent alignment and spacing
+- Helps maintain rhythm and structure
+- Common systems: 12-column grid, baseline grid
+
+**2. Visual Hierarchy**
+- Guides the viewer’s eye from most to least important
+- Uses size, color, spacing, and contrast
+- Example: Headline > Subheading > Body text > Footer
+
+**3. Whitespace (Negative Space)**
+- Gives elements room to breathe
+- Enhances clarity and elegance
+- Prevents clutter and overload
+
+**4. Balance and Symmetry**
+- Symmetrical: Stable, formal, safe (e.g., portfolios)
+- Asymmetrical: Dynamic, engaging, modern (e.g., creative studios)
+
+**5. Focal Point**
+- Clear visual entry point (e.g., hero image, call to action)
+- Often larger or more colorful than surroundings
+
+**6. Consistency**
+- Typography, colors, and UI elements repeat consistently
+- Supports brand identity and user recognition
+
+### Recommended Visuals for Web Composition
+Visual types to use for teaching and layout reference:
+- Wireframe layout examples (mobile vs desktop)
+- Grid overlays on existing websites
+- Visual hierarchy diagrams
+- Before/after layout improvements
+
+### ✅ Summary
+> “Good composition is invisible. It guides, balances, and brings clarity without calling attention to itself.”
+
+A well-composed web page invites users in, helps them understand what to do, and reflects the brand’s tone — all without visual chaos.
+
+ ![composition](./imags/composition.png  "composition")
+
+</details>
