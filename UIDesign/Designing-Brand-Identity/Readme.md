@@ -213,28 +213,42 @@ the design concept.
    Designed with an almost infinite variety of shapes and personalities, brandmarks can be assigned to a number of general categories. From literal through symbolic, from word-driven to image-driven, the world of brandmarks expands each day. 
 
    ### Sequence of cognition
-   Brand awareness and recognition are facilitated by a visual identity that is easy to remember and immediately recognizable. Visual identity triggers perceptions and unlocks associations of the brand. Sight, more than any other sense, provides information about the world. 
+   Brand awareness and recognition are facilitated by a visual identity that is easy **to remember and immediately recognizable**. Visual identity triggers perceptions and unlocks associations of the brand. Sight, more than any other sense, provides information about the world. 
 
    ### Wordmarks
    A wordmark is a freestanding word or words. It may be a company name or an acronym. ```The best wordmarks imbue a legible word or words with distinctive font characteristics, and may integrate abstract elements or pictorial elements. ```The distinctive tilted “E” in “Dell” activates and strengthens the one-syllable name. The IBM acronym has transcended enormous technological change in its industry
 
+   ![Brandmarks](./imags/logo-48.jpg "Brandmarks")
+
    ### Monogram logo / Letterform marks
    The single letter is frequently used by designers as a distinctive graphic focal point for a brandmark. The letter is always a unique and proprietary design that is infused with significant personality and meaning. The letterform acts as a mnemonic device, and is easy to apply to an app icon.
+
+   ![Brandmarks](./imags/logo-49.jpg "Brandmarks")
 
    ### Pictorial marks
    A pictorial mark uses a literal and recognizable image. The image itself may allude to the name of the company or its mission, or it may be symbolic of a brand attribute. ```The simpler the form, the more difficult it is to draw. The most skillful designers know how to translate and simplify, play with light and shadow, and balance positive and negative space.```
 
+   ![Brandmarks](./imags/logo-50.jpg "Brandmarks")
+
    ### Abstract marks
    ```An abstract mark uses visual form to convey a big idea or a brand attribute. ```These marks, by their nature, can provide strategic ambiguity, and work effectively for large companies with numerous and unrelated divisions. Marks such as Chase’s have survived a series of mergers easily. ```Abstract marks are especially effective for service-based and technology companies; ``````however, they are extremely difficult to design well.```
+
+   ![Brandmarks](./imags/logo-51.jpg "Brandmarks")
 
    #### Emblems
    ```Emblems are trademarks featuring a shape inextricably connected to the name of the organization.``` The elements are never isolated. Emblems look terrific on a package, as a sign, or as an embroidered patch on a uniform. As mobile devices continue to shrink and multi-branding ads with onesixth-inch logos increase, the emblem presents the biggest legibility challenge when miniaturized.
 
+   ![Brandmarks](./imags/logo-52.jpg "Brandmarks")
+
    ### Dynamic marks
    Creativity always finds a way to challenge convention. Historically brand equity has been achieved in part by the frequency and global reach of a single icon, like Apple’s trademark or Nike’s swoosh. As life becomes more complex and more digital, designers have found new ways to express big ideas. This method is dependent on the craft of the designer, as in IBM’s Smarter Planet icons and Google Doodles. Engineers are beginning to partner with creative teams to program the future.
 
+   ![Brandmarks](./imags/logo-53.jpg "Brandmarks")
+
    ### Characters
    It’s alive! A character trademark embodies brand attributes or values. Characters quickly become the stars of advertising campaigns, and the best ones become cultural icons cherished by children and customers alike. Along with their distinctive appearance and personality, many characters have recognizable voices and jingles, enabling them to leap offthe silent shelf space onto your desktop.
+
+   ![Brandmarks](./imags/logo-54.jpg "Brandmarks")
 
    </details>
 
