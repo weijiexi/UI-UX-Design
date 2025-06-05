@@ -21,5 +21,15 @@
         - Sitemaps
     - Explore & iterate
         - Wireframes
+        - Feedback
         - Mockups
         - Prototypes
+    - Visual Design & Design Systems
+        - Spacing and Grids
+        - Typography/Fonts
+        - Imagery and Iconography
+        - Forms and UI Elements
+        - Accessibility
+        - Design Patterns
+        - Visual design
+        - Design Systems
