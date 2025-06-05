@@ -73,6 +73,26 @@ Images,Icons, and Illustration
 </details>
 
 <details>
+  <summary>Design Patterns</summary>
+
+  A design pattern is a general solution that can be repeated to commonly occurring problems. The first step is to analyse the problem and then to find ways to eliminate or help resolve any pain points. Look for usability issues with real data from testing and feedback.
+
+  Next, look at how other brands and products have solved this problem. Having multiple examples of how a solution is implemented can give you more insight if this is something that will work for your product.
+
+  Finally, choose the one solution that will work best for your product. This is why lots of designs look the same across varying sites, because these patterns become the standard proven to help users. You don't always need to create innovative ways of doing things, but always seeing the same thing can get boring too. It's a delicate balance of good design with good user experience. 
+  
+  Design patterns can be put into six categories:
+  - Data & input: Products that give feedback and response to data they receive, like a drag and drop UI.
+  - Content structure: The structure of the content on a page that streamlines the flow and helps improve the accessibility of the product.
+  - Navigation: Ensure the ease of navigation through the product. This includes sidebars, hamburger menus, and navigation bars.
+  - Incentivization: Provides the user with positive feedback to get them to keep using your product.
+  - Hierarchy: Gives a flow to the product to visually establish important or primary elements.
+  - Social Media: Encourages users to share the product with members of their social networks.
+
+  Our minds are wired to always look for patterns in the things we do repeatedly. We are looking for efficiency and easier access to things constantly. Using these standards creates less cognitive strain (brain power) to use a product.
+</details>
+
+<details>
   <summary>Visual design</summary>
 
   Web composition refers to how visual elements are arranged on a web page to create clarity, hierarchy, usability, and aesthetic balance. A strong composition helps users navigate content and engage intuitively with the site.
@@ -125,13 +145,14 @@ A well-composed web page invites users in, helps them understand what to do, and
 <details>
   <summary>Design Systems</summary>
 
+  - [Google - Material Design](https://m3.material.io/)
+
   A design system is a single place where all the elements needed to design a product live. It creates a single source of truth for each individual element of the design where anyone on a team can easily see and use it. A common methodology for design systems is atomic design. It is based on the book of the same name by Brad Frost and breaks a design system up into atoms, molecules, organisms, templates, and pages that work together to create an entire system for a product. Each piece builds on the piece before it and adds more to the design. In the Complete Web & Mobile Designer course, Daniel uses a similar methodology based on a foundation, components, and then recipes to build out an entire product.
+
   - The foundation has colors, typography, icons, and other individual items that may be used in the product.
   - Components are where elements from the foundation are put together to make reusable items such as buttons, inputs, and cards.
   - The recipes section is where all the components come together to make even bigger groupings of what will make up sections of an app or a page.
   - The biggest thing to remember is that design systems are ever evolving.
-
-  - [Google - Material Design](https://m3.material.io/)
 
   Material Design is a design system built and supported by Google designers and developers. Material.io ies in-depth UX guidance and UI component implementations for Android, Flutter, and the Web.The latest version, Material 3, enables personal, adaptive, and expressive experiences – from dynamic color and enhanced accessibility, to foundations for large screen layouts and design tokens.nclud
 </details>
