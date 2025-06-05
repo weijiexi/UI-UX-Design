@@ -1,4 +1,5 @@
 # Figma Skill
+
 ## Figme Shortcut
 - F - activates the Frame tool
 - Shift + command + K - open a file
@@ -8,6 +9,7 @@
 - Option + command + g - making a general frame
 - Command  + \ - hide tool
 - Shift + g - hide grid
+
 ## The Basics of Figma
 - Toolbar
     - Scale tool - Using the scale tool can streamline your design process and ensure that your components maintain their visual balance as you adjust their size
@@ -37,4 +39,29 @@
         - Flows and Starting Points
         - Interravtions
         - Scroll behavior
+- setting up page widths in Figma
+    - **Website (Desktop)Recommended width: 1440px**
+        - **Safe content area: 1280px or 1140px** (max width for readable content)
+        - Grid system: Use 12 columns, 1140px max width, 20–30px gutters
+        - 1920px (Full HD, for large screens)
+        - 1280px (Smaller laptops)
+        - 1024px (Tablet landscape breakpoints)
+    - Web App **(Dashboard UI) Common design canvas width: 1440px or 1600px**
+        - Content area: Often constrained to around 1200px–1280px 
+
+    | Device Type       | Width Range (px) | Notes                                  |
+    |-------------------|------------------|----------------------------------------|
+    | Mobile (Portrait) | 320–480          | Use 375px as standard reference width  |
+    | Mobile (Landscape)| 480–768          | Use 568px or 667px for wider mobiles   |
+    | Tablet            | 768–1024         | Use 768px or 834px as base             |
+    | Laptop            | 1024–1440        | Use 1280px or 1366px for common layouts|
+    | Desktop           | 1440–1920+       | 1440px is industry standard baseline   |
+
+    - Tips for Figma Setup
+        - Use "Frame" instead of "Artboard" and select a desktop preset like “**Desktop 1440**” or custom dimensions.
+        - Apply a grid system (**12 column**) to align content.
+        - Keep margins of **at least 16px–24px** on mobile, 60px–120px on desktop.
+    
+    
+
 
