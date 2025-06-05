@@ -1,4 +1,4 @@
-# UX Design
+# UI/UX Design
 
 In UI/UX design, several tools are used to define and visualize the structure and interaction of a product. 
 Here are the key differences between **User Flow**, **Sitemap**, **Wireframe**, **Mockup**, and **Prototype**:
