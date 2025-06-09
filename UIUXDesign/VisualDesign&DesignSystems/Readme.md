@@ -10,6 +10,8 @@ Grids are made up of **3 elements: columns, gutters, and margins**. Columns are 
 - Layouts: Using multiple types of grids together can help balance and visually enhance your design, but once you get your grids on a page, there are still more choices to make. The responsive part of the grid comes with choosing between fixed, fluid, and adaptive grids. Fixed layouts will stay the same no matter what the screen size. Fluid layouts will stretch and shrink with your content. Adaptive layouts will change to use different grids depending on the screen size it is at. By using breakpoints, you are able to change the design of the page for different screen sizes.
 
 There are far too many screen sizes out there now to worry about specific breakpoint numbers. Using just small (600px), medium (768px), large (1024px), and extra-large (1280px) sizes will be a good starting off point to get an idea of what the layouts should be.
+
+ ![grids](./Grids.jpg "grids")
 </details>
 
 <details>
@@ -26,11 +28,15 @@ Another thing to look at is who the target users are. Knowing the demographic of
 Colors should be able to be scaled or added to, by having a mini monochromatic palette within each color. You can add depth to your blacks and greys by adding in hints of the brand colors. Sometimes black comes off as too harsh if left untouched.
 
 The most important thing when choosing **colors is to test for accessibility**. Make sure there is enough contrast between backgrounds and foregrounds to ensure it is readable for everyone. 
+
+ ![Typography](./Typography.jpg "Typography")
 </details>
 
 <details>
   <summary>Imagery and Iconography</summary>
-Images,Icons, and Illustration
+Images, Icons, Illustration, Graphic interpretation, Collage, Photomontage, Mixed media, Motion graphics and Diagram
+
+ ![Imagery](./Imagery.jpg "Imagery")
 </details>
 
 <details>
@@ -53,6 +59,8 @@ Images,Icons, and Illustration
     - Tabs: Navigational elements that switch between different views or sections.
     - Modals: Pop-up dialogs that require user interaction before returning to the main content.
     - Tooltips: Small informational pop-ups that appear when hovering over an element.
+
+     ![forms](./form.jpg "forms")
 </details>
 
 <details>
@@ -70,6 +78,8 @@ Images,Icons, and Illustration
     - Braille terminals: A keyboard created for the blind or visually impaired users to navigate a computer and the internet.
     - Screen magnifier: Enlarges a portion of the screen that the user hovers over.
     - Alternate Input Devices & Software: These include voice and push buttons that control the actions on the computer.
+
+![Accessibility](./Accessibility.jpg "Accessibility")
 </details>
 
 <details>
@@ -139,7 +149,6 @@ Visual types to use for teaching and layout reference:
 A well-composed web page invites users in, helps them understand what to do, and reflects the brand’s tone — all without visual chaos.
 
  ![composition](./composition.png  "composition")
-
 </details>
 
 <details>
@@ -155,6 +164,8 @@ A well-composed web page invites users in, helps them understand what to do, and
   - The biggest thing to remember is that design systems are ever evolving.
 
   Material Design is a design system built and supported by Google designers and developers. Material.io ies in-depth UX guidance and UI component implementations for Android, Flutter, and the Web.The latest version, Material 3, enables personal, adaptive, and expressive experiences – from dynamic color and enhanced accessibility, to foundations for large screen layouts and design tokens.nclud
+
+   ![DesignSystems](./DesignSystems.jpg "DesignSystems")
 </details>
 
 

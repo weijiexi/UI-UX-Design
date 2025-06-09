@@ -7,6 +7,8 @@
     - Black-and-white or grayscale.
     - Placeholder text and simple shapes (boxes for images, lines for text).
 
+ ![wireframs](./Wireframes.jpg "wireframs")
+
 ### Feedback
 Getting feedback throughout the design process is a great way to help find potential issues. Finding these issues earlier in the process can make the whole project be more efficient and better for users in the long run.
 
@@ -21,9 +23,13 @@ You need to be the one that gets others to give constructive feedback. Be as cle
     - Full-color designs with branding, fonts, and UI elements.
     - Non-interactive (static).
 
+ ![Mockups](./Mockups.jpg "Mockups")
+
 ### Prototypes
 - Definition: A prototype is an interactive model of a design that simulates user interactions and functionality.
     - Test user flows and interactions.
     - Gather feedback on usability and functionality.
     - Clickable links, hover states, animations, and dynamic elements.
     - Simulates the final product’s user experience.
+
+ ![Prototypes](./Prototypes.jpg "Prototypes")
