@@ -12,7 +12,7 @@
     - Proportional Systems
     - Designing Brand Identity
     - Web Usability
-    - UI design for AI driven experiences
+    - UI/UX design for AI driven experiences
     - Modern Art Movements Influence Graphic Design
 - UI/UX Design
     - Getting Started

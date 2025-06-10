@@ -1,5 +1,5 @@
-## UI/UX Design for AI Products — Stanford Online
-
+<details>
+  <summary>UI/UX Design for AI Products — Stanford Online</summary>
 ### Instructor: Michael Bernstein, Ph.D.
 Associate Professor of Computer Science, Stanford University  
 Research focus: Human-computer interaction, social computing systems
@@ -117,11 +117,10 @@ By the end of this course, you will be able to:
 ## 🔗 Learn More
 - [Request Info / Register](https://programs.stanfordonline.global-alumni.com/ai-ux-design-essentials)
 *Stanford Online reserves the right to modify course contents.*
+</details>
 
----
-
-## Is the Stanford Online Course Too Difficult for Artists? A Guide for UI/UX Designers Transitioning from Art
-
+<details>
+  <summary>Is the Stanford Online Course Too Difficult for Artists? A Guide for UI/UX Designers Transitioning from Art</summary>
 This README is for visual designers and artists (like Weijie!) exploring whether the **Stanford Online: UI/UX Design for AI Products** course is a good fit — especially if they’re coming from a non-technical background.
 
 ## Short Answer
@@ -185,10 +184,10 @@ Your artistic strengths in:
 > "You don’t need to be an engineer to design for AI. You just need empathy, systems thinking, and curiosity about how people and machines interact."
 
 The course is structured, thoughtful, and perfect for designers evolving with the future of human-AI interaction.
+</details>
 
----
-
-## Will the Stanford UI/UX Design for AI Products Certificate Help with Getting a Job?
+<details>
+  <summary>Will the Stanford UI/UX Design for AI Products Certificate Help with Getting a Job?</summary>
 
 If you're wondering whether the certificate from the **Stanford Online: UI/UX Design for AI Products** course will help you in your job search — here's a clear breakdown.
 
@@ -238,10 +237,10 @@ Include the certificate on:
 - Portfolio site (in About or CV section)
 
 > Combine the certificate with **at least one strong AI UX case study** and you’ll stand out from most applicants — especially in the next 2–3 years as AI transforms product design.
+</details>
 
----
-
-## Does the Stanford UI/UX Design for AI Products Course Cover UI Design?
+<details>
+  <summary>Does the Stanford UI/UX Design for AI Products Course Cover UI Design?</summary>
 
 If you're coming from a visual design or UI design background, it's important to understand how much this course focuses on **UX vs. UI**, and whether it’s still valuable for you.
 
@@ -295,10 +294,10 @@ To get the most out of the course as a UI designer:
 - Pair it with UI design tutorials if you want both UX + UI polish
 
 > Think of this course as helping you design **how AI should behave**, not just how it should look.
+</details>
 
----
-
-## Will I Become a UX Designer for AI Products?
+<details>
+  <summary>Will I Become a UX Designer for AI Products?</summary>
 
 Yes — with your background, motivation, and creative skill set, **you are well-positioned to become a successful UX designer working on AI products**.
 
@@ -337,3 +336,66 @@ That means:
 You don’t have to become a data scientist — you just have to be a thoughtful, curious, and empathetic designer. Which you already are.
 
 **Yes, you can become a UX designer for AI products. And you’re on the right track.**
+</details>
+
+<details>
+  <summary>UX Design vs. UX Design for AI Products</summary>
+
+This guide outlines the key differences between **standard UX design** and **UX design for AI-driven products**, especially helpful if you're transitioning into AI-integrated design.
+
+
+### Core Difference
+
+| UX Design                             | UX Design for AI Products                                  |
+|--------------------------------------|-------------------------------------------------------------|
+| Focuses on user flows, usability, and interface clarity     | Adds complexity of **predictive, adaptive, and uncertain AI behavior** |
+| Behavior is **deterministic** — user actions = expected results | Behavior is **probabilistic** — AI decisions may vary, require explanation |
+| Emphasis on **user control, clarity, and minimal friction** | Must **balance control with automation**, trust with transparency |
+| Predictable systems (e.g. booking forms, shopping carts) | **Learning systems** (e.g. recommendation engines, chatbots, LLMs) |
+
+
+### Key Differences in Practice
+
+**User Trust**
+- UX: Built through interface clarity and reliability  
+- AI UX: Built by showing how AI "thinks" and giving users oversight
+
+**Explainability**
+- AI UX must explain *why* decisions were made (e.g. “You got this suggestion because…”)
+
+**Error Handling**
+- UX: Prevent errors through tight control  
+- AI UX: Accept errors will happen — provide helpful feedback loops and override options
+
+**Prototyping**
+- UX: Wireframes and flows  
+- AI UX: Includes **Wizard of Oz** methods, LLM simulation, voice/chat interactions
+
+**Ethics**
+- UX: Accessibility, inclusion, usability  
+- AI UX: Adds fairness, bias mitigation, privacy concerns, and autonomy
+
+### Summary Table
+
+| Category                | UX Design                        | UX Design for AI Products                             |
+|-------------------------|----------------------------------|--------------------------------------------------------|
+| System behavior         | Predictable                      | Probabilistic, adaptive                                |
+| Trust building          | Interface feedback               | Explainability, transparency                          |
+| User control            | Clear flows                      | Balance of automation and manual input                |
+| Testing techniques      | Heuristic, usability             | Prototyping AI behavior, simulating agents            |
+| Error management        | Prevention-focused               | Embrace, expose, and mitigate AI errors               |
+| Ethical considerations  | Inclusion                        | Bias, fairness, algorithmic impact                    |
+
+
+### Why It Matters
+
+> AI UX is UX — but with new rules.
+
+As AI becomes more central to software, designers must evolve to:
+- Handle **uncertainty**
+- Communicate AI behavior
+- Design for **trust and control**
+- Think ethically and systemically
+
+Your visual and interaction design skills remain core — but with new dimensions of responsibility and creativity.
+</details>
