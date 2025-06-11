@@ -3,7 +3,7 @@
 - Resources
 - Git & Github
 - Figma Skill
-- Graphic Design
+- **Graphic Design**
     - The Design Process
     - Core Foundations of Graphic Design
     - Formal Elements & Principles of Graphic Design
@@ -14,7 +14,7 @@
     - Web Usability
     - UI/UX design for AI driven experiences
     - Modern Art Movements Influence Graphic Design
-- UI/UX Design
+- **UI/UX Design**
     - Getting Started
         - Sketching
         - User Flows
@@ -33,3 +33,6 @@
         - Design Patterns
         - Visual design
         - Design Systems
+    - Motion Design
+    - **UI/UX design for AI driven experiences**
+        - UX design for AI products

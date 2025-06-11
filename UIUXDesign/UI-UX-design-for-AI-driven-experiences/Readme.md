@@ -1,6 +1,6 @@
 # UI design for AI driven experiences
 
-## AI Tools and AI Agents — Useful Websites
+- ## AI Tools and AI Agents — Useful Websites
 
 <details>
   <summary>General Language Models & Copywriting</summary>
@@ -112,3 +112,5 @@
 - [CrewAI](https://docs.crewai.io) - AI agents that can collaborate as teams with defined roles and memory
 
 </details>
+
+- ## UX design for AI products
