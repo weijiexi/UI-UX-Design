@@ -196,6 +196,8 @@ Remember: **Animation is more art than science** — always **test with real use
 <details>
   <summary>Easing</summary>
 
+- [Easing Functions](https://easings.net/en)
+
 ### What is Easing?
 **Easing** defines the *timing and rhythm* of motion in animations.
 Instead of moving at a constant speed, an easing function lets the animation start slowly, speed up, then slow down again — creating smoother, more natural movement.
