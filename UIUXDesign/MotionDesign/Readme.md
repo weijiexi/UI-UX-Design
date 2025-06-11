@@ -192,3 +192,74 @@ UI animation should reflect the physical world: friction, acceleration, etc.
 
 Remember: **Animation is more art than science** — always **test with real users**
 </details>
+
+<details>
+  <summary>Easing</summary>
+
+### What is Easing?
+**Easing** defines the *timing and rhythm* of motion in animations.
+Instead of moving at a constant speed, an easing function lets the animation start slowly, speed up, then slow down again — creating smoother, more natural movement.
+
+Easing functions specify the **rate of change** of a parameter over time. Real-world objects don’t start or stop instantly. For example:
+- When you open a drawer, you pull it quickly at first, then slow down near the end.
+- Drop something and it falls faster over time, then bounces on impact.
+
+### Why Use Easing?
+Easing makes transitions more **natural** and **visually pleasing**.
+It affects the *speed and smoothness* of the animation.
+Without easing (i.e., linear motion), movement can feel robotic or jarring.
+
+Proper easing makes interfaces more intuitive and engaging.
+For example:
+- A button that eases when clicked feels more responsive and intentional.
+- A dropdown menu that eases open feels smoother and less abrupt.
+
+### Common Types of Easing
+
+#### Linear
+- Moves at a constant speed.
+- No easing applied.
+- Simple, but often unnatural.
+
+#### Ease-In
+- Starts slowly and accelerates.
+- Creates a sense of momentum.
+- Good for simulating objects gaining speed.
+
+#### Ease-Out
+- Starts quickly and slows down at the end.
+- Gives the impression of approaching a stop.
+- Common in elements that settle into place.
+
+#### Ease-In-Out
+- Slow start, speeds up in the middle, then slows down again.
+- Smooth, balanced motion.
+- Great for natural transitions.
+
+#### Bounce
+- Ends with a bounce, like an object dropping and rebounding.
+- Adds fun and playful energy.
+
+#### Elastic
+- Overshoots slightly, then springs back.
+- Mimics spring-like behavior.
+- Useful for energetic or surprising animations.
+
+#### Cubic Bezier
+- Custom easing curves.
+- Designers can precisely control timing and pacing.
+- Define curves that best match your desired motion.
+
+### Summary
+Use easing to make your UI/UX animations:
+- More **natural** and less mechanical
+- More **engaging** and responsive
+- Visually **appealing** and emotionally expressive
+
+**Tip:** Choose the right easing style based on the emotion and interaction you want to convey.
+
+### Resources
+- [Easing Functions Explained (CSS Tricks)](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
+- [Cubic Bezier Visualizer](https://cubic-bezier.com)
+- [Framer Motion Easing Docs](https://www.framer.com/motion/easing/)
+
