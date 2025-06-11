@@ -193,75 +193,48 @@ UI animation should reflect the physical world: friction, acceleration, etc.
 Remember: **Animation is more art than science** — always **test with real users**
 </details>
 
+- [12 Principles of Motion Design](https://app.uxcel.com/lessons/principles-of-ux-in-motion-959)
+
 <details>
-  <summary>Easing</summary>
+  <summary>The Motion Design Process</summary>
 
-- [Easing Functions](https://easings.net/en)
+The motion design process involves several key steps that help ensure the final product is not only visually appealing but also effective in communicating the desired message.
 
-### What is Easing?
-**Easing** defines the *timing and rhythm* of motion in animations.
-Instead of moving at a constant speed, an easing function lets the animation start slowly, speed up, then slow down again — creating smoother, more natural movement.
+### Step 1: Discovery and Research
 
-Easing functions specify the **rate of change** of a parameter over time. Real-world objects don’t start or stop instantly. For example:
-- When you open a drawer, you pull it quickly at first, then slow down near the end.
-- Drop something and it falls faster over time, then bounces on impact.
+This initial phase is all about understanding the project’s goals, the target audience, and the context in which the motion design will be used.
+- **Understanding the Objectives**: Identify the purpose of the motion design (e.g., product demo, brand promotion, UI animation).
+- **Audience Analysis**: Research the target audience to understand their preferences and behaviors.
+- **Competitive Analysis**: Study what competitors are doing to find inspiration and identify ways to stand out.
+- **Moodboards and Inspiration**: Collect visual references, color schemes, and animation styles to set the visual tone.
 
-### Why Use Easing?
-Easing makes transitions more **natural** and **visually pleasing**.
-It affects the *speed and smoothness* of the animation.
-Without easing (i.e., linear motion), movement can feel robotic or jarring.
+### Step 2: Design and Storyboard
 
-Proper easing makes interfaces more intuitive and engaging.
-For example:
-- A button that eases when clicked feels more responsive and intentional.
-- A dropdown menu that eases open feels smoother and less abrupt.
+Once research is complete, begin designing and creating storyboards.
+- **Concept Development**: Create a concept that aligns with the project's goals.
+- **Storyboarding**: Illustrate the animation sequence using visual frames to show timing and flow.
+- **Designing Key Frames**: Create the major scenes or transition visuals that guide the animation.
+- **Client Feedback**: Share the storyboard and key frames with stakeholders to align before animation.
 
-### Common Types of Easing
+### Step 3: Prototype
 
-#### Linear
-- Moves at a constant speed.
-- No easing applied.
-- Simple, but often unnatural.
+After design approval, start creating an animated prototype.
+- **Animation**: Animate key frames with transitions and effects.
+- **Interactivity (if needed)**: Add interaction to showcase user engagement (for UI/UX).
+- **Tools and Software**: Use tools like After Effects, Adobe Animate, CSS, or JavaScript.
+- **Refinement**: Iterate to fine-tune timing, pacing, and flow.
 
-#### Ease-In
-- Starts slowly and accelerates.
-- Creates a sense of momentum.
-- Good for simulating objects gaining speed.
+### Step 4: Testing
 
-#### Ease-Out
-- Starts quickly and slows down at the end.
-- Gives the impression of approaching a stop.
-- Common in elements that settle into place.
+Ensure the prototype functions effectively and delivers the intended experience.
+- **User Testing**: Test usability and user understanding, especially for UI animations.
+- **Performance Testing**: Ensure smooth animation on various devices/platforms.
+- **Client Review and Feedback**: Gather final input from stakeholders.
+- **Final Adjustments**: Make last tweaks like timing fixes or sound effects.
 
-#### Ease-In-Out
-- Slow start, speeds up in the middle, then slows down again.
-- Smooth, balanced motion.
-- Great for natural transitions.
+### Conclusion
 
-#### Bounce
-- Ends with a bounce, like an object dropping and rebounding.
-- Adds fun and playful energy.
+With testing and final adjustments complete, the motion design is ready for launch. Whether implemented in a website, app, or video, this structured process ensures the motion design is visually polished, functional, and impactful.
 
-#### Elastic
-- Overshoots slightly, then springs back.
-- Mimics spring-like behavior.
-- Useful for energetic or surprising animations.
-
-#### Cubic Bezier
-- Custom easing curves.
-- Designers can precisely control timing and pacing.
-- Define curves that best match your desired motion.
-
-### Summary
-Use easing to make your UI/UX animations:
-- More **natural** and less mechanical
-- More **engaging** and responsive
-- Visually **appealing** and emotionally expressive
-
-**Tip:** Choose the right easing style based on the emotion and interaction you want to convey.
-
-### Resources
-- [Easing Functions Explained (CSS Tricks)](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
-- [Cubic Bezier Visualizer](https://cubic-bezier.com)
-- [Framer Motion Easing Docs](https://www.framer.com/motion/easing/)
-
+The steps of discovery, design, prototyping, and testing guarantee both aesthetic quality and communication effectiveness.
+</details>
