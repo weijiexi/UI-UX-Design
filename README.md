@@ -1,7 +1,6 @@
 # UI/UX Design
-[Complete UI/UX Product Design Bootcamp: Zero to Mastery](https://academy.zerotomastery.io/courses/enrolled/1073485)
-[UI/UX Design for AI Products](https://programs.stanfordonline.global-alumni.com/enrollments)
-
+- [Complete UI/UX Product Design Bootcamp: Zero to Mastery](https://academy.zerotomastery.io/courses/enrolled/1073485)
+- [UI/UX Design for AI Products](https://programs.stanfordonline.global-alumni.com/enrollments)
 - Resources
 - Git & Github
 - Figma Skill
