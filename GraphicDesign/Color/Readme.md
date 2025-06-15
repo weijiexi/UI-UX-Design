@@ -160,6 +160,8 @@ Purple and yellow are complementary colors, sitting opposite each other on the c
 > - Balanced between head and heart
 
 Use this pairing when you want your work to **stand out**, **feel alive**, and **evoke both emotion and clarity**.
+
+![Color](./imags/color-8.jpg "Color")
 </details>
 
 --- 
