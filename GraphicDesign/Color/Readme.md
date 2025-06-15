@@ -3,16 +3,22 @@
 - ## Primary colors
 
 ![Color](./imags/color-5.jpg "Color")
----
 
 - ## Secondary colors
 
 ![Color](./imags/color-4.jpg "Color")
----
 
 - ## Tertiary colors
 
 ![Color](./imags/color-3.jpg "Color")
+
+- ## Analogous Naturals colors
+
+![Color](./imags/color-6.jpg "Color")
+
+- ## Near opposites colors/Complements
+
+![Color](./imags/color-7.jpg "Color")
 
 <details>
 <summary>Red + Green</summary>
@@ -164,12 +170,76 @@ Use this pairing when you want your work to **stand out**, **feel alive**, and *
 ![Color](./imags/color-8.jpg "Color")
 </details>
 
---- 
 
-- ## Analogous colors
+- ## Monochrome
 
-![Color](./imags/color-6.jpg "Color")
 
-- ## Near opposites colors
+- ## Black + One
 
-![Color](./imags/color-7.jpg "Color")
+<details>
+  <summary>Why Designers Use Black + One Color in Visual Design & Art?</summary>
+
+**A minimal color palette** of black + one color is a timeless and intentional choice in graphic design and art. Here’s why this aesthetic remains powerful and widely used:
+
+### 1. Clarity and Focus
+
+- Reduces visual noise
+- Highlights important elements (calls to action, logos, focal points)
+- The single accent color acts as a **visual guide** across a composition
+
+
+### 2. Emotional and Conceptual Impact
+
+- Black is **neutral, elegant, and strong** — a visual anchor
+- A single color carries **emotional weight** (e.g. red = passion, blue = calm, yellow = energy)
+- Combining both creates strong **conceptual meaning** with minimal tools
+
+
+### 3. Modern and Timeless Aesthetic
+
+- Used in Swiss, Dutch, and Modernist design for its **clarity and objectivity**
+- Often feels **sophisticated and confident**
+- Associated with **editorial design, tech branding, minimalist posters**
+
+
+### 4. Visual Hierarchy and Composition
+
+- Black creates contrast and structure
+- The accent color provides emphasis or rhythm
+- Helps define hierarchy without overusing gradients or color noise
+
+
+### 5. Versatility in Mediums
+
+- Works across print, digital, motion, and branding
+- Easy to translate to black-and-white media (e.g., print, screens, prototyping)
+- Accessible and scalable in design systems
+
+
+### Examples of This Approach
+
+| Color Used | Emotional Association | Common Use |
+|------------|------------------------|------------|
+| Black + Red | Urgency, strength     | Tech, fashion, activism |
+| Black + Blue | Trust, clarity       | Corporate, software |
+| Black + Yellow | Energy, innovation | Posters, art, culture |
+| Black + Neon | Futuristic, edgy     | Web3, AI, digital art |
+
+
+### Summary
+
+Using **black + one color** is a powerful constraint that leads to bold, clear, and emotional design.
+
+> “With fewer tools, your voice becomes sharper.”
+
+It's not just a visual choice — it's a **conceptual discipline**.
+
+![Color](./imags/color-9.jpg "Color")
+![Color](./imags/color-10.jpg "Color")
+![Color](./imags/color-11.jpg "Color")
+</details>
+
+
+- ## Black + Two
+
+- ## Neutral earth tones
