@@ -173,6 +173,14 @@ Use this pairing when you want your work to **stand out**, **feel alive**, and *
 
 - ## Monochrome
 
+<details>
+  <summary>	 </summary>
+  
+![Color](./imags/color-12.jpg "Color")
+![Color](./imags/color-13.jpg "Color")
+![Color](./imags/color-14.jpg "Color")
+</details>
+
 
 - ## Black + One
 
