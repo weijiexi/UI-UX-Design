@@ -6,7 +6,6 @@
 - [Fonts in use](https://fontsinuse.com/)
 - [Free Fonts](https://www.awwwards.com/awwwards/collections/free-fonts/)
 - [monotypefonts](https://www.monotypefonts.com/)
-- []
 
 <details>
   <summary>Type Measurement</summary>
@@ -134,14 +133,14 @@ at what size you use it. Everyone can look at type and design with
 it but it takes a real craftsperson to look at the negative space and
 define the true relationship within the typography. Whether it’s
 loose or tight, it has to be consistent and pleasurable, and it’s right
-there, you just have to shift your attention.
-                                             — Armin Vit
-                                             UnderConsideration LLC
+there, you just have to shift your attention.  
+
 </details>
  
 
 <details>
   <summary>Voice and Branding </summary>
+
 - Make sure the typeface selection is appropriate for the brand or entity.
 - Typeface selection can help differentiate a brand. (Caution:
 Typefaces selected for a brand or group’s identity may
