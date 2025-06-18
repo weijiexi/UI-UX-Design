@@ -1,5 +1,6 @@
 # UX design for AI products
 - [UI/UX Design for AI Products](https://programs.stanfordonline.global-alumni.com/enrollments)
+- [course canvs](https://stanfordonline.global-alumni.com/courses/13217?invitation=GR7oTX7SveLmRbh1Hnir6bfYyPvRSetk2Ow1yibG)
 
 <details>
   <summary>Portfolio Planning: Brand Visual & UI/UX Design with AI Integration</summary>
