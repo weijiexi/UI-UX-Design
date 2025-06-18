@@ -5,6 +5,8 @@
 - [Pangram Pangram Foundry](https://pangrampangram.com/)
 - [Fonts in use](https://fontsinuse.com/)
 - [Free Fonts](https://www.awwwards.com/awwwards/collections/free-fonts/)
+- [monotypefonts](https://www.monotypefonts.com/)
+- []
 
 <details>
   <summary>Type Measurement</summary>
