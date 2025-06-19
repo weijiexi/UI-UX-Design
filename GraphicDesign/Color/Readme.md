@@ -595,4 +595,63 @@ It's not just a visual choice — it's a **conceptual discipline**.
 
 - ## Black + Two
 
+<details>
+  <summary>Why Choose Black + Two Colors in Design & Art？</summary>
+
+Using **Black + Two Accent Colors** is a timeless and strategic approach in both graphic design and art. This color strategy balances **clarity**, **emotional impact**, and **visual hierarchy**. Here’s why it works so well:
+
+
+### 1. Focus & Clarity
+- Black acts as a strong neutral background or anchor.
+- Limiting the palette to just two colors **reduces noise** and enhances legibility.
+- Creates a **focused visual hierarchy** that guides the viewer’s eye.
+
+
+### 2. Emotional Precision
+- Each accent color can carry **specific emotional or cultural meanings**.
+- The limited palette makes emotional messaging more **intentional and powerful**.
+- Black adds **seriousness**, **elegance**, or **mystery**, depending on the tone.
+
+
+### 3. Visual Identity
+- Great for **branding**: consistent use of two signature colors + black creates **recognizability**.
+- Simplifies cross-medium applications: works well in print, web, motion, and packaging.
+
+
+### 4. Contrast & Legibility
+- Black offers **high contrast** with most hues.
+- Two accent colors give enough flexibility to define foreground/background, UI states, etc.
+
+
+### 5. Artistic Expression
+- The constraint forces creativity—leading to **minimal yet expressive compositions**.
+- Common in styles like **Constructivism**, **Swiss Design**, and **Neo-Minimalism**.
+- Useful in **lyrical abstraction**: two expressive tones can evoke rhythm and motion against the black.
+
+
+### When to Use
+- Branding systems
+- Editorial layouts
+- UI design
+- Poster and motion graphics
+- Data visualization (limited color encoding)
+
+
+## 📌 Tips for Selecting the Two Colors
+| Intent        | Pairing Example        |
+|---------------|------------------------|
+| Energetic     | Magenta + Cyan         |
+| Calm          | Teal + Soft Yellow     |
+| Bold/Modern   | Red + White            |
+| Futuristic    | Neon Green + Purple    |
+
+
+### Summary
+Choosing **Black + Two Colors** is not a limitation—it’s a **design discipline** that fosters clarity, emotional depth, and memorable visual identity.
+
+![Color](./imags/color-20.jpg "Color")
+</details>
+
 - ## Neutral earth tones
+
+- ## Gray tones
