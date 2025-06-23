@@ -128,7 +128,7 @@ In auto layout frames, the auto layout settings primarily manage the arrangement
     - Keep margins of **at least 16px–24px** on mobile, 60px–120px on desktop.
 </details>
 
-## Figma AI 
+## Figma Dev Mode
 
 ### Figma MCP
 
