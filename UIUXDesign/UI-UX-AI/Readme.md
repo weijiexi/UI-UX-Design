@@ -1,4 +1,4 @@
-# UI design for AI driven experiences
+# UI/UX design for AI driven experiences
 
 - ## AI Tools and AI Agents — Useful Websites
 

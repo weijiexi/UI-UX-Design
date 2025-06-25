@@ -462,13 +462,15 @@ the text disappear.
   #### The designer must determine what to emphasize and what to de-emphasize. if you give emphasis to all elements in a design, you have given it to none of them; you end up with visual chaos. 
   #### Emphasis is directly related to establishing a point of focus.
   ```The focal point``` is the part of a design that is most emphasized or accentuated, where the green chair is the focal point. ```Position, size, shape, direction, hue, value, saturation, and texture of a graphic element``` all contribute to establishing a focal point.
-              ![focalPoint](./imags/focalPoint.jpg "focalPoint") ![Hierarchy](./imags/Hierarchy-5.jpg "Hierarchy")
+              ![focalPoint](./imags/focalPoint.jpg "focalPoint") ![Hierarchy](./imags/Hierarchy-5.jpg "Hierarchy") ![Hierarchy](./imags/Hierarchy-20.jpg "Hierarchy") 
 
 - ```Content Vacuum``` In this project the designer purposefully abstracted the content of newspaper pages, thereby drawing attention to the visual hierarchy. 
 
     ![Hierarchy](./imags/Hierarchy-1.jpg "Hierarchy")  ![Hierarchy](./imags/Hierarchy-2.jpg "Hierarchy")
 
     ![Hierarchy](./imags/Hierarchy-3.jpg "Hierarchy")  ![Hierarchy](./imags/Hierarchy-4.jpg "Hierarchy")
+
+    
 
 - ```Five Fonts``` In this twist on the classic type specimen book,
 designers curate a collection of five typefaces and design a
