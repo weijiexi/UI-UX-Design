@@ -27,8 +27,7 @@
 | **Hide tool**                  | `⌘ + \`                | 
 | **Hide grid**                  | `Shift + G`            | 
 
-<details>
-  <summary>AI-Specific Workflow Tips</summary>
+**AI-Specific Workflow Tips**
 
 | Task                        | Shortcut or Plugin Usage         |
 |-----------------------------|----------------------------------|
@@ -38,10 +37,10 @@
 | Generate UX copy            | Use AI plugins like **Jasper** or **Magician** |
 | Simulate AI interactions    | Install and configure **Figma MCP** plugin |
 
-**Pro Tip**
-
+**Pro Tip**:
 Use `⌘ + /` to **quick-launch plugins, layers, assets**, and AI tools in seconds!
-</details>
+
+---
 
 ## The Basics of Figma
 
@@ -129,13 +128,18 @@ In auto layout frames, the auto layout settings primarily manage the arrangement
 </details>
 
 ## Figma Dev Mode
+Dev Mode built for developers and gives you the power **to easily inspect designs and translate them into code**—without changing the design file. 
+- [Figma Dev Mode](https://www.figma.com/dev-mode/)
 
 ### Figma MCP
+
+Unlock design-informed code generation through MCP
+
 
 <details>
   <summary>What is Figma MCP?</summary>
 
-Figma MCP refers to Figma's Dev Mode MCP server, which brings Figma directly into the developer workflow to help LLMs achieve design-informed code generation Here's what it is:
+Figma MCP refers to Figma's Dev Mode MCP server, which brings Figma directly into the developer workflow to help LLMs achieve design-informed code generation.
 
 ### What is MCP?
 MCP stands for Model Context Protocol, a standard for how applications provide context to LLMs. It's an open source standard for how AI-powered systems can connect to software applications, tools, and platforms.
