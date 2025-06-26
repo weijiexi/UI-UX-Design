@@ -40,6 +40,7 @@
   - [Pika](https://pika.art/login) - an AI-powered video generation platform developed by Pika Labs, enabling users to transform text prompts and images into dynamic, short-form videos
   - [Khroma](https://www.khroma.co/) - an AI-powered color tool designed to assist designers in discovering, generating, and saving personalized color palettes
   - [Openart](https://openart.ai/home) - a versatile AI-powered art platform designed to transform your creative ideas into stunning visual artworks
+  - [lovable.dev](https://lovable.dev/) | Create apps and websites by chatting with AI
 </details>
 
 <details>
@@ -50,6 +51,7 @@
   - [Gradio](https://gradio.app) | Python tool to quickly build and share AI apps
   - [Replicate](https://replicate.com) | Run open-source machine learning models in the cloud
   - [OpenAI Platform](https://platform.openai.com) | API platform for GPT-4, DALL·E, Whisper, and tools
+  
 
 </details>
 

@@ -139,7 +139,7 @@ Unlock design-informed code generation through MCP
 <details>
   <summary>What is Figma MCP?</summary>
 
-Figma MCP refers to Figma's Dev Mode MCP server, which brings Figma directly into the developer workflow to help LLMs achieve design-informed code generation.
+Figma MCP refers to Figma's Dev Mode MCP server, which brings Figma directly into the developer workflow to help LLMs **achieve design-informed code generation**.
 
 ### What is MCP?
 MCP stands for Model Context Protocol, a standard for how applications provide context to LLMs. It's an open source standard for how AI-powered systems can connect to software applications, tools, and platforms.
@@ -149,7 +149,7 @@ The Dev Mode MCP server allows developers to bring context from Figma into agent
 
 ### Key Benefits:
 
-- **Design-to-Code Workflows**: Whether it's creating new atomic components with the proper variables and stylings or building out multi-layer application flows, the server provides a more efficient and accurate design-to-code workflow.
+- **Design-to-Code Workflows**: Whether it's creating new atomic components with the proper variables and stylings or building out multi-layer application flows, **the server provides a more efficient and accurate design-to-code workflow**.
 - **Better Context**: By providing references to specific variables, components, and styles, the Dev Mode MCP server can make generated code more precise, efficient, and reduce LLM token usage.
 - **Direct API Access**: Instead of AI tools guessing from screenshots, they get actual design data including components, styles, and layout information
 
