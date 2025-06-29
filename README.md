@@ -82,7 +82,7 @@ You’re transitioning into UI/UX design with:
 
 ---
 
-## 🔍 Focus Tracks (Optional, After Q2)
+##  Focus Tracks (Optional, After Q2)
 
 Pick one depending on what inspires you most:
 
@@ -92,7 +92,7 @@ Pick one depending on what inspires you most:
 - Learn Webflow or refine React skills
 - Focus on visual polish and production-ready handoff
 
-### 🤖 Path 2: UX + AI Interaction Designer
+###  Path 2: UX + AI Interaction Designer
 
 - Explore prompt design, generative AI, and human-AI interfaces
 - Develop speculative design or narrative-driven interactive tools
@@ -111,72 +111,10 @@ Weijie, you’re not starting from scratch — you’re **starting from experien
 - One strong, clear project at a time
 - One focused skill at a time
 - One confident identity as a digital designer
+
 </details>
 
-
-<details>
-  <summary>Portfolio Strategy</summary>
-
-## Goal
-
-Build a strong, focused portfolio that shows you can:
-- Design usable, elegant AI interfaces
-- Apply visual polish and component systems
-- Think like a product designer with system-level reasoning
-- Work in real teams (even small/startup ones)
-
-## Portfolio Positioning
-
-> “I'm a UI/UX designer who blends visual storytelling with system design — currently focused on AI-powered products that help people learn, create, or connect.”
-
 ---
-
-## Project Plan (3–4 Strong Case Studies)
-
-### 1. AI-Powered Product UX Case Study (Startup Style)
-- **Example**: “AI Study Buddy” – smart note-taking + productivity tool
-- **Focus**: clean user flows, modular UI system, AI integration UX
-
-### 2. Visual Design System + Brand Project
-- **Example**: “4G Design System” + fictional AI brand
-- **Focus**: color, typography, responsive layout, tokens, UI components
-
-### 3. Creative AI + Art Concept (Optional but Powerful)
-- **Example**: Speculative design interface for AI × art co-creation
-- **Focus**: storytelling, interaction flow, conceptual creativity
-
-### 4. Real-World/Client Redesign
-- **Example**: Redesign for a small business or simple AI tool
-- **Focus**: accessibility, usability improvements, dev handoff
-
----
-
-## Case Study Structure (Google-Friendly)
-
-Each project should include:
-1. **The problem** – real UX or business challenge
-2. **Your process** – research, sketches, iterations
-3. **Design systems** – decisions, consistency, scalability
-4. **Outcomes** – screens, prototypes, dev-ready files, lessons learned
-
----
-
-## Roadmap (July–October 2025)
-
-| Month     | Focus Area                                   |
-|-----------|----------------------------------------------|
-| July      | Finish AI UX project + write case study      |
-| August    | Build 4G Design System + brand project        |
-| September | Complete real-world redesign case study      |
-| October   | Launch portfolio site + polish + publish     |
-
----
-
-## Final Note
-
-This portfolio plan bridges Weijie’s experience in visual design and digital art with her transition into real-world UI/UX work. It’s crafted to attract roles in small AI product teams while staying aligned with long-term goals like working at Google.
-</details>
-
 
 - Resources
 - Git & Github
