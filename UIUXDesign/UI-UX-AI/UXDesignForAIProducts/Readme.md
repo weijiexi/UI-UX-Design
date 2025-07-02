@@ -1,5 +1,6 @@
 # UX design for AI products
 - [UI/UX Design for AI Products course canvs](https://stanfordonline.global-alumni.com/courses/13217?invitation=GR7oTX7SveLmRbh1Hnir6bfYyPvRSetk2Ow1yibG)
+- [Capstone preject examples](https://drive.google.com/file/d/18blPaiaUHLfXR9cEv52ou8IIgCAa_77A/view?usp=sharing)
 
 By the end of the course, you will be able to:
 
