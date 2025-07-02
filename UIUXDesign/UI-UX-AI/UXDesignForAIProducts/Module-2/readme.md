@@ -1,1 +1,1 @@
-# Module 2. Prototyping AI Designs
+## Module 2: Prototyping AI Designs
