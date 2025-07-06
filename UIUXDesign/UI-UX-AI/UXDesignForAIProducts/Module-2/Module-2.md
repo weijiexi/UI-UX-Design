@@ -1,7 +1,18 @@
 ## Module 2: Prototyping AI Designs
 
-- **Prototyping** is the activity of creating rapid approxim Prototyping lies at the heart of innovation, involving the quick building of rough versions of ideas to gather internal and external feedback. This iterative process fuels creativity, collaboration, and design, bridging the gap between conceptualization and realization. Prototyping is fundamentally about rapidly approximating your ideas to facilitate iteration. 
-- Beyond visualization, prototyping explores the design's functionality and target audience, fostering a deeper understanding to ensure the final product resonates with users.
+- **Prototyping** is the activity of creating rapid approxim Prototyping lies at the heart of innovation, involving the **quick building of rough versions of ideas** to **gather internal and external feedback**. This iterative process fuels creativity, collaboration, and design, bridging the gap between conceptualization and realization. Prototyping is fundamentally about rapidly approximating your ideas to facilitate iteration. 
+- Beyond visualization, **prototyping explores the design's functionality and target audience**, fostering a deeper understanding to ensure the final product resonates with users.
+---
+- Prototyping is actually a quick and low-cost way to simulate and test your ideas and designs during product development.
+- AI prototyping is about using artificial intelligence technology to see how AI can help improve user experience and interaction during product design and testing.
+- If you are designing an AI-driven chatbot application, you can first use a large language model (such as a model like GPT) to create a preliminary prototype.
+- Then you can let some users experience the prototype and collect their feedback to see if the questions answered by AI meet the requirements.
+- You can continuously adjust and optimize the model based on user feedback to make its answers more in line with user needs. After repeated iterations, your AI product will be more and more in line with the original design intention and more able to meet user expectations.
+- This prototype can be presented in many ways, for example, it can be a simple interactive interface that allows users to interact with AI by clicking, entering text or voice.
+- It may also be a very basic model that just runs in the background to let users experience its reactions and results. In short, the purpose of this prototype is to allow users to experience the approximate functions and effects of the product as early as possible, and give feedback so that the design team can continue to improve.
+- Prototype design is actually like an early sketch or prototype. It is mainly used to test and verify the feasibility of ideas, not the final product. So it will be relatively simple, and the focus is on rapid iteration and collecting feedback so that the product can be continuously optimized.
+- You can use Figma to build a simple wireframe diagram to let customers experience the overall process and functions first, without having to invest a lot of energy in designing colors, fonts or other visual elements at the beginning. In this way, customers can focus more on the core functions and interactive experience of the product!
+- In fact, the prototype design method of "The Wizard of Oz" can also be understood as a process of continuous exploration and experimentation in AI products. Just like the protagonists in the story constantly discover new possibilities in their adventures, in AI prototype design, we also make the product more perfect and closer to user needs through continuous trials, testing and adjustments. Therefore, this method is actually a spirit that encourages us to explore and innovate in the design process.
 
 
 <details>
