@@ -74,15 +74,32 @@ VS
   In response to the direct manipulation/agents tradeoff, designers have developed a few patterns that can be used as a strong starting point when designing an AI powered interface:
 
   ## Accelerators
-  **A design pattern that guesses the user's intent and allows users to accept the system's suggestion with a single keypress**. Accelerators are autocomplete systems: they make it faster to complete the task if the AI guesses correctly, but if the system is wrong, the user can simply ignore it and continue their manual execution.
-  - **Google Maps Faster Route Suggestion**
+  - **A design pattern that guesses the user's intent and allows users to accept the system's suggestion with a single keypress**. **Accelerators are autocomplete systems**: they make it faster to complete the task if the AI guesses correctly, but if the system is wrong, the user can simply ignore it and continue their manual execution.
+  - **What Are Accelerators?** In the context of AI and human-computer interaction, accelerators are systems that suggest or predict the next action, word, phrase, or step based on user input. They are common in autocomplete, auto-suggest, and smart reply features.
+   - Google Maps Faster Route Suggestion
+   - Gmail Smart Compose: Predicts the rest of your sentence.
+   - Code editors like GitHub Copilot: Suggest lines or blocks of code.
+   - Design tools: Auto-labeling, layout suggestions, color matching.
+   - E-commerce: Auto-filling shipping info or suggesting frequently bought-together items.
 
   ## Verifiers
-  **The verifier design pattern** doesn't interfere with the user's workflow, except to pause the user if it is confident that they may be making an error: "Did you mean to...".
-  - **IOS Alarm Assistant**
+  - **The verifier design pattern** doesn't interfere with the user's workflow, except to pause the user if it is confident that they may be making an error: "Did you mean to...".
+  - The Verifier is a person, rule, or system that checks, approves, or corrects the AI’s output. This pattern is especially important in domains where AI failure carries high risks—such as healthcare, finance, legal decisions, or content moderation.
+    - IOS Alarm Assistant
+    - Healthcare AI	Human expert signs off on AI diagnosis
+    - AI chatbots	Rule engine checks for offensive language
+    - E-commerce recs	Logic checks for out-of-stock items
+    - Self-driving cars	Human override for unexpected conditions
+    - Document review	AI proposes a summary, legal reviewer edits
 
   ## Design Galleries
-  **The design galleries pattern** generates multiple alternatives and visualizes them simultaneously in a list or table so that the user can choose the one that best suits their needs. 
-  - **Image Generation: MidJourney and DALL-E** 
+  - **The design galleries pattern** generates multiple alternatives and visualizes them simultaneously in a list or table so that the user can choose the one that best suits their needs. 
+  - A Design Gallery displays a set of AI-generated options side by side, giving users the ability to explore a range of alternatives and exercise agency in the final decision.
+  - AI Art Tools (DALL·E, Midjourney)	Show 4–6 generated images per prompt
+  - Logo/Brand Generators	Display multiple variations of a logo or name
+  - Resume Builders	Offer multiple auto-written summary suggestions
+  - Product Design	Auto-layout generators show UI variants or themes
+  - E-commerce AI	Generate multiple outfit or product combinations
+  - Presentation Tools (Beautiful.ai, Gamma)	Suggest design slides in different visual styles
 
 </details>
