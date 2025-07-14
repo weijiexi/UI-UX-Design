@@ -2,12 +2,12 @@
 
  In this module, we will explore one of the main elements that influences this relationship: the tension between **user control** and **automation**. 
 
-- **Accelerators**: AI interfaces that have high certainty on the user goal and either take automatic action or suggest action to the user.  
-- **Design galleries**: Platforms that leverage artificial intelligence to provide a variety of design works for the user to choose from.  
 - **Direct manipulation**: In computer science, it refers to an approach in which humans have direct control over a system’s actions.   
 - **Interface agents**: Programs that proactively complete tasks on behalf of the user, often with the help of artificial intelligence.  
 - **Mixed-initiative interaction**: A specific approach in Human Computer Interaction where both humans and AI-powered systems contribute to decision-making and task completion, - allowing for flexible interaction and shared control over the interaction process.  
-- **Verifiers**: AI interfaces with low certainty on the user goal and opt for a direct manipulation approach from the user.  
+- **Accelerators**: AI interfaces that have high certainty on the user goal and either take automatic action or suggest action to the user. 
+- **Verifiers**: AI interfaces with low certainty on the user goal and opt for a direct manipulation approach from the user.   
+- **Design galleries**: Platforms that leverage artificial intelligence to provide a variety of design works for the user to choose from.  
 
  <details>
   <summary>1. The Great Debate: Agents vs. Direct Manipulation</summary>
