@@ -23,17 +23,17 @@ We will learn how brittle user trust in AI can really be, and how that trust can
 - **How do we design AI systems that project clearly what they can and can't do, so that people retain trust in them?**
 
 nonthreatening AI is trusted better: it's that the AI projected a level of competence and importance that was aligned with the level of trust that doctors were willing to place in the AI.
-
-
 </details>
 
 
 <details>
   <summary>Aiming for Complementarity</summary>
 
-### The Reality: a Wash
-### Algorithm Aversion
-### Overreliance
+- Each modality adds to the insights and knowledge of the other, resulting in well-rounded results with reduced information gaps.
+- The hope is that the AI can help accelerate me or identify my errors, and I can help identify the AI's errors too. 
+- If we play this duet successfully, the final result is better than anything either modality could have produced alone.
+**complementarity can be achieved** , but not everyone achieved complementarity. **It actually had minimal impact on experienced and highly skilled workers**. Why? Well, because the AI had been trained on those experienced workers, so it was just recommending what they would have done anyway!
+- In areas like creative product innovation, ideation, and content creation, approximately 90% of participants using generative AI improved their performance, with an average productivity increase of 40% from those who did not.
 </details>
 
 
