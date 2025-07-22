@@ -72,25 +72,70 @@ Effortful thinking is cognitively costly, and double checking an AI is effortful
   - #### **Raising the Stakes**
   One way to better calibrate over-reliance is to **make sure that the stakes are calibrated appropriately**. **Over-reliance goes down when people view the cost of an error to be higher, or the effort of verifying the AI to be lower**.
   - #### **Explainable AI**
-  "Aha," you might say, "we can mitigate overreliance by asking the AI to explain its reasoning. Surely if the AI explains itself, the user will quickly see through any faulty reasoning." It's a logical claim: we can mitigate overreliance by integrating explainable AI techniques—or "XAI techniques", for those in the know—into the model, allowing the AI to explain its reasoning so people can better scrutinize its results. This means the model would present its thought process and research to explain its suggestions or outputs.
-
-  But, it turns out that explainability techniques can actually backfire. For example, our own research led by Vasconcelos et al. (2023) found that explainability does not necessarily reduce overreliance. One reason is that the explanation is actually still too much work to parse through. Another reason may be that the mere presence of an explanation makes the algorithm sound more authoritative, so people are less likely to question it.
-
-  To effectively scrutinize an explanation, the benefit of doing so must be increased, or the cost (effort required) must be reduced. Vasconcelos et al.’s research supports this, arguing that people strategically decide whether to engage with an AI explanation based on a cost-benefit framework, weighing the costs and benefits of engaging with the task against those of relying on the AI.
-
-  Regardless, explainability techniques can help someone who is carefully paying attention to verify the information. Let's take a tour through the explainability zoo, and see what these techniques typically look and feel like.
-
+  People strategically decide whether to engage with an AI explanation based on a cost-benefit framework, weighing the costs and benefits of engaging with the task against those of relying on the AI. Explainability techniques can help someone who is carefully paying attention to verify the information. 
+  
   ### Explainability Techniques
+
+  #### **Why Do We Need Explainability in AI?**
+  AI sometimes makes strange decisions. To trust it, we want to know why it did what it did. **Explainability techniques try to answer that question in different ways**.
 
   There are a few general approaches to explanation in modern AI models. The image below provides a breakdown of these strategies by categorizing them as:
   - Attention Visualization
   - Question Answering
   - Sentiment Analysis
   - Commonsense Reasoning
-  - Sentiment Analysis
   - Classification
 
   ![Explainability Techniques](1.jpg "Explainability Techniques")
+
+  It is important to identify which one would be most relevant to each type of AI model. Let’s look at some of these strategies shown in Zhao et al.’s paper titled Explainability for Large Language Models: A Survey:
+
+  <details>
+  <summary>Natural Language</summary>
+
+  One technique is to use natural language to provide an explanation, and ask the model to explain using commonsense reasoning as to why it is suggesting a specific answer.
+  #### **(d) Commonsense Reasoning**
+  - Question: While eating a hamburger with friends, what are people trying to do?
+  - Choices: Have fun, tasty, or indigestion
+  - Explanation: Usually a hamburger with friends indicates a good time.
+  </details>
+  
+  <details>
+  <summary>Example-Based</summary>
+
+  Another strategy is to provide examples that explain why the model is providing certain results. These could include counterfactual examples ("what if" scenarios) or so-called adversarial examples that show how minor changes might alter the tone of a sentence. In the example below, the algorithm is explaining a sentiment analysis decision by demonstrating the kinds of perturbations that would have caused the model to change its decision.
+
+  #### **(e) Sentiment Analysis**
+  - Original text: It is great for kids (positive).
+  - Negation examples: It is not great for kids (negative).
+
+  #### **(f) Classification**
+  - Original text: The characters, cast in impossibly contrived situations, are totally estranged from reality (negative).
+  - Perturbed text: The characters, cast in impossibly engineered circumstances, are fully estranged from reality (positive).
+  </details>
+  
+  <details>
+  <summary>Feature Attribution</summary>
+
+  What signals are mattering to the model? Feature attribution strategies aim to highlight the importance of different features or words in the decision of the generative AI model. There are many ways to do this, but one common one are through what are called Shapley values. We can see an example of the visualization of Shapley values of sentiment analysis of the sentence "What a great movie! ...if you have no taste." below:
+
+  ![Explainability Techniques](2.jpg "Explainability Techniques")
+
+  </details>
+  
+  <details>
+  <summary>Attention-Based</summary>
+
+  Attention-based techniques are those that demonstrate how the algorithm works. (The most widespread and performant algorithms underlying large language models use a deep learning architecture that is referred to as "attention".) The graphic below shows an example of how to visualize attention in a large language model.
+
+  ![Explainability Techniques](3.jpg "Explainability Techniques")
+
+  The example shown above depicts attention layers in action. It shows how attention is distributed across different tokens in a sentence pair ("The rabbit quickly hopped" and "The turtle slowly crawled"). The lines represent the connections between words, illustrating how attention layers focus on certain parts of the text.
+
+  This technique is a no-holds-barred, direct visualization of the weights that are connecting attention layers in the underlying language model. Its intent isn't to explain to a lay user, but to visualize the algorithm's raw behavior. Due to its technical nature, this strategy is not ideal for non-technical end users.
+
+  </details>
+
 
 
 
