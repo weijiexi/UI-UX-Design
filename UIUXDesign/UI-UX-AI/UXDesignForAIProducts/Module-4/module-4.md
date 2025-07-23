@@ -133,16 +133,36 @@ Effortful thinking is cognitively costly, and double checking an AI is effortful
   The example shown above depicts attention layers in action. It shows how attention is distributed across different tokens in a sentence pair ("The rabbit quickly hopped" and "The turtle slowly crawled"). The lines represent the connections between words, illustrating how attention layers focus on certain parts of the text.
 
   This technique is a no-holds-barred, direct visualization of the weights that are connecting attention layers in the underlying language model. Its intent isn't to explain to a lay user, but to visualize the algorithm's raw behavior. Due to its technical nature, this strategy is not ideal for non-technical end users.
-
   </details>
 
-
-
-
   ### Simplifying the Model
+  "A model is interpretable to the degree that **a human can predict how a change to a feature will change the model’s output** " -- Daniel Weld & Gagan Bansal, 2018
+
+  Another way to **increase user trust is to simplify the underlying AI model to a point that its behavior can be completely explained without hiding or simplifying anything**.
+  - In this case, **these models are only learning single-variable relationships**
+   ![Simplifying the Model](4.jpg "Simplifying the Model")  
+   - such as the relationship between age and pneumonia risk, or bi-variable relationships
+   - such as the risk of contracting pneumonia according to someone’s age and if they have cancer. 
+  - This results in an AI model that can explain every outcome it provides, at the expense of performance.
+
+  #### **Local Interpretable Model-agnostic Explanations (LIME) -- A simplified AI model**
+  - These models aim to explain specific decisions
+  - LIME tells you which features would have been most likely to predict a change in the outcome for this particular example.
+
+  LIME is a technique that **creates local surrogate models** to **explain individual AI decisions**. It works by:
+  - Sampling nearby data points
+  - Assigning weights based on proximity
+  - Fitting a simple (usually linear) model to explain the decision locally
+
+  Rather than showing how the model works globally, LIME helps users understand what would need to change in their input to get a different result. This empowers users to verify AI output without needing deep technical knowledge.
+
+ 
+
 
   ### Mechanistic Interpretability
 
+
   ### The Explainability Dilemma
+
 
 </details>
