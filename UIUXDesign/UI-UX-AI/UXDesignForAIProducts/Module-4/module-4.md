@@ -66,17 +66,25 @@ Effortful thinking is cognitively costly, and double checking an AI is effortful
 <details>
   <summary>Is Explainable AI a Solution to Algorithm Aversion or Overreliance?</summary>
 
-  ### **Here are a few ways in which overreliance and algorithm aversion can be mitigated**:
-  - #### **Providing Multiple Suggestions**
-  Design galleries, where **generative AI models produce multiple parallel results**, can help mitigate risks where one of the outputs might not be as good. In other words, **if the user sees that at least one option is good, they may be willing to forgive other, less correct ones**. This approach is evident in image galleries such as DALL-E.
-  - #### **Raising the Stakes**
-  One way to better calibrate over-reliance is to **make sure that the stakes are calibrated appropriately**. **Over-reliance goes down when people view the cost of an error to be higher, or the effort of verifying the AI to be lower**.
-  - #### **Explainable AI**
-  People strategically decide whether to engage with an AI explanation based on a cost-benefit framework, weighing the costs and benefits of engaging with the task against those of relying on the AI. Explainability techniques can help someone who is carefully paying attention to verify the information. 
-  
-  ### Explainability Techniques
+  Solving algorithm aversion and overreliance remains an open design challenge in HCI, as developers try to find a middle ground to avoid overreliance and algorithm.
 
-  #### **Why Do We Need Explainability in AI?**
+  ### **Here are 3 ways in which overreliance and algorithm aversion can be mitigated**:
+  #### **1. Providing Multiple Suggestions**
+  Design galleries, where **generative AI models produce multiple parallel results**, can help mitigate risks where one of the outputs might not be as good. In other words, **if the user sees that at least one option is good, they may be willing to forgive other, less correct ones**. This approach is evident in image galleries such as DALL-E.
+  #### **2. Raising the Stakes**
+  One way to better calibrate over-reliance is to **make sure that the stakes are calibrated appropriately**. **Over-reliance goes down when people view the cost of an error to be higher, or the effort of verifying the AI to be lower**.
+  #### **3. Explainable AI**
+  We can mitigate overreliance by integrating explainable AI techniques—or "XAI techniques", for those in the know—into the model, allowing the AI to explain its reasoning so people can better scrutinize its results. **This means the model would present its thought process and research to explain its suggestions or outputs**.
+
+  **To effectively scrutinize an explanation, the benefit of doing so must be increased, or the cost (effort required) must be reduced**.
+
+  People strategically decide whether to engage with **an AI explanation based on a cost-benefit framework, weighing the costs and benefits of engaging with the task against those of relying on the AI**.
+
+  **Explainability techniques can help someone who is carefully paying attention to verify the information**. 
+ 
+  ## Explainability Techniques
+
+  ### **Why Do We Need Explainability in AI?**
   AI sometimes makes strange decisions. To trust it, we want to know why it did what it did. **Explainability techniques try to answer that question in different ways**.
 
   There are a few general approaches to explanation in modern AI models. The image below provides a breakdown of these strategies by categorizing them as:
@@ -160,9 +168,16 @@ Effortful thinking is cognitively costly, and double checking an AI is effortful
 
 
   ### Mechanistic Interpretability
+  One major area of work in interpretability is what's called mechanistic interpretability, which focuses on developing techniques that explain the behavior of algorithms at a fundamental level. We saw an example of mechanistic interpretability earlier, with the visualization of the algorithm's attention weights. The reason mechanistic interpretability is important is because we should have an idea what the model is learning and if it is on the right path, rather than getting stuck or providing results for the wrong reasons, such as the example shown below.
 
+  It is crucial to remember that most machine learning models are powerful, but opaque and unintelligible. This makes them difficult to predict, design, and debug and leads to nonintuitive behavior. The following example shows how some machine learning models can misclassify adversarial examples.
 
   ### The Explainability Dilemma
+  As Weld and Bansal (2019) argue it, there is currently an intelligibility dilemma. We can try to explain a model’s behavior in a more precise and accurate way—like with mechanistic interpretability—at the cost of that explanation being unintelligible to certain audiences. Or, we can simplify the explanation so that it's more broadly understandable, but at the cost of that explanation being less true to the model’s actual analytical process. When a model provides simplified explanation to an outcome, it generally describes what influenced its decision, but it does not provide the real algorithmic calculations that made it reach its decision. However, in some cases, these more accurate explanations may even be unintelligible to the machine learning engineers who created the model.
+
+  This is a dilemma because it feels like an impossible choice: do we lie and simplify the model's explanation so that it's understandable but not quite correct, or give the full explanation even if it means almost nobody can actually follow it? This is a difficult tradeoff and research is still being conducted to learn what could be the best approach in each scenario.
+
+
 
 
 </details>
