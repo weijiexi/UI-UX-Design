@@ -1,5 +1,7 @@
 # UI/UX design for AI driven experiences
 
+[CS188 fa23: Introduction to Artificial Intelligence](https://github.com/ucb-courses/cs188-sp23?tab=readme-ov-file)
+
 - ## AI Tools and AI Agents — Useful Websites
 
 <details>
@@ -116,3 +118,9 @@
 </details>
 
 - ## UX design for AI products
+  - Quick Primer on AI and Design
+  - Centering the Human in Human-AI Interaction
+  - Prototyping AI Designs
+  - User Control vs. Automation
+  - User Trust and Explainability in AI Systems
+  - Designing Social AIs: Chatbots
