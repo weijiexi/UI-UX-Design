@@ -1,0 +1,1 @@
+# MODULE 7: Ethics and the Societal Impact of Your AI Designs
