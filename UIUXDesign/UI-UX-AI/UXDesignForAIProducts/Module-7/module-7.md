@@ -5,6 +5,13 @@ This course explores why AI developers must prioritize ethical considerations, o
 - Be able to deploy techniques for foreseeing and mitigating ethical and societal risks
 - Integrate principles based on ethical considerations into the design and development of AI-based products
 
+- **Ethics and Society Review (ESR)**; A structured, iterative process designed to evaluate the ethical and societal implications of AI projects during early stages, requiring teams to articulate risks, develop mitigation principles, and implement ethical considerations before proceeding with development or funding.  
+- **Bias and Fairness**; Ethical concerns in AI systems that arise when training data reflects historical biases, leading to discriminatory outcomes. Addressing these concerns involves auditing datasets, ensuring diverse representation, and implementing algorithms that promote equity and fairness.  
+- **Privacy and Data Security**; The ethical requirement to handle personal data responsibly, ensuring robust protections against misuse and breaches, and adhering to regulations like GDPR to safeguard individuals' privacy rights.  
+- **Transparency and Accountability**; Principles that mandate clear explanations of AI decision-making processes, enabling users to understand, challenge, and trust AI systems, particularly in impactful areas like hiring and credit scoring.  
+- **Dual Use**; The potential for AI technologies to be exploited for harmful purposes, such as surveillance or cyberattacks, requiring developers to anticipate misuse and implement safeguards to prevent malicious applications.  
+- **Black Mirror Writers Room**; A speculative fiction technique used to explore the societal and ethical implications of AI technologies by imagining dystopian scenarios, helping developers identify risks and design measures to mitigate negative outcomes.  
+
 <details>
   <summary>1. Why Do AI Products Need to Be Concerned With Ethical Issues? (Why not "I'm Just an Engineer?")</summary>
 
@@ -70,5 +77,54 @@ This course explores why AI developers must prioritize ethical considerations, o
 
 <details>
   <summary>3. Ethics and Societal Review as a Structured Process for Early-Stage Projects Integrating AI Into Interactive Software</summary>
+
+  The Ethics and Society Review (ESR) is a critical process that your organization can use to help ensure that projects are evaluated for their ethical and societal implications early on. This approach engages teams early, at a stage when their projects are still evolving, and encourages broad participation in ethical thinking rather than relying solely on self-motivated individuals.
+
+  Team in organizations that use an ESR process must submit a brief ethical and societal impact statement along with their project proposals. This statement is intended to outline the project’s potential risks to society, specific subgroups within society, and other global communities. It also details the principles that will be used to mitigate these risks and describes how these principles are integrated into the research design.
+
+  Here you can see a representation of the process:
+
+  Project proposal, alongside ESR statement, submitted to management->Review by management->ESR panel review->Recommendation from ESR to management
+
+  Feedback and iteration
+  
+  Once the organization (e.g., management) has reviewed the merit of the project and decided what to approve, staff, and resource, these projects are forwarded to the ESR for an ethics review before they launch. An interdisciplinary panel of experts at the organization then evaluates the proposed projects, focusing on the identified risks and proposed mitigation strategies in the context of the potential benefits to society. The ESR panel’s goal is not to eliminate all potential negative impacts—which can be impossible—but to collaborate with researchers to identify significant risks and develop reasonable mitigation strategies. This feedback may include articulating potential risks, developing mitigation strategies for these risks and implementing principles in your design.
+
+  #### Step #1. Articulating potential risks
+  The first step of The Ethics and Society Review (ESR) involves identifying and articulating the ethical and societal risks associated with a project. This means evaluating how the project might impact society and specific subgroups, including marginalized communities. It also includes considering potential risks to other societies around the world.
+
+  While it's common to simply identify potential risks, a truly effective analysis goes deeper. It is essential to understand the potential impact of these risks, whom they might affect, and how severe the consequences could be. By carefully considering these factors, you can create a comprehensive picture that guides you in developing strategies to address and minimize these threats.
+
+  #### Step #2. Developing principles to mitigate those risks
+  Once the risks are articulated, the next step is to define the principles that designers should follow to mitigate the identified risks. Start by evaluating which ethical principles are most relevant to your project, based on the risks outlined in the first step. Consider what guidelines or best practices are commonly used in your industry to address similar issues.
+
+  Think about how these principles can be applied practically in your project. For instance, if privacy is a concern, principles like transparency and user consent may be crucial. Develop actionable guidelines or policies that can be integrated into the design and development processes to ensure these principles are consistently applied. This helps ensure that ethical considerations are effectively addressed throughout the project.
+
+  #### Step #3. Implement principles in your design
+  The final step of The Ethics and Society Review (ESR) involves translating established ethical principles into concrete design decisions. This means implementing specific measures and features in the AI system to align with the ethical guidelines. How are you going to instantiate it? For example, if the principle is to ensure privacy, the design might include local data processing to prevent surveillance.
+
+  Similarly, if the principle is to have representative training datasets, you would actively source data from diverse demographics, audit for inclusivity, and set up processes for ongoing representation. This step requires a commitment to ethical engineering practices, including technical adjustments, user interface modifications, and policy changes. By embedding these principles into the design, developers ensure that AI systems are both effective and socially responsible.
+
+  Project leaders respond to the feedback through written responses or in-person discussions, which include their answers to the panel’s feedback and any new plans for managing risks. Once the ESR review is complete and feedback is addressed, the panel sends its final recommendation to the organization. The organization then gives the team the green light to proceed. This process ensures that ethical and societal issues are considered early on, making sure that projects align with societal values and expectations.
+
+  The European Union also provides guidance on ethics self-assessments, stressing the importance of addressing ethical issues from the beginning of the proposal process. It recommends involving ethics advisors for projects with significant ethical concerns, which supports the ESR process and emphasizes the need for ongoing ethical review throughout the research.
+
+  At institutions like Stanford, we use the ESR process for all projects funded by the Stanford Institute for Human-Centered Artificial Intelligence. In our case, researchers are required to identify potential risks, articulate ethical principles, and outline mitigation strategies early in their project planning. These plans undergo rigorous review by a panel of experts from engineering, medicine, the humanities, and social sciences, ensuring that research projects are built on a solid ethical foundation before they proceed.
+
+  In the context of AI and other fields, common ethical considerations include:
+  - **Potential harms** - Identifying groups that might be negatively impacted by the technology
+  - **Inclusive design** - Ensuring that all relevant stakeholders are considered and involved
+  - **Dual use** - Assessing the potential for misuse by malicious actors
+  - **Data bias** - Evaluating the representativeness of the data used to train the AI system
+
+  ### Case Study: Ethics and Society Review
+  In a recent project that bridged engineering design and medicine, a team developed stress-sensing technology aimed at helping individuals manage workplace stress. The project involved creating tools, such as sensors embedded in keyboards and watches, to monitor and assess stress levels, to enhance employee well-being.
+
+  During the project’s development, the team identified a significant ethical risk: the potential misuse of their technology for employee surveillance rather than its intended purpose of stress management. Recognizing this risk was crucial, but the team needed to address it more comprehensively.
+
+  The Ethics and Society Review (ESR) process prompted the team to delve deeper into how to address this concern. They were encouraged to define a guiding principle that would safeguard against the misuse of their technology. The principle they established was that all data collection and processing should be conducted to preserve user privacy. Specifically, they decided that data would be processed locally on the user’s device—such as a smartphone—rather than being sent to a server where it could potentially be accessed by employers.
+
+  To implement this principle, the team ensured that their technology was designed to handle all data on the device itself, thus preventing any direct surveillance by employers. This design choice was not only a technical decision but also a commitment to ethical standards. Furthermore, the team made it a point to clearly communicate this privacy-preserving approach in their public statements and discussions about the project. By doing so, they reinforced their commitment to ethical practices and ensured transparency regarding the safeguarding measures incorporated into their technology.
+
 
 </details>
