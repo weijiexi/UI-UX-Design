@@ -1,7 +1,8 @@
 # UI/UX design for AI driven experiences
 
 - [CS188 fa23: Introduction to Artificial Intelligence](https://github.com/ucb-courses/cs188-sp23?tab=readme-ov-file)
-- [UI/UX Design for AI Products course canvs](https://stanfordonline.global-alumni.com/courses/13217?invitation=GR7oTX7SveLmRbh1Hnir6bfYyPvRSetk2Ow1yibG)
+- [UI/UX Design for AI Products course](https://stanfordonline.global-alumni.com/courses/13217?invitation=GR7oTX7SveLmRbh1Hnir6bfYyPvRSetk2Ow1yibG)
+- [AI in Production: Gen AI and Agentic AI at scale](https://github.com/ucb-courses/cs188-sp23/blob/main/contents/LLM_Engineering/AI_in_Production/Readme.md)
 
 - ## AI Tools and AI Agents — Useful Websites
 
