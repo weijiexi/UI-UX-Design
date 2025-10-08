@@ -12,10 +12,11 @@
 - Think of how these might be solved using principles mentioned in Module 2, such as intelligence augmentation. 
 - You can use these sample interview questions as a starting point, but feel free to tailor them or ask additional questions that better suit your specific case.
 
+#### MuseMind — A Poetic AI Tool for Artists
 - Problem Statement
 - Brief Pitch of the Concept
 - User painpoints when struggling to find the right words in a conversation
-- Problem Identification and Research
+- **Problem Identification and Research**
   - Problem Statement
   - Pain Points from Interviews
   - Research Findings

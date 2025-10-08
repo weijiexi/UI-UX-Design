@@ -3,8 +3,6 @@
 <details>
   <summary>1. Propose a Design Concept for an AI-Powered Interactive Product</summary>
 
-This assignment is mandatory and will therefore be evaluated as part of your final grade. This assignment must be completed individually. 
-
 ### Instructions:
 - Identify a specific human need or gap and imagine an AI product that can address it.
 - Describe what the product would look like if it were designed to completely replace human effort, and explain why this design might be rejected or fail.
@@ -13,8 +11,6 @@ This assignment is mandatory and will therefore be evaluated as part of your fin
 
 <details>
   <summary>2. Prototyping with AI</summary>
-
-This assignment is mandatory and will therefore be evaluated as part of your final grade. This assignment must be completed individually. 
 
 ### Instructions:
 - In this activity, you will explore how AI can assist with a specific task in your organization by using a large language model (LLM) like ChatGPT.
