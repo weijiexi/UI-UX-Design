@@ -1,6 +1,7 @@
 # UX design for AI products
 - [UI/UX Design for AI Products course canvs](https://stanfordonline.global-alumni.com/courses/13217?invitation=GR7oTX7SveLmRbh1Hnir6bfYyPvRSetk2Ow1yibG)
 - [Certificate of Achievement in UI/UX Design for AI Products](https://digitalcredential.stanford.edu/check/6AF7D903D42FAA38CE35BF077FB9A7CBAC01B56D5F0028C7066DDB34682F588BLzNXOFlDVG50cytKRlhzUk83RGQ0SWJMRzBNSWUrdmZzWUtYYXhKeDREVGwxaHRP)
+- [UI/UX Design for AI Products - Rongjun note](https://github.com/ucb-courses/cs188-sp23/blob/ai_in_production/contents/LLM_Engineering/UI_UX_Design_for_AI_Products/Readme.md)
 
 By the end of the course, you will be able to:
 
