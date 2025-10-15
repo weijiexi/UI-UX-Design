@@ -30,7 +30,7 @@ A wireframe is a low-fidelity sketch or layout of a page that shows structure an
 
 ### 4. Mockup
 A mockup is a high-fidelity static representation of the design, including visual elements like colors, typography, and branding.
-- Shows what the final design will look like.
+- Shows what the final dehttps://www.linkedin.com/in/wxi76/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAAEQWyLwBHZBbQw9zYcy9FAAodp1JBg0DkOU%2C2750976872%29&trackingId=e%2Fe7eFeMTFeWLkNkBTeQTQ%3D%3D&desktopBackground=MAIN_PROFILEsign will look like.
 - Great for client approvals and presentations.
 - Tools: Figma, Sketch, Adobe XD
 
